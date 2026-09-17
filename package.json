@@ -1,0 +1,22 @@
+{
+  "name": "infectoped",
+  "version": "1.0.0",
+  "description": "Sitio de difusion de evidencia en enfermedades infecciosas pediatricas. Publicacion automatizada cada 4 dias.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "buscar": "node scripts/buscar.mjs",
+    "resumir": "node scripts/resumir.mjs",
+    "infografias": "node scripts/infografia.mjs",
+    "construir": "node scripts/construir.mjs",
+    "build": "node scripts/construir.mjs",
+    "servir": "node scripts/servir.mjs",
+    "edicion": "npm run buscar && npm run resumir && npm run infografias && npm run construir"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}

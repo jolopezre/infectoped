@@ -1,0 +1,20 @@
+{
+  "nombre": "INFECTOPED",
+  "lema": "Evidencia en enfermedades infecciosas pediátricas, cada cuatro días",
+  "descripcion": "Difusión de evidencia en enfermedades infecciosas pediátricas: cada cuatro días publicamos dos artículos relevantes con una infografía y cinco puntos clave accionables para la práctica clínica.",
+  "url": "https://infectoped.netlify.app",
+  "idioma": "es",
+  "autor": "José López",
+  "correo": "hockstar34@gmail.com",
+  "analitica": "",
+  "colores": {
+    "tinta": "#0A2540",
+    "acento": "#1B7FA8",
+    "acento2": "#E4572E",
+    "arena": "#F2F6F9",
+    "gris": "#546678"
+  },
+  "articulosPorPagina": 12,
+  "maximoPorSemana": 2,
+  "cadenciaDias": 4
+}

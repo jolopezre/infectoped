@@ -1,0 +1,77 @@
+{
+  "id": "2026-09-17-ejemplo-duracion-antibiotica-neumonia-pediatrica",
+  "estado": "publicado",
+  "_nota": "ARTÍCULO DE EJEMPLO. Bórralo tras la primera ejecución real del flujo.",
+  "pmid": "00000000",
+  "doi": "",
+  "titulo": "Short-course versus standard-course antibiotic therapy for community-acquired pneumonia in children: a systematic review",
+  "tituloEs": "Tratamiento antibiótico corto en neumonía adquirida en la comunidad en niños: revisión sistemática",
+  "revista": "The Pediatric Infectious Disease Journal",
+  "autores": [
+    "Ejemplo A",
+    "Ejemplo B",
+    "Ejemplo C"
+  ],
+  "fechaPublicacion": "2026 Sep 12",
+  "tiposPublicacion": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/",
+  "resumenOriginal": "Texto de ejemplo del resumen original del artículo.",
+  "mesh": [
+    "Community-Acquired Infections",
+    "Pneumonia",
+    "Anti-Bacterial Agents",
+    "Child"
+  ],
+  "palabrasClave": [
+    "neumonía",
+    "duración del tratamiento",
+    "pediatría"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Infecciones respiratorias"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-17",
+  "publicadoEl": "2026-09-17",
+  "disenoEstudio": "Revisión sistemática de ensayos aleatorizados en niños con neumonía ambulatoria",
+  "nivelEvidencia": "alto",
+  "sintesis": "Revisión sistemática de ensayos aleatorizados que compara esquemas antibióticos cortos frente a los convencionales en niños con neumonía adquirida en la comunidad manejados de forma ambulatoria. Los esquemas cortos alcanzaron tasas de curación clínica comparables, sin aumento de fracaso terapéutico ni de reingresos.",
+  "tips": [
+    {
+      "titulo": "Reevaluar al tercer día",
+      "texto": "En el niño ambulatorio que mejora, la reevaluación temprana permite decidir suspensión en vez de completar el esquema por inercia."
+    },
+    {
+      "titulo": "Definir el criterio de curación",
+      "texto": "Registrar afebrilidad sostenida, tolerancia oral y disminución del trabajo respiratorio antes de considerar la suspensión. Sin criterio explícito, la decisión queda al azar."
+    },
+    {
+      "titulo": "Distinguir ambulatorio de hospitalizado",
+      "texto": "La evidencia proviene de niños manejados en consulta externa. No extrapolar a neumonía complicada, derrame o comorbilidad significativa."
+    },
+    {
+      "titulo": "Documentar la duración prevista",
+      "texto": "Anotar en la indicación la fecha de término y el criterio de reevaluación. La duración indefinida es la principal fuente de exposición innecesaria."
+    },
+    {
+      "titulo": "Acordar el plan con la familia",
+      "texto": "Explicar que un esquema más corto no significa tratamiento incompleto, y precisar qué signos obligan a volver antes de la cita de control."
+    }
+  ],
+  "aplicacionDocente": "En la próxima consulta de control por neumonía ambulatoria, pregunte al residente qué criterio usará para suspender el antibiótico y en qué día reevaluará. Convierta la duración en una decisión explícita y registrada, no en un valor por defecto del recetario.",
+  "fraseInfografia": "Los esquemas cortos igualan la curación en neumonía ambulatoria del niño",
+  "etiquetas": [
+    "neumonía",
+    "duración del tratamiento",
+    "uso prudente de antimicrobianos",
+    "pediatría ambulatoria"
+  ],
+  "advertencia": "Revisión de estudios en manejo ambulatorio; no aplica a neumonía complicada, derrame pleural ni pacientes hospitalizados o inmunocomprometidos.",
+  "generadoPor": "ejemplo-manual",
+  "infografia": "/img/infografias/2026-09-17-ejemplo-duracion-antibiotica-neumonia-pediatrica.png"
+}

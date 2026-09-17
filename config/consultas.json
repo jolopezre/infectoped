@@ -1,0 +1,77 @@
+{
+  "_comentario": "Lineas de busqueda en PubMed sobre enfermedades infecciosas pediatricas. 'peso' ordena la prioridad cuando hay mas candidatos que 'maximoPorSemana'.",
+  "ventanaDias": 6,
+  "consultas": [
+    {
+      "id": "antimicrobianos-pediatria",
+      "etiqueta": "Antimicrobianos y PROA",
+      "peso": 10,
+      "termino": "(antimicrobial[Title/Abstract] OR antibiotic*[Title/Abstract] OR antifungal*[Title/Abstract] OR \"stewardship\"[Title/Abstract] OR \"de-escalation\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR neonat*[Title/Abstract] OR infant*[Title/Abstract])"
+    },
+    {
+      "id": "resistencia-pediatrica",
+      "etiqueta": "Resistencia antimicrobiana",
+      "peso": 10,
+      "termino": "(\"antimicrobial resistance\"[Title/Abstract] OR \"multidrug-resistant\"[Title/Abstract] OR carbapenem*[Title/Abstract] OR \"extended-spectrum beta-lactamase\"[Title/Abstract] OR MRSA[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR neonat*[Title/Abstract])"
+    },
+    {
+      "id": "sepsis-neonatal",
+      "etiqueta": "Sepsis y cuidado crítico",
+      "peso": 9,
+      "termino": "(sepsis[Title/Abstract] OR bacteremia[Title/Abstract] OR \"septic shock\"[Title/Abstract] OR \"bloodstream infection*\"[Title/Abstract]) AND (neonat*[Title/Abstract] OR pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract])"
+    },
+    {
+      "id": "respiratorias-pediatricas",
+      "etiqueta": "Infecciones respiratorias",
+      "peso": 8,
+      "termino": "(pneumonia[Title/Abstract] OR bronchiolitis[Title/Abstract] OR \"respiratory syncytial virus\"[Title/Abstract] OR influenza[Title/Abstract] OR pertussis[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR infant*[Title/Abstract])"
+    },
+    {
+      "id": "vacunas-pediatricas",
+      "etiqueta": "Vacunas e inmunización",
+      "peso": 8,
+      "termino": "(vaccin*[Title/Abstract] OR immuni*[Title/Abstract] OR \"vaccine hesitancy\"[Title/Abstract] OR \"immunization schedule\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR infant*[Title/Abstract] OR adolescent*[Title/Abstract])"
+    },
+    {
+      "id": "tropicales-pediatricas",
+      "etiqueta": "Infecciones tropicales",
+      "peso": 8,
+      "termino": "(dengue[Title/Abstract] OR malaria[Title/Abstract] OR leptospir*[Title/Abstract] OR arbovirus*[Title/Abstract] OR chikungunya[Title/Abstract] OR zika[Title/Abstract] OR \"Chagas\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract])"
+    },
+    {
+      "id": "tuberculosis-vih-pediatrico",
+      "etiqueta": "Tuberculosis y VIH",
+      "peso": 9,
+      "termino": "(tuberculosis[Title/Abstract] OR \"latent TB\"[Title/Abstract] OR HIV[Title/Abstract] OR \"antiretroviral\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR adolescent*[Title/Abstract])"
+    },
+    {
+      "id": "diagnostico-infeccioso",
+      "etiqueta": "Diagnóstico microbiológico",
+      "peso": 7,
+      "termino": "(\"rapid diagnostic*\"[Title/Abstract] OR \"molecular diagnostic*\"[Title/Abstract] OR \"point-of-care test*\"[Title/Abstract] OR biomarker*[Title/Abstract] OR procalcitonin[Title/Abstract] OR \"blood culture*\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR child*[Title/Abstract] OR neonat*[Title/Abstract]) AND (infect*[Title/Abstract] OR sepsis[Title/Abstract])"
+    },
+    {
+      "id": "iaas-pediatricas",
+      "etiqueta": "Infecciones asociadas a la atención",
+      "peso": 7,
+      "termino": "(\"healthcare-associated infection*\"[Title/Abstract] OR \"nosocomial\"[Title/Abstract] OR \"catheter-related\"[Title/Abstract] OR \"ventilator-associated\"[Title/Abstract] OR \"infection control\"[Title/Abstract]) AND (pediatric*[Title/Abstract] OR paediatric*[Title/Abstract] OR neonat*[Title/Abstract] OR child*[Title/Abstract])"
+    }
+  ],
+  "filtros": {
+    "tiposPublicacionPreferidos": [
+      "Systematic Review", "Meta-Analysis", "Randomized Controlled Trial",
+      "Practice Guideline", "Review", "Journal Article", "Multicenter Study"
+    ],
+    "excluirTipos": ["Retracted Publication", "Comment", "Published Erratum"],
+    "revistasDestacadas": [
+      "The Pediatric Infectious Disease Journal", "Journal of the Pediatric Infectious Diseases Society",
+      "Pediatrics", "JAMA Pediatrics", "The Lancet Infectious Diseases", "Clinical Infectious Diseases",
+      "The Lancet Child & Adolescent Health", "Archives of Disease in Childhood", "Pediatric Critical Care Medicine",
+      "Antimicrobial Agents and Chemotherapy", "Journal of Antimicrobial Chemotherapy", "Emerging Infectious Diseases",
+      "PLOS Neglected Tropical Diseases", "Revista Chilena de Infectología", "Revista Peruana de Medicina Experimental y Salud Publica",
+      "Anales de Pediatría", "BMC Infectious Diseases", "Pediatric Research"
+    ],
+    "requiereResumen": true,
+    "minimoPalabrasResumen": 120
+  }
+}

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Infografía INFECTOPED</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ── Plantilla de infografía 1080 × 1350 (formato vertical para redes) ──
+     Edita libremente colores, tipografías y disposición: el script
+     scripts/infografia.mjs solo inyecta los datos del artículo.       */
+  :root{
+    --tinta:#0A2540; --acento:#1B7FA8; --acento2:#E4572E;
+    --arena:#F2F6F9; --gris:#546678; --linea:#DCE6EF;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{width:1080px;height:1350px;background:var(--arena);
+       font-family:Inter,system-ui,sans-serif;color:var(--tinta);
+       display:flex;flex-direction:column;overflow:hidden}
+
+  .cabecera{background:var(--tinta);color:#fff;padding:44px 56px 38px;position:relative}
+  .cabecera::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;
+       background:linear-gradient(90deg,var(--acento) 0 60%,var(--acento2) 60% 100%)}
+  .marca{display:flex;align-items:center;justify-content:space-between;
+       font-size:19px;letter-spacing:.22em;text-transform:uppercase;font-weight:600;opacity:.85}
+  .marca .semana{opacity:.65;letter-spacing:.12em}
+  .tema{display:inline-block;margin-top:26px;padding:7px 16px;border-radius:999px;
+       background:var(--acento);font-size:19px;font-weight:600;letter-spacing:.02em}
+  h1{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:52px;line-height:1.12;
+       margin-top:20px;letter-spacing:-.015em}
+  h1.corto{font-size:60px}
+  h1.largo{font-size:44px}
+
+  .lista{flex:1;padding:38px 56px 0;display:flex;flex-direction:column;gap:20px}
+  .tip{display:grid;grid-template-columns:66px 1fr;gap:22px;align-items:start;
+       background:#fff;border:1px solid var(--linea);border-radius:18px;padding:22px 24px}
+  .num{width:66px;height:66px;border-radius:16px;background:var(--arena);
+       border:2px solid var(--acento);color:var(--acento);
+       font-family:Fraunces,Georgia,serif;font-weight:700;font-size:34px;
+       display:flex;align-items:center;justify-content:center}
+  .tip h2{font-size:26px;font-weight:700;line-height:1.2;margin-bottom:7px;letter-spacing:-.01em}
+  .tip p{font-size:22px;line-height:1.42;color:var(--gris)}
+
+  .pie{margin-top:auto;padding:28px 56px 34px;border-top:1px solid var(--linea);
+       display:flex;justify-content:space-between;align-items:flex-end;gap:32px}
+  .fuente{font-size:18px;line-height:1.45;color:var(--gris);max-width:660px}
+  .fuente strong{color:var(--tinta);font-weight:600}
+  .sello{text-align:right;flex-shrink:0}
+  .sello .nivel{font-size:15px;text-transform:uppercase;letter-spacing:.16em;color:var(--acento2);font-weight:700}
+  .sello .sitio{font-size:19px;font-weight:700;color:var(--tinta);margin-top:6px}
+</style>
+</head>
+<body>
+  <header class="cabecera">
+    <div class="marca"><span>INFECTOPED</span><span class="semana" id="semana"></span></div>
+    <span class="tema" id="tema"></span>
+    <h1 id="titulo"></h1>
+  </header>
+
+  <main class="lista" id="lista"></main>
+
+  <footer class="pie">
+    <div class="fuente" id="fuente"></div>
+    <div class="sello">
+      <div class="nivel" id="nivel"></div>
+      <div class="sitio" id="sitio"></div>
+    </div>
+  </footer>
+
+<script>
+  const D = __DATOS__;
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+  $('semana').textContent = D.semana || '';
+  $('tema').textContent = D.tema || 'Infectología pediátrica';
+  $('sitio').textContent = D.sitio || 'infectoped.netlify.app';
+  $('nivel').textContent = 'Evidencia: ' + (D.nivelEvidencia || '');
+
+  const t = D.titulo || '';
+  const h1 = $('titulo');
+  h1.textContent = t;
+  h1.className = t.length < 55 ? 'corto' : t.length > 95 ? 'largo' : '';
+
+  $('lista').innerHTML = (D.tips || []).map((tip, i) => `
+    <article class="tip">
+      <div class="num">${i + 1}</div>
+      <div><h2>${esc(tip.titulo)}</h2><p>${esc(tip.texto)}</p></div>
+    </article>`).join('');
+
+  $('fuente').innerHTML =
+    `<strong>${esc(D.revista)}</strong> · ${esc(D.fechaPublicacion)}<br>` +
+    `${esc((D.autores || []).slice(0, 3).join(', '))}${(D.autores || []).length > 3 ? ' et al.' : ''}` +
+    (D.pmid ? ` · PMID ${esc(D.pmid)}` : '');
+
+  // Ajuste automático: si el contenido desborda, reduce escalonadamente.
+  (function ajustar() {
+    const cuerpo = document.body;
+    let paso = 0;
+    while (cuerpo.scrollHeight > 1350 && paso < 12) {
+      paso++;
+      document.querySelectorAll('.tip p').forEach(p => p.style.fontSize = (22 - paso * 0.7) + 'px');
+      document.querySelectorAll('.tip h2').forEach(p => p.style.fontSize = (26 - paso * 0.5) + 'px');
+      document.querySelectorAll('.tip').forEach(p => p.style.padding = (22 - paso) + 'px 24px');
+      $('lista').style.gap = Math.max(8, 20 - paso * 1.2) + 'px';
+      h1.style.fontSize = (parseFloat(getComputedStyle(h1).fontSize) - 1.5) + 'px';
+    }
+    document.documentElement.dataset.listo = '1';
+  })();
+</script>
+</body>
+</html>

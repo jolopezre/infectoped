@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────────────────────
+#  INFECTOPED — configuracion de despliegue en Netlify
+# ─────────────────────────────────────────────────────────────
+
+[build]
+  command = "npm run construir"
+  publish = "sitio"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Playwright NO se instala en Netlify: las infografias se generan
+  # en GitHub Actions y se versionan en el repositorio.
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD = "1"
+
+# Cabeceras de seguridad y cache
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Redirecciones utiles
+[[redirects]]
+  from = "/rss"
+  to = "/feed.xml"
+  status = 301
+
+[[redirects]]
+  from = "/articulos/*"
+  to = "/articulo/:splat"
+  status = 301
+
+# 404 personalizado
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
