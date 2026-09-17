@@ -1,0 +1,88 @@
+name: Publicación cada 4 días
+
+on:
+  schedule:
+    # Días 1, 5, 9, 13, 17, 21, 25 y 29 de cada mes a las 11:23 UTC (06:23 Lima).
+    # Se evita el minuto 0 porque GitHub retrasa o descarta las tareas
+    # programadas en el pico de cada hora. En el cambio de mes el intervalo
+    # puede ser de 2 a 3 dias en vez de 4.
+    - cron: '23 11 */4 * *'
+  workflow_dispatch:
+    inputs:
+      maximo:
+        description: 'Número máximo de artículos a publicar'
+        required: false
+        default: '2'
+      ventana:
+        description: 'Ventana de búsqueda en días'
+        required: false
+        default: '6'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicacion-infectoped
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependencias
+        run: npm install
+      - name: Instalar Chromium para Playwright
+        run: npx playwright install --with-deps chromium
+      - name: Buscar articulos en PubMed
+        env:
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          MAXIMO_SEMANAL: ${{ github.event.inputs.maximo || '2' }}
+          VENTANA_DIAS: ${{ github.event.inputs.ventana || '6' }}
+        run: npm run buscar
+      - name: Redactar los 5 puntos clave
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
+          MODELO_IA: ${{ vars.MODELO_IA || 'claude-sonnet-4-5' }}
+        run: npm run resumir
+      - name: Generar infografias
+        run: npm run infografias
+      - name: Verificar que el sitio construye
+        env:
+          SITIO_URL: ${{ vars.SITIO_URL }}
+        run: npm run construir
+      - name: Guardar los cambios en el repositorio
+        run: |
+          git config user.name "infectoped-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add contenido/articulos publico/img/infografias
+          if git diff --staged --quiet; then
+            echo "Sin articulos nuevos en esta edicion."
+          else
+            git commit -m "Edicion $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+      - name: Resumen y aviso de fallos
+        run: |
+          total=$(ls contenido/articulos/*.json 2>/dev/null | wc -l)
+          pend=$(grep -l '"estado": "pendiente"' contenido/articulos/*.json 2>/dev/null | wc -l)
+          img=$(ls publico/img/infografias/*.png 2>/dev/null | wc -l)
+          {
+            echo "### Edicion INFECTOPED"
+            echo "- Articulos en el archivo: $total"
+            echo "- Infografias: $img"
+            echo "- Sin redactar: $pend"
+          } >> $GITHUB_STEP_SUMMARY
+          if [ "$pend" -gt 0 ]; then
+            echo "::error::Quedaron $pend articulos sin redactar. Revisa el paso 'Redactar los 5 puntos clave' (saldo de la API, clave o workspace)."
+            exit 1
+          fi
+
