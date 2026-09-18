@@ -50,7 +50,8 @@ jobs:
       - name: Redactar los 5 puntos clave
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
+          # El workspace puede estar guardado como secreto o como variable.
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID || vars.ANTHROPIC_WORKSPACE_ID }}
           MODELO_IA: ${{ vars.MODELO_IA || 'claude-sonnet-4-5' }}
         run: npm run resumir
       - name: Generar infografias
@@ -85,4 +86,3 @@ jobs:
             echo "::error::Quedaron $pend articulos sin redactar. Revisa el paso 'Redactar los 5 puntos clave' (saldo de la API, clave o workspace)."
             exit 1
           fi
-
