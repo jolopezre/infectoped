@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-18-impact-of-identifying-macrolide-resistance-associated-mutations-at-the-time-of-d",
+  "estado": "pendiente",
+  "pmid": "42745226",
+  "doi": "10.1097/INF.0000000000005413",
+  "titulo": "Impact of Identifying Macrolide Resistance-associated Mutations at the Time of Diagnosis on the Clinical Management of Pediatric Mycoplasma pneumoniae Infection",
+  "tituloEs": null,
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Muta H"
+  ],
+  "fechaPublicacion": "2026 Sep 16",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42745226/",
+  "resumenOriginal": "Background: Rapid identification of macrolide resistance-associated mutations (MRMs) in Mycoplasma pneumoniae (MP) may facilitate antimicrobial selection, but its impact on clinical outcomes remains unclear. We evaluated the clinical impact of rapid MRM detection in children with MP infection.\n\nMethods: We conducted an outpatient single-center retrospective observational study of children diagnosed with MP infection between July 2024 and December 2025. Patients were classified into a Smart Gene Myco (SG) group, which provided MRM information, and a non-SG group tested by methods that did not provide resistance information. The primary outcome was the time from diagnosis to defervescence. The secondary outcomes included total fever duration, revisits within 14 days, revisit frequency and hospitalization.\n\nResults: A total of 216 patients were included (SG, n = 158; non-SG, n = 58). MRMs were detected in 46.8% of the SG-tested patients. The initial antimicrobial selection differed significantly between the groups. The restricted mean time to defervescence up to day 5 was 0.98 days in the SG group and 1.16 days in the non-SG group (difference, -0.18 days; 95% confidence interval, -0.45 to 0.09; P = 0.186). However, the SG group had significantly fewer revisits within 14 days. Multivariable Poisson regression confirmed a lower revisit frequency in the SG group (incidence rate ratio for SG vs. non-SG, 0.55; 95% confidence interval, 0.30-0.77; P < 0.001).\n\nConclusions: Rapid identification of MRMs was not associated with significantly faster defervescence but was associated with a substantial reduction in the revisit burden. Rapid resistance testing may improve the efficiency of outpatient management of pediatric MP infections.",
+  "mesh": [],
+  "palabrasClave": [
+    "children",
+    "macrolide resistance",
+    "outpatient care",
+    "point-of-care testing"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 28.5,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-18",
+  "publicadoEl": "2026-09-18",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}
