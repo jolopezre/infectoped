@@ -4,7 +4,22 @@ import { esperar, log } from './util.mjs';
 const URL_API = 'https://api.anthropic.com/v1/messages';
 const MODELO = process.env.MODELO_IA || 'claude-sonnet-4-5';
 
-export function hayClave() { return Boolean(process.env.ANTHROPIC_API_KEY); }
+export function hayClave() {
+  return Boolean(process.env.ANTHROPIC_API_KEY);
+}
+
+function cabeceras(clave) {
+  const h = {
+    'content-type': 'application/json',
+    'x-api-key': clave,
+    'anthropic-version': '2023-06-01',
+  };
+  // Las claves ligadas a una identidad exigen indicar el workspace.
+  if (process.env.ANTHROPIC_WORKSPACE_ID) {
+    h['anthropic-workspace-id'] = process.env.ANTHROPIC_WORKSPACE_ID;
+  }
+  return h;
+}
 
 export async function pedirJSON({ sistema, mensaje, maxTokens = 1600 }) {
   const clave = process.env.ANTHROPIC_API_KEY;
@@ -14,11 +29,7 @@ export async function pedirJSON({ sistema, mensaje, maxTokens = 1600 }) {
     try {
       const res = await fetch(URL_API, {
         method: 'POST',
-        headers: {
-          'content-type': 'application/json',
-          'x-api-key': clave,
-          'anthropic-version': '2023-06-01',
-        },
+        headers: cabeceras(clave),
         body: JSON.stringify({
           model: MODELO,
           max_tokens: maxTokens,
