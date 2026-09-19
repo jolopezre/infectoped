@@ -1,10 +1,10 @@
 {
   "id": "2026-09-18-black-pleural-effusion-as-a-rare-presentation-of-serotype-3-pneumococcal-empyema",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42754256",
   "doi": "10.1542/peds.2026-076071",
   "titulo": "Black Pleural Effusion as a Rare Presentation of Serotype 3 Pneumococcal Empyema",
-  "tituloEs": null,
+  "tituloEs": "Derrame pleural negro: presentación inusual de empiema neumocócico por serotipo 3",
   "revista": "Pediatrics",
   "autores": [
     "Grammeniatis V",
@@ -29,8 +29,41 @@
   "semana": "2026-S38",
   "descubiertoEl": "2026-09-18",
   "publicadoEl": "2026-09-18",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Ampliar diagnóstico diferencial",
+      "texto": "Un derrame pleural de aspecto negro en pediatría no solo sugiere fístula pancreaticopleural o malignidad; el empiema bacteriano puede presentarse así, incluso en niños vacunados."
+    },
+    {
+      "titulo": "Solicitar estudios microbiológicos",
+      "texto": "Ante líquido pleural de aspecto inusual, considerar multiplex PCR para identificar patógenos bacterianos, incluido neumococo, aun con antecedente de vacunación completa."
+    },
+    {
+      "titulo": "Serotipo 3 y enfermedad invasiva",
+      "texto": "El serotipo 3 de neumococo se asocia con presentaciones graves y complicaciones, a pesar de estar incluido en vacunas conjugadas. Mantener alto índice de sospecha."
+    },
+    {
+      "titulo": "Fibrinólisis intrapleural precoz",
+      "texto": "En empiemas complicados con loculaciones o drenaje insuficiente, la fibrinólisis intrapleural puede reducir estancia hospitalaria y evitar cirugía. Considerar su uso temprano."
+    },
+    {
+      "titulo": "Descartar causas no infecciosas",
+      "texto": "El aspecto negro del derrame obliga a descartar patología pancreática, hemorragia y malignidad antes de atribuirlo exclusivamente a infección bacteriana."
+    }
+  ],
+  "sintesis": "Un niño de 6 años previamente sano, con esquema de vacunación completo, presentó neumonía grave con derrame pleural de aspecto negro. La reacción en cadena de la polimerasa confirmó Streptococcus pneumoniae serotipo 3. Respondió favorablemente a drenaje torácico, fibrinólisis intrapleural y antibioticoterapia.",
+  "aplicacionDocente": "En la discusión de casos con residentes, este reporte ilustra que la apariencia macroscópica del líquido pleural no siempre predice la causa subyacente. Conviene solicitar estudios moleculares amplios y revisar la cobertura de vacunas conjugadas antineumocócicas, recordando que ciertos serotipos pueden causar enfermedad invasiva grave a pesar de la inmunización.",
+  "infografia": "/img/infografias/2026-09-18-black-pleural-effusion-as-a-rare-presentation-of-serotype-3-pneumococcal-empyema.png",
+  "disenoEstudio": "Reporte de caso único en niño de 6 años con empiema neumocócico complicado",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Derrame pleural negro: el empiema neumocócico también puede presentarse así en niños",
+  "etiquetas": [
+    "empiema",
+    "neumococo",
+    "derrame pleural",
+    "fibrinólisis intrapleural",
+    "serotipo 3"
+  ],
+  "advertencia": "Reporte de caso único; no permite establecer frecuencia ni predictores de esta presentación inusual en empiemas neumocócicos pediátricos.",
+  "generadoPor": "claude-sonnet-4-5"
 }

@@ -1,10 +1,10 @@
 {
   "id": "2026-09-18-impact-of-identifying-macrolide-resistance-associated-mutations-at-the-time-of-d",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42745226",
   "doi": "10.1097/INF.0000000000005413",
   "titulo": "Impact of Identifying Macrolide Resistance-associated Mutations at the Time of Diagnosis on the Clinical Management of Pediatric Mycoplasma pneumoniae Infection",
-  "tituloEs": null,
+  "tituloEs": "Detección rápida de resistencia a macrólidos en Mycoplasma pneumoniae reduce reconsultas pediátricas",
   "revista": "The Pediatric infectious disease journal",
   "autores": [
     "Muta H"
@@ -30,8 +30,41 @@
   "semana": "2026-S38",
   "descubiertoEl": "2026-09-18",
   "publicadoEl": "2026-09-18",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Solicitar detección de resistencia",
+      "texto": "Considerar métodos diagnósticos que identifiquen mutaciones de resistencia a macrólidos al momento del diagnóstico de M. pneumoniae, especialmente en zonas con resistencia documentada."
+    },
+    {
+      "titulo": "Resistencia frecuente en esta serie",
+      "texto": "Casi la mitad (46,8%) de los casos estudiados presentó mutaciones de resistencia a macrólidos, lo que subraya la necesidad de vigilancia local y ajuste terapéutico."
+    },
+    {
+      "titulo": "Reducción de reconsultas",
+      "texto": "La detección rápida de resistencia permitió reducir a la mitad la frecuencia de reconsultas en dos semanas (razón de tasa 0,55), optimizando el seguimiento ambulatorio."
+    },
+    {
+      "titulo": "Sin impacto en defervescencia inmediata",
+      "texto": "El tiempo hasta la defervescencia fue similar entre grupos, lo que sugiere que el beneficio principal reside en la selección antimicrobiana racional y la reducción de visitas innecesarias."
+    },
+    {
+      "titulo": "Eficiencia en atención ambulatoria",
+      "texto": "Este enfoque puede mejorar la eficiencia del manejo ambulatorio al evitar cambios empíricos de antibiótico y visitas de seguimiento por falta de respuesta."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 216 niños ambulatorios con infección por Mycoplasma pneumoniae evaluó el impacto clínico de la detección rápida de mutaciones de resistencia a macrólidos. La identificación precoz no aceleró la defervescencia, pero redujo significativamente la frecuencia de reconsultas en 14 días.",
+  "aplicacionDocente": "Durante la discusión de casos de neumonía atípica, resaltar que la detección rápida de resistencia no acelera la mejoría clínica inmediata, pero optimiza el seguimiento y reduce la carga asistencial. Enseñar a interpretar resultados de resistencia molecular y su impacto en la eficiencia de la atención ambulatoria.",
+  "infografia": "/img/infografias/2026-09-18-impact-of-identifying-macrolide-resistance-associated-mutations-at-the-time-of-d.png",
+  "disenoEstudio": "Estudio observacional retrospectivo en 216 niños con diagnóstico de infección por M. pneumoniae atendidos ambulatoriamente",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Detección rápida de resistencia a macrólidos: menos reconsultas, manejo más eficiente",
+  "etiquetas": [
+    "mycoplasma pneumoniae",
+    "resistencia antimicrobiana",
+    "macrólidos",
+    "diagnóstico molecular",
+    "atención ambulatoria"
+  ],
+  "advertencia": "Estudio retrospectivo de un solo centro con período de inclusión reciente; la prevalencia de resistencia y el impacto clínico pueden variar según la región geográfica.",
+  "generadoPor": "claude-sonnet-4-5"
 }
