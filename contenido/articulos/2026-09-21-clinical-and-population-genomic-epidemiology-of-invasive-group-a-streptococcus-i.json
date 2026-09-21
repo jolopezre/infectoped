@@ -1,0 +1,83 @@
+{
+  "id": "2026-09-21-clinical-and-population-genomic-epidemiology-of-invasive-group-a-streptococcus-i",
+  "estado": "publicado",
+  "pmid": "42759893",
+  "doi": "10.1016/j.jinf.2026.106860",
+  "titulo": "Clinical and population genomic epidemiology of invasive group A streptococcus in Scotland, 2014-2024",
+  "tituloEs": "El aumento de infecciones invasivas por estreptococo del grupo A tras la pandemia no se debe a cepas más virulentas",
+  "revista": "The Journal of infection",
+  "autores": [
+    "Beres SB",
+    "Pagnossin D",
+    "Olsen RJ",
+    "Long SW",
+    "Graviss EA",
+    "Williams T",
+    "Langley R",
+    "Smith A",
+    "Musser JM"
+  ],
+  "fechaPublicacion": "2026 Sep 18",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42759893/",
+  "resumenOriginal": "Objectives: Following the COVID-19 pandemic, multiple countries reported a surge in invasive group A streptococcus (iGAS) infections. Posited explanations include reduced population immunity, increased respiratory virus co-infection, and emergence of hypervirulent GAS clones. To assess the relative contribution of these factors, we analyzed the epidemiology and genomics of 3,408 iGAS infections in Scotland.\n\nMethods: National surveillance data from 2014-2024 were analyzed to characterize iGAS incidence. Hybrid whole genome sequencing was used to comprehensively genetically characterize 404 emm1 isolates collected from invasive and tonsillitis infections.\n\nResults: iGAS incidence markedly increased in late 2022 and early 2023, disproportionately affecting children and older adults. This surge was not associated with a proportional increase in bacteremia but did coincide with increased influenza and respiratory syncytial virus infections. Genomic analyses found that emm1 post-pandemic isolates were not genetically distinct from pre-pandemic isolates in genome-wide polymorphisms, accessory genes including virulence and antimicrobial resistance determinants, mobile genetic elements, or chromosomal structural variants.\n\nConclusions: The post-pandemic iGAS surge in Scotland was not associated with emergence of a novel hypervirulent emm1 clone. Instead, the epidemiologic and population genomic findings are consistent with increased host susceptibility following reduced pathogen exposure during the pandemic and increased respiratory virus co-infection as predominant contributing factors.",
+  "mesh": [],
+  "palabrasClave": [
+    "Bacteremia",
+    "COVID-19",
+    "Epidemic Outbreak",
+    "Herd Immunity",
+    "Population Genomics, Infectious Disease",
+    "Streptococcus pyogenes"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Infecciones respiratorias",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 34.5,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Coinfección viral respiratoria",
+      "texto": "El aumento de iGAS coincidió con más casos de influenza y virus sincicial respiratorio. Ante infecciones respiratorias virales, mantener alto índice de sospecha de sobreinfección bacteriana invasiva."
+    },
+    {
+      "titulo": "Grupos de edad vulnerables",
+      "texto": "Los niños y adultos mayores fueron los más afectados por el incremento postpandémico. En estos grupos, considerar iGAS en cuadros febriles graves con foco amigdalar o cutáneo."
+    },
+    {
+      "titulo": "No hay cepa hipervirulenta",
+      "texto": "Los aislados postpandémicos no mostraron cambios genómicos significativos en virulencia ni resistencia. El problema es epidemiológico (menor exposición previa), no microbiológico emergente."
+    },
+    {
+      "titulo": "Hemocultivo en sospecha de bacteriemia",
+      "texto": "El incremento de casos no se acompañó de aumento proporcional de bacteriemia. Solicitar hemocultivo en todo niño con sospecha de infección invasiva, aunque la presentación sea localizada."
+    },
+    {
+      "titulo": "Inmunidad poblacional reducida",
+      "texto": "La menor circulación de patógenos durante la pandemia dejó a la población más susceptible. Este hallazgo respalda reforzar vigilancia epidemiológica y esquemas de vacunación al día."
+    }
+  ],
+  "sintesis": "En Escocia, el incremento de casos de infección invasiva por estreptococo del grupo A (iGAS) entre 2022 y 2023 afectó especialmente a niños y adultos mayores. El análisis genómico de 404 aislados no identificó cepas nuevas más virulentas; el fenómeno se atribuye a menor inmunidad poblacional y mayor coinfección viral respiratoria.",
+  "aplicacionDocente": "Durante la discusión de casos de faringitis o infección de piel y partes blandas, preguntar a los residentes si hubo exposición reciente a virus respiratorios y cómo la pandemia pudo modificar la inmunidad de base. Revisar criterios clínicos para sospechar invasión y la importancia de tomar hemocultivo antes del antibiótico.",
+  "infografia": "/img/infografias/2026-09-21-clinical-and-population-genomic-epidemiology-of-invasive-group-a-streptococcus-i.png",
+  "disenoEstudio": "Estudio de vigilancia nacional con análisis genómico de 3,408 casos de iGAS en Escocia, 2014–2024",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Más casos de iGAS postpandemia: menor inmunidad poblacional, no cepas nuevas",
+  "etiquetas": [
+    "estreptococo grupo a",
+    "infección invasiva",
+    "vigilancia epidemiológica",
+    "genómica poblacional",
+    "coinfección viral"
+  ],
+  "advertencia": "Estudio restringido a Escocia y a un solo serotipo (emm1); la extrapolación a otras regiones o serotipos requiere datos locales complementarios.",
+  "generadoPor": "claude-sonnet-4-5"
+}

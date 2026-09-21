@@ -1,0 +1,80 @@
+{
+  "id": "2026-09-21-the-lung-microbiome-in-childhood-onset-severe-neuromuscular-disease-with-respira",
+  "estado": "publicado",
+  "pmid": "42762368",
+  "doi": "10.1186/s40348-026-00261-0",
+  "titulo": "The lung microbiome in childhood-onset severe neuromuscular disease with respiratory insufficiency: rationale, current evidence, and opportunities for oxford nanopore long-read sequencing",
+  "tituloEs": "Microbioma pulmonar en enfermedad neuromuscular grave infantil con insuficiencia respiratoria",
+  "revista": "Molecular and cellular pediatrics",
+  "autores": [
+    "Cirak S",
+    "Grieshaber V",
+    "Müller P",
+    "Chao CM"
+  ],
+  "fechaPublicacion": "2026 Sep 19",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42762368/",
+  "resumenOriginal": "In severe childhood-onset neuromuscular disease (NMD), ventilatory muscle weakness and ineffective airway clearance drive recurrent infections and chronic colonization that is often culture-negative, polymicrobial, or both. The lung microbiome framework offers a unifying model: altered microbial immigration, elimination, and growth can produce dysbiosis with pathobiont expansion and antimicrobial resistance (AMR). We propose that pediatric NMD may follow a distinct developmental trajectory in which early-life secretion stasis, viral insults, and frequent antibiotics perturb immune-microbiome crosstalk during lung growth, potentially \"imprinting\" long-term community structure. However, NMD-specific airway microbiome data remain sparse because most studies rely on culture or upper-airway sampling. Oxford Nanopore Technologies (ONT) long-read sequencing enables real-time metagenomics with AMR gene detection and can deliver same-day profiles (as short as&#x2009;~&#x2009;6 h from sample to result in optimized workflows), but requires robust low-biomass controls and, in some settings, polishing or hybrid strategies to mitigate higher per-read error. A major limitation of metagenomic sequencing of respiratory samples is the high proportion of host DNA, bacterial reads may account for only about 1-5% of the total sequencing reads. We review microbiome principles relevant to pediatric NMD, summarize current evidence, and outline ONT-enabled study designs and translational priorities.",
+  "mesh": [],
+  "palabrasClave": [
+    "Antimicrobial resistance",
+    "Duchenne muscular dystrophy",
+    "Dysbiosis",
+    "Long-read metagenomics",
+    "Lung microbiome",
+    "Oxford Nanopore",
+    "Pediatric neuromuscular disease",
+    "Respiratory insufficiency",
+    "Spinal muscular atrophy",
+    "Tracheostomy"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Considerar disbiosis subclínica",
+      "texto": "En niños con enfermedad neuromuscular y exacerbaciones respiratorias sin germen aislado, valorar que la disbiosis polimicrobiana puede explicar cultivos negativos o aislamientos habituales resistentes."
+    },
+    {
+      "titulo": "Reevaluar antibioticoterapia empírica",
+      "texto": "El uso frecuente de antibióticos en este grupo puede seleccionar patobiontes resistentes. Considerar esquemas más selectivos y cultivos dirigidos cuando la evolución clínica lo permita."
+    },
+    {
+      "titulo": "Sospechar colonización desde lactancia",
+      "texto": "El estancamiento de secreciones, las infecciones virales tempranas y los antibióticos reiterados pueden 'imprimir' comunidades microbianas alteradas durante el crecimiento pulmonar posnatal."
+    },
+    {
+      "titulo": "Anticipar cultivos de vía aérea baja",
+      "texto": "Las muestras de vía aérea superior no reflejan el microbioma de vía baja. En neumopatías crónicas y hospitalizaciones repetidas, valorar broncoscopía o lavado broncoalveolar si está indicado."
+    },
+    {
+      "titulo": "Familiarizarse con metagenómica clínica",
+      "texto": "Las plataformas de secuenciación en tiempo real permiten perfiles del microbioma y detección de genes de resistencia en 6 horas, aunque aún requieren validación en baja biomasa."
+    }
+  ],
+  "sintesis": "En niños con enfermedad neuromuscular grave, la debilidad ventilatoria y el aclaramiento mucoso deficiente favorecen disbiosis pulmonar, colonización polimicrobiana y resistencia antimicrobiana. La secuenciación metagenómica de lectura larga podría identificar patobiontes y genes de resistencia en tiempo real, superando las limitaciones del cultivo convencional.",
+  "aplicacionDocente": "Discutir con residentes por qué los cultivos convencionales fallan en neuromuscular grave: colonización polimicrobiana, uso antibiótico reiterado y muestras de vía alta enmascaran la realidad de vía baja. Revisar el concepto de disbiosis, patobiontes y 'huella' temprana del microbioma. Presentar la metagenómica como herramienta futura para guiar antibioticoterapia y manejo preventivo.",
+  "infografia": "/img/infografias/2026-09-21-the-lung-microbiome-in-childhood-onset-severe-neuromuscular-disease-with-respira.png",
+  "disenoEstudio": "Revisión narrativa sobre microbioma pulmonar en enfermedad neuromuscular pediátrica y aplicaciones de secuenciación Oxford Nanopore",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Disbiosis pulmonar en neuromuscular: cultivos negativos pero microbioma alterado",
+  "etiquetas": [
+    "enfermedad neuromuscular",
+    "microbioma pulmonar",
+    "disbiosis",
+    "secuenciación metagenómica",
+    "resistencia antimicrobiana"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis; los datos específicos de microbioma en enfermedad neuromuscular pediátrica son escasos y las tecnologías de secuenciación en baja biomasa requieren validación clínica.",
+  "generadoPor": "claude-sonnet-4-5"
+}
