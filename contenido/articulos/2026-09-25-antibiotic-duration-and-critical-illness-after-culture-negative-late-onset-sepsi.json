@@ -1,0 +1,82 @@
+{
+  "id": "2026-09-25-antibiotic-duration-and-critical-illness-after-culture-negative-late-onset-sepsi",
+  "estado": "publicado",
+  "pmid": "42785515",
+  "doi": "10.1016/j.jpeds.2026.115347",
+  "titulo": "Antibiotic Duration and Critical Illness After Culture-Negative Late-Onset Sepsis Evaluation in Infants Born Preterm",
+  "tituloEs": "Duración de antibióticos tras evaluación negativa de sepsis tardía en prematuros extremos",
+  "revista": "The Journal of pediatrics",
+  "autores": [
+    "Liu S",
+    "Al Gharaibeh FN",
+    "Park WY",
+    "Lawler B",
+    "Kuiper JR",
+    "Makker K",
+    "Fackler J",
+    "Moreira AG",
+    "Wynn JL",
+    "Aziz KB"
+  ],
+  "fechaPublicacion": "2026 Sep 24",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42785515/",
+  "resumenOriginal": "Objective: To characterize antibiotic administration patterns among very low birth weight (VLBW, < 1500 grams at birth) infants born <33 weeks' gestation with negative late-onset sepsis (LOS) evaluations relative to life-threatening organ dysfunction.\n\nStudy design: This retrospective cohort study used electronic health record data from 3 neonatal intensive care units (NICUs) in the Johns Hopkins Health System from June 2016 to April 2026. Eligible infants were born preterm, VLBW, evaluated for LOS at &#x2265;72 hours of age, had no systemic antibiotics in the preceding 48 hours, and had no growth from blood or other concurrent clinically relevant cultures. Primary outcomes were antibiotic courses &#x2264; 48 hours and > 48 hours of consecutive systemic antibiotic administration associated with culture-negative LOS evaluation.\n\nResults: Across 202 initial culture-negative LOS evaluations, median antibiotic duration was 47.0 hours (IQR, 37.0-97.5); 122 courses were &#x2264; 48 hours, and 80 were > 48 hours. Antibiotic duration was poorly predicted from observed clinical features using supervised machine-learning models (AUC, 0.48-0.60). Unsupervised K-means clustering identified 2 physiologic phenotypes defined by the neonatal Sequential Organ Failure Assessment (nSOFA)-derived organ dysfunction, but these clusters did not distinguish observed antibiotic duration groups.\n\nConclusions: Antibiotic duration decisions were not associated with life-threatening organ dysfunction and were not learnable from structured electronic health record signals. When cultures remain negative and organ dysfunction is absent or improving, continued antibiotics should be supported by explicit, objective criteria. Such criteria are necessary for stewardship now and for trustworthy artificial-intelligence decision support in the future.",
+  "mesh": [],
+  "palabrasClave": [
+    "Antibiotic Stewardship",
+    "Clinical Decision-Making",
+    "Culture-Negative Late-Onset Sepsis",
+    "Machine Learning",
+    "Neonatal Sepsis",
+    "Premature Infant",
+    "Very Low Birth Weight Infant"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-25",
+  "publicadoEl": "2026-09-25",
+  "tips": [
+    {
+      "titulo": "Suspensión precoz si cultivo negativo",
+      "texto": "Cuando el hemocultivo permanece negativo a las 48 horas y no hay disfunción orgánica progresiva, considerar la suspensión del antibiótico en lugar de prolongarlo sin criterios objetivos."
+    },
+    {
+      "titulo": "Criterios explícitos para continuar",
+      "texto": "La prolongación de antibióticos más allá de 48 horas debería respaldarse en hallazgos clínicos documentados (empeoramiento hemodinámico, ventilatorio o metabólico), no en impresión subjetiva."
+    },
+    {
+      "titulo": "Evaluación diaria estructurada",
+      "texto": "Incorporar en la ronda diaria la revisión sistemática de signos de disfunción orgánica (escala nSOFA u otra) para fundamentar la decisión de continuar o suspender antibióticos."
+    },
+    {
+      "titulo": "Promover protocolos de optimización",
+      "texto": "La variabilidad observada respalda la necesidad de protocolos institucionales de optimización antimicrobiana en neonatología que reduzcan la exposición innecesaria en prematuros extremos."
+    },
+    {
+      "titulo": "Documentar la justificación clínica",
+      "texto": "Registrar de forma explícita el fundamento para prolongar antibióticos cuando los cultivos son negativos, facilitando auditorías de calidad y el desarrollo futuro de sistemas de apoyo a la decisión."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 202 evaluaciones de sepsis tardía con cultivos negativos en recién nacidos prematuros de muy bajo peso mostró que la duración del tratamiento antibiótico (mediana 47 horas) no se asoció con disfunción orgánica ni con características clínicas objetivas, lo que sugiere variabilidad en las decisiones de suspensión.",
+  "aplicacionDocente": "Durante la ronda en la unidad neonatal, preguntar al equipo qué criterios objetivos justifican mantener antibióticos más allá de 48 horas cuando el cultivo es negativo. Promover el uso sistemático de escalas de disfunción orgánica (por ejemplo, nSOFA) para anclar la decisión en datos estructurados, no en intuición clínica.",
+  "infografia": "/img/infografias/2026-09-25-antibiotic-duration-and-critical-illness-after-culture-negative-late-onset-sepsi.png",
+  "disenoEstudio": "Cohorte retrospectiva en 202 evaluaciones de sepsis tardía con cultivos negativos en prematuros <33 semanas y <1500 g, en tres unidades de cuidados intensivos neonatales",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Cultivo negativo a 48 h sin disfunción orgánica: momento de suspender antibióticos",
+  "etiquetas": [
+    "sepsis neonatal",
+    "prematuros",
+    "optimización antimicrobiana",
+    "disfunción orgánica",
+    "neonatología"
+  ],
+  "advertencia": "Estudio retrospectivo unicéntrico; la ausencia de criterios prospectivos predefinidos limita la generalización de umbrales de suspensión antibiótica.",
+  "generadoPor": "claude-sonnet-4-5"
+}

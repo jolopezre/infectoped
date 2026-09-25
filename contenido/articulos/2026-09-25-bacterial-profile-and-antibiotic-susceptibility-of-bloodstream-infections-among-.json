@@ -1,0 +1,84 @@
+{
+  "id": "2026-09-25-bacterial-profile-and-antibiotic-susceptibility-of-bloodstream-infections-among-",
+  "estado": "publicado",
+  "pmid": "42784569",
+  "doi": "10.1371/journal.pone.0358779",
+  "titulo": "Bacterial profile and antibiotic susceptibility of bloodstream infections among infants, children, and adolescents undergoing treatment for acute leukemia",
+  "tituloEs": "Perfil bacteriano en bacteriemia de pacientes con leucemia aguda: diferencias por edad y fase del tratamiento",
+  "revista": "PloS one",
+  "autores": [
+    "Zatarah R",
+    "Albdour T",
+    "Assad A",
+    "Budair R",
+    "Nazer L"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42784569/",
+  "resumenOriginal": "Introduction: Pediatric patients with acute leukemia are at risk of bacteremia due to disease and treatment-related toxicities. Limited data exists on pathogen distribution across different pediatric age groups. This study aims to investigate the distribution of bacterial pathogens and their susceptibility patterns across infants, children, and adolescents undergoing treatment for acute leukemia.\n\nMethods: Retrospective cohort study that included pediatric patients with Acute Lymphoblastic Leukemia (ALL) or Acute Myeloid Leukemia (AML) who had positive blood cultures between 01/01/2015-31/12/2024. Bacteremia was defined as the presence of bacterial microorganisms in the bloodstream, confirmed by one or more positive blood cultures with associated symptoms. Patients were categorized into three age groups: infants (&#x2264;1 year), children (>1 to <12 years), and adolescents (&#x2265;12 to &#x2264;18 years). Collected data included demographics, leukemia disease risk (high, standard or low), treatment phase (induction, consolidation, maintenance, relapse, or palliative care), signs and symptoms and the causative pathogen along with its susceptibility and resistance testing. Descriptive statistics were used to summarize findings.\n\nResults: A total of 308 bacteremia episodes among 160 patients were identified. Of these, 291 (94%) episodes occurred in ALL patients and 17 (6%) in AML patients. The median age was 5 years (IQR 3-11 years) with children, adolescents, and infants representing 78%, 21%, and 1%, respectively. A total of 330 bacterial isolates were identified. Isolates were most frequently recovered during consolidation (30%), induction (24%), and maintenance (23%) phases. Gram-positive organisms, particularly Staphylococcus spp. predominated across all treatment phases and age groups. Whereas a higher proportion of Gram-negative organisms - including Escherichia coli, Klebsiella spp., and Pseudomonas spp. - were observed among adolescents and patients in high-risk groups. Antimicrobial resistance was confined to Escherichia coli and Klebsiella spp. exhibiting Extended-Spectrum &#x3b2;-lactamase and Carbapenem-Resistant Enterobacterales phenotypes across the cohort.\n\nConclusions: In this single-center descriptive study, bacteremia episodes and bacterial isolates showed descriptive differences across age groups, treatment phases, and leukemia risk categories. These findings support continued local infection surveillance. Larger multicenter studies with sufficient subgroup representation are needed to determine whether age- or phase-specific empiric therapy strategies are warranted.",
+  "mesh": [
+    "Humans",
+    "Adolescent",
+    "Child",
+    "Bacteremia",
+    "Infant",
+    "Child, Preschool",
+    "Retrospective Studies",
+    "Female",
+    "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+    "Male",
+    "Anti-Bacterial Agents",
+    "Leukemia, Myeloid, Acute"
+  ],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-25",
+  "publicadoEl": "2026-09-25",
+  "tips": [
+    {
+      "titulo": "Predominio de grampositivos",
+      "texto": "Los Staphylococcus spp. fueron los principales agentes en todas las fases del tratamiento y grupos etarios. Considerar cobertura empírica inicial dirigida a estos patógenos en la mayoría de los casos."
+    },
+    {
+      "titulo": "Adolescentes y alto riesgo",
+      "texto": "En adolescentes y pacientes de alto riesgo se observó mayor proporción de gramnegativos (E. coli, Klebsiella, Pseudomonas). Ampliar cobertura empírica en estos subgrupos cuando se sospecha bacteriemia."
+    },
+    {
+      "titulo": "Resistencia antimicrobiana crítica",
+      "texto": "E. coli y Klebsiella spp. mostraron fenotipos de resistencia BLEE y resistencia a carbapenémicos. Solicitar hemocultivo antes de iniciar antibioticoterapia para guiar ajustes posteriores."
+    },
+    {
+      "titulo": "Fases de mayor riesgo",
+      "texto": "Las fases de consolidación, inducción y mantenimiento concentraron la mayoría de los episodios. Mantener vigilancia estrecha de signos de infección durante estos períodos."
+    },
+    {
+      "titulo": "Vigilancia local continua",
+      "texto": "Los patrones microbiológicos varían según el centro. Conviene mantener registros locales de bacteriemia para ajustar protocolos de antibioticoterapia empírica en pacientes con leucemia."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo de 308 episodios de bacteriemia en 160 pacientes pediátricos con leucemia aguda. Los Staphylococcus spp. predominaron en todas las edades, mientras que en adolescentes y pacientes de alto riesgo se observó mayor proporción de gramnegativos, incluyendo resistencia a betalactámicos y carbapenémicos en E. coli y Klebsiella spp.",
+  "aplicacionDocente": "Este estudio permite discutir con residentes cómo el perfil microbiológico local orienta la elección empírica inicial. Ejercitar la estratificación de riesgo: ¿este adolescente con leucemia de alto riesgo necesita cobertura antipseudomónica desde el inicio? ¿Cómo interpretar un hemocultivo positivo para Staphylococcus en fase de inducción?",
+  "infografia": "/img/infografias/2026-09-25-bacterial-profile-and-antibiotic-susceptibility-of-bloodstream-infections-among-.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo en 160 pacientes pediátricos con leucemia aguda tratados entre 2015 y 2024",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "En adolescentes con leucemia: mayor proporción de gramnegativos y resistencia crítica",
+  "etiquetas": [
+    "bacteriemia",
+    "leucemia aguda",
+    "resistencia antimicrobiana",
+    "oncología pediátrica",
+    "hemocultivo"
+  ],
+  "advertencia": "Estudio unicéntrico descriptivo sin análisis estadístico inferencial; no permite establecer asociaciones causales ni generalizar estrategias empíricas fuera del centro de origen.",
+  "generadoPor": "claude-sonnet-4-5"
+}
