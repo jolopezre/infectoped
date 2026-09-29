@@ -1,0 +1,87 @@
+{
+  "id": "2026-09-29-systemic-immune-inflammation-index-as-a-dynamic-marker-of-therapeutic-response-i",
+  "estado": "publicado",
+  "pmid": "42804011",
+  "doi": "10.1007/s00431-026-07444-x",
+  "titulo": "Systemic immune-inflammation index as a dynamic marker of therapeutic response in neonatal early-onset sepsis: implications for antibiotic stewardship",
+  "tituloEs": "Índice de inflamación inmunitaria sistémica como marcador dinámico de respuesta al tratamiento en sepsis neonatal",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Gök ÇC",
+    "Can E"
+  ],
+  "fechaPublicacion": "2026 Sep 28",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42804011/",
+  "resumenOriginal": "Unlabelled: This study investigates the systemic immune-inflammation index (SII) as a dynamic marker to track antibiotic efficacy and guide stewardship in term neonates. A retrospective cohort study evaluated 275 term neonates (85 with culture-proven early-onset sepsis [EOS] and 190 controls). Complete blood counts and C-reactive protein (CRP) were analyzed on Days 1 and 3 of therapy. At diagnosis, the calculated SII was significantly higher in the EOS group compared to controls (Median 812 [IQR: 650-1120] vs. 515 [IQR: 410-630]; p&#x2009;<&#x2009;0.001). ROC analysis yielded an AUC of 0.87. Multivariable logistic regression confirmed the independent prognostic value of the SII after adjusting for clinical confounders. By Day 3, the SII demonstrated a faster kinetic decline than CRP in 74.1% of the sepsis cohort, functioning as an early indicator of resolving inflammation.\n\nConclusion: While diagnostic accuracy at onset is comparable to CRP, the SII demonstrates potential as a practical dynamic indicator of therapeutic response in EOS. Its clinical application provides an objective biological signal that may help identify rapid responders, potentially supporting safely shortened antibiotic courses pending prospective validation.\n\nWhat is known: &#x2022; CRP has a delayed kinetic rise and clearance in neonatal EOS, limiting real-time monitoring. &#x2022; Prolonged empirical antibiotics in neonates alter the microbiome and increase nosocomial risks.\n\nWhat is new: &#x2022; SII is an accessible, zero-cost, and dynamic indicator of therapeutic response in neonatal EOS. &#x2022; A 72-hour SII reduction identifies rapid responders early, guiding safer antibiotic cessation.",
+  "mesh": [
+    "Humans",
+    "Neonatal Sepsis",
+    "Retrospective Studies",
+    "Infant, Newborn",
+    "Anti-Bacterial Agents",
+    "C-Reactive Protein",
+    "Biomarkers",
+    "Female",
+    "Antimicrobial Stewardship",
+    "Male",
+    "Inflammation",
+    "ROC Curve"
+  ],
+  "palabrasClave": [
+    "Antibiotic stewardship",
+    "Biomarkers",
+    "C-reactive protein",
+    "Neonatal sepsis",
+    "Systemic immune-inflammation index"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 36.5,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-29",
+  "publicadoEl": "2026-09-29",
+  "tips": [
+    {
+      "titulo": "Calcular el SII al inicio",
+      "texto": "El SII (plaquetas × neutrófilos / linfocitos) al diagnóstico puede ayudar a identificar sepsis neonatal precoz. Un valor elevado en el primer día se asoció significativamente con cultivos positivos."
+    },
+    {
+      "titulo": "Repetir el SII al tercer día",
+      "texto": "El descenso del SII a las 72 horas fue más rápido que el de la proteína C reactiva en tres de cada cuatro neonatos con sepsis. Este cambio temprano puede señalar respuesta terapéutica favorable."
+    },
+    {
+      "titulo": "Considerar suspensión antibiótica precoz",
+      "texto": "Un descenso rápido del SII al tercer día podría identificar a pacientes respondedores rápidos en quienes sería factible acortar la antibioticoterapia de forma segura, pendiente de validación prospectiva."
+    },
+    {
+      "titulo": "Marcador sin costo adicional",
+      "texto": "El SII se calcula con datos del hemograma completo habitual, sin generar costos extra. Su disponibilidad universal lo hace aplicable en diversos entornos clínicos."
+    },
+    {
+      "titulo": "Ajustar por cuadro clínico",
+      "texto": "El valor pronóstico del SII se mantuvo independiente de variables clínicas confusoras. Conviene interpretarlo en conjunto con la evolución clínica del paciente."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 275 recién nacidos de término evalúa el índice de inflamación inmunitaria sistémica (SII) como marcador de respuesta antibiótica en sepsis precoz. El SII mostró descenso más rápido que la proteína C reactiva al tercer día en el 74,1% de los casos con sepsis confirmada por cultivo.",
+  "aplicacionDocente": "Durante la ronda, calcule el SII del primer y tercer día en el neonato con sospecha de sepsis. Discuta con los residentes cómo la cinética del SII puede complementar la proteína C reactiva para decidir la duración antibiótica. Pregunte cuáles pacientes podrían ser candidatos a terapia abreviada según la respuesta temprana.",
+  "infografia": "/img/infografias/2026-09-29-systemic-immune-inflammation-index-as-a-dynamic-marker-of-therapeutic-response-i.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo en 275 recién nacidos de término, 85 con sepsis precoz confirmada por cultivo",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "El SII desciende más rápido que la PCR y ayuda a identificar respondedores rápidos en sepsis neonatal",
+  "etiquetas": [
+    "sepsis neonatal",
+    "uso racional de antibióticos",
+    "biomarcadores",
+    "neonatología",
+    "proteína c reactiva"
+  ],
+  "advertencia": "Estudio retrospectivo con necesidad de validación prospectiva antes de incorporar el criterio a protocolos formales de suspensión antibiótica",
+  "generadoPor": "claude-sonnet-4-5"
+}

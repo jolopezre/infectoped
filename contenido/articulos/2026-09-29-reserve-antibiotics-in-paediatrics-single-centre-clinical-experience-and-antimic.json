@@ -1,0 +1,96 @@
+{
+  "id": "2026-09-29-reserve-antibiotics-in-paediatrics-single-centre-clinical-experience-and-antimic",
+  "estado": "publicado",
+  "pmid": "42789114",
+  "doi": "10.1007/s00431-026-07446-9",
+  "titulo": "Reserve antibiotics in paediatrics: single-centre clinical experience and antimicrobial stewardship implementation",
+  "tituloEs": "Antibióticos de reserva en pediatría: experiencia clínica y programa de optimización institucional",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Echávarri de Miguel M",
+    "Bernabéu Lorenzo L",
+    "Sánchez Berenguer A",
+    "Riva de la Hoz B",
+    "Gil Arregui M",
+    "Collado Díaz FJ",
+    "Rodríguez Díaz P",
+    "González Abad MJ",
+    "García Ascaso MT",
+    "Cuervas-Mons Vendrell M"
+  ],
+  "fechaPublicacion": "2026 Sep 25",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42789114/",
+  "resumenOriginal": "Unlabelled: This study aims t. o describe the use of WHO Reserve antibiotics in a tertiary paediatric hospital, focusing on our single-centre clinical experience and the implementation of antimicrobial stewardship to optimise their institutional use. We conducted a retrospective observational study including patients under 18&#xa0;years treated with ceftazidime-avibactam, ceftolozane-tazobactam, cefiderocol, ceftaroline or daptomycin between January 2020 and December 2024. Clinical, microbiological and treatment data were extracted from electronic medical records. Based on these findings, a standardised institutional evaluation framework for Reserve antibiotics was developed and implemented within the antimicrobial stewardship programme. Ninety-six treatment episodes in 76 patients were analysed; most patients (97%) had significant comorbidities, mainly haematological malignancies (79%). Bloodstream infection was the most frequent indication. Prescribing of cefiderocol showed strong concordance with resistance-driven indications, and ceftazidime-avibactam was largely consistent with microbiological criteria. In contrast, ceftolozane-tazobactam and ceftaroline were more frequently used in broader empirical settings. Stewardship measures were subsequently introduced, including formulary restriction, indication-based electronic prescribing tools, and integration of WHO AWaRe classification into the hospital prescribing system.\n\nConclusion: &#xa0;Reserve antibiotic use in complex paediatric populations highlights the importance of characterizing our clinical experience of prescribing in real-world practice. In this context, the development and implementation of a structured institutional antimicrobial stewardship program represents a pragmatic strategy to improve clinical governance and guide the appropriate positioning of these last-resort agents.\n\nWhat is known: &#x2022; Reserve antibiotics are critical last-resort therapies for treating multidrug-resistant infections, but their clinical use in complex paediatric populations remains insufficiently characterised in real-world practice. Institutional antimicrobial stewardship programmes are highly recommended to provide necessary oversight and guide the appropriate prescribing of these high-priority agents.\n\nWhat is new: &#x2022; This study details a comprehensive, single-centre clinical experience of WHO Reserve antibiotic use within a complex tertiary paediatric cohort. Furthermore, we describe the development and practical implementation of a structured institutional stewardship framework-integrating formulary evaluation, electronic prescribing safeguards, and the WHO AWaRe classification-offering a pragmatic model to strengthen local clinical governance and optimise last-resort antimicrobial positioning.",
+  "mesh": [
+    "Humans",
+    "Retrospective Studies",
+    "Antimicrobial Stewardship",
+    "Anti-Bacterial Agents",
+    "Child",
+    "Child, Preschool",
+    "Male",
+    "Cephalosporins",
+    "Female",
+    "Infant",
+    "Adolescent",
+    "Third Generation Cephalosporins"
+  ],
+  "palabrasClave": [
+    "Anti-bacterial agents",
+    "Antimicrobial stewardship",
+    "Communicable diseases",
+    "Drug resistance, Multiple, Bacterial",
+    "Drug utilization review",
+    "World Health Organization"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico"
+  ],
+  "puntaje": 34.5,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-29",
+  "publicadoEl": "2026-09-29",
+  "tips": [
+    {
+      "titulo": "Población de alto riesgo",
+      "texto": "El 97% de los pacientes que recibieron antibióticos de reserva tenía comorbilidades significativas, principalmente neoplasias hematológicas (79%). Considerar estos agentes cuando la complejidad clínica y el perfil de resistencia lo justifiquen."
+    },
+    {
+      "titulo": "Concordancia con indicaciones",
+      "texto": "Cefiderocol y ceftazidima-avibactam mostraron fuerte concordancia con criterios microbiológicos. Ceftolozán-tazobactam y ceftarolina se usaron con mayor frecuencia de forma empírica, lo que señala oportunidades de optimización."
+    },
+    {
+      "titulo": "Bacteriemia como indicación principal",
+      "texto": "La infección del torrente sanguíneo fue la indicación más frecuente. Solicitar hemocultivo antes de iniciar terapia empírica en pacientes con factores de riesgo para gérmenes multirresistentes."
+    },
+    {
+      "titulo": "Marco institucional de evaluación",
+      "texto": "La implementación de restricción de formulario, herramientas de prescripción electrónica y clasificación AWaRe permite estructurar la toma de decisiones. Verificar si su institución cuenta con protocolos similares."
+    },
+    {
+      "titulo": "Uso como enseñanza clínica",
+      "texto": "Discutir con residentes los criterios para escalar a antibióticos de reserva: resistencia documentada, fracaso terapéutico previo y características del huésped. Reforzar el concepto de agentes de último recurso."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo de 96 episodios de tratamiento con antibióticos de reserva de la OMS en un hospital pediátrico terciario. La mayoría de pacientes presentaba comorbilidades graves, principalmente neoplasias hematológicas. Se implementó un marco institucional de evaluación y prescripción que incluye restricción de formulario, herramientas electrónicas y clasificación AWaRe.",
+  "aplicacionDocente": "Este estudio permite discutir con residentes cuándo y en quién considerar antibióticos de reserva. Al analizar casos de pacientes oncohematológicos con bacteriemia, puede trabajarse la interpretación de antibiogramas, la escalada terapéutica basada en resistencia documentada y la importancia de programas institucionales de optimización antimicrobiana para preservar estos agentes de último recurso.",
+  "infografia": "/img/infografias/2026-09-29-reserve-antibiotics-in-paediatrics-single-centre-clinical-experience-and-antimic.png",
+  "disenoEstudio": "Estudio observacional retrospectivo en 76 pacientes pediátricos tratados con antibióticos de reserva durante 2020-2024",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "97% de los pacientes tratados con antibióticos de reserva tenía comorbilidades graves",
+  "etiquetas": [
+    "antibióticos de reserva",
+    "optimización antimicrobiana",
+    "pediatría oncológica",
+    "bacteriemia",
+    "multirresistencia"
+  ],
+  "advertencia": "Estudio retrospectivo unicéntrico en población altamente seleccionada, lo que limita la generalización a otros contextos pediátricos.",
+  "generadoPor": "claude-sonnet-4-5"
+}
