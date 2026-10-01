@@ -1,0 +1,89 @@
+{
+  "id": "2026-10-01-colistin-therapy-and-survival-outcomes-in-neonatal-carbapenem-resistant-gram-neg",
+  "estado": "publicado",
+  "pmid": "42806191",
+  "doi": "10.1007/s40199-026-00669-z",
+  "titulo": "Colistin therapy and survival outcomes in neonatal carbapenem-resistant gram-negative sepsis",
+  "tituloEs": "Colistina reduce mortalidad en sepsis neonatal por gramnegativos resistentes a carbapenémicos",
+  "revista": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+  "autores": [
+    "Aletayeb SMH",
+    "Dehdashtian M",
+    "Malakian A",
+    "Aramesh MR"
+  ],
+  "fechaPublicacion": "2026 Sep 29",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42806191/",
+  "resumenOriginal": "Background: Carbapenem-resistant Gram-negative (CR-GN) sepsis is a growing cause of neonatal mortality, especially in low- and middle-income countries. Colistin remains one of the few effective therapeutic options.\n\nMethods: This retrospective cohort study reviewed hospital files of inborn neonates admitted within six hours of birth to the neonatal intensive care unit (NICU) of Imam Khomeini Hospital, Ahvaz, Iran (March 2019-March 2023), with blood culture-proven CR-GN sepsis. Blood cultures were obtained from peripheral samples and processed in Trypticase Soy Broth; isolates were identified and antibiotic susceptibility determined using the Kirby-Bauer disk diffusion method per Clinical and Laboratory Standards Institute (CLSI) guidelines. Because colistin disks were unavailable, clinical and microbiological responses were used to evaluate efficacy. Neonates received either a colistin-containing regimen (colistin&#x2009;+&#x2009;meropenem) or a non-colistin regimen (amikacin&#x2009;+&#x2009;meropenem). Univariate logistic regression was performed, and a sensitivity analysis limited to survivors was conducted for length-of-stay comparison.\n\nResults: The hospital records of 108 neonates were analyzed (36 colistin-treated, 72 non-colistin-treated). Acinetobacter spp. were the most frequent isolate. Among infants who received colistin, the rate of late-onset sepsis was significantly higher than that of early-onset sepsis (69.4% vs. 25.0%, p&#x2009;<&#x2009;0.001). The mortality rate was significantly lower in the colistin group (41.7% vs. 70.8%, p&#x2009;=&#x2009;0.006).\n\nConclusion: A colistin-containing regimen was associated with significantly improved survival among neonates with CR-GN sepsis. Despite limitations in susceptibility testing, these findings underscore the clinical value of colistin in resource-limited NICUs, warranting prospective validation of dosing, safety, and antimicrobial stewardship strategies.",
+  "mesh": [
+    "Humans",
+    "Colistin",
+    "Retrospective Studies",
+    "Infant, Newborn",
+    "Anti-Bacterial Agents",
+    "Gram-Negative Bacterial Infections",
+    "Carbapenems",
+    "Female",
+    "Male",
+    "Neonatal Sepsis",
+    "Gram-Negative Bacteria",
+    "Sepsis"
+  ],
+  "palabrasClave": [
+    "Carbapenem-resistant",
+    "Colistin",
+    "Gram-negative bacteria",
+    "Newborn",
+    "Sepsis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-10-01",
+  "publicadoEl": "2026-10-01",
+  "tips": [
+    {
+      "titulo": "Solicitar hemocultivo antes de antibióticos",
+      "texto": "En neonatos con sospecha de sepsis tardía por gramnegativos multirresistentes, obtener hemocultivo periférico antes de la primera dosis para orientar la terapia dirigida."
+    },
+    {
+      "titulo": "Considerar colistina en sepsis resistente",
+      "texto": "Ante aislamiento confirmado de gramnegativo resistente a carbapenémicos, evaluar esquema con colistina más carbapenem si las opciones terapéuticas son limitadas."
+    },
+    {
+      "titulo": "Vigilar sepsis tardía en UCIN",
+      "texto": "Los neonatos que permanecen hospitalizados tienen mayor riesgo de sepsis por patógenos resistentes; mantener alta sospecha clínica después de la primera semana de vida."
+    },
+    {
+      "titulo": "Verificar susceptibilidad local",
+      "texto": "Conocer el patrón de resistencia local a carbapenémicos en la unidad neonatal permite anticipar terapia empírica en casos graves."
+    },
+    {
+      "titulo": "Evaluar riesgo-beneficio de colistina",
+      "texto": "Aunque la nefrotoxicidad es una preocupación teórica, en este estudio la colistina se asoció con mejor sobrevida; sopesar el beneficio en contextos de recursos limitados."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 108 recién nacidos con sepsis por gramnegativos resistentes a carbapenémicos mostró mortalidad significativamente menor en quienes recibieron colistina más meropenem comparado con amikacina más meropenem (41,7% vs. 70,8%). Acinetobacter spp. fue el aislamiento más frecuente.",
+  "aplicacionDocente": "Durante la ronda en UCIN, discutir con residentes cuándo solicitar hemocultivo en neonatos hospitalizados, cómo interpretar patrones locales de resistencia y cuándo escalar a colistina. Revisar protocolos de vigilancia de sepsis tardía y consensuar criterios para terapia de rescate ante gramnegativos multirresistentes en la unidad.",
+  "infografia": "/img/infografias/2026-10-01-colistin-therapy-and-survival-outcomes-in-neonatal-carbapenem-resistant-gram-neg.png",
+  "disenoEstudio": "Cohorte retrospectiva en 108 recién nacidos con hemocultivo positivo para gramnegativos resistentes a carbapenémicos, admitidos en UCIN de un hospital iraní",
+  "nivelEvidencia": "bajo",
+  "fraseInfografia": "Colistina redujo mortalidad 29% en sepsis neonatal por gramnegativos resistentes",
+  "etiquetas": [
+    "sepsis neonatal",
+    "colistina",
+    "resistencia a carbapenémicos",
+    "gramnegativos multirresistentes",
+    "unidad de cuidados intensivos neonatales"
+  ],
+  "advertencia": "Diseño retrospectivo sin aleatorización; no se realizaron pruebas de susceptibilidad a colistina, limitando la evaluación microbiológica de la eficacia.",
+  "generadoPor": "claude-sonnet-4-5"
+}

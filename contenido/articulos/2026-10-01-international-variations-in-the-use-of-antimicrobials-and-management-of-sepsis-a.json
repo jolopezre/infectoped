@@ -1,0 +1,78 @@
+{
+  "id": "2026-10-01-international-variations-in-the-use-of-antimicrobials-and-management-of-sepsis-a",
+  "estado": "publicado",
+  "pmid": "42809485",
+  "doi": "10.1159/neo/adsag014",
+  "titulo": "International Variations in the Use of Antimicrobials and Management of Sepsis: A Survey of 382 Neonatal Units in 12 Countries",
+  "tituloEs": "Amplia variación internacional en duración de antimicrobianos y manejo de sepsis neonatal",
+  "revista": "Neonatology",
+  "autores": [
+    "Seliga-Siwecka J",
+    "Romanska J",
+    "Lui K",
+    "Mussi-Pinhata MM",
+    "San Feliciano L",
+    "Lehtonen L",
+    "Helenius K",
+    "Vento M",
+    "Bassler D",
+    "Kusuda S",
+    "Biran V",
+    "Klinger G"
+  ],
+  "fechaPublicacion": "2026 Sep 29",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42809485/",
+  "resumenOriginal": "Background: Antimicrobial exposure is nearly universal among very preterm infants, yet evidence to guide optimal treatment duration and sepsis management remains limited. Unnecessary prolonged antimicrobial use may contribute to adverse outcomes and antimicrobial resistance. We aimed to characterize international practices in the management of culture-proven infections in infants born <29 weeks' gestation.\n\nMethods: This cross-sectional study surveyed neonatal intensive care units (NICUs) across 12 networks within the International Network for Evaluating Outcomes of Neonates. A pre-piloted online questionnaire captured unit-level practices regarding treatment duration for culture-proven infections, antifungal prophylaxis, blood culture collection, and central line management. Responses were analyzed descriptively at the network and unit levels.\n\nResults: Of 608 eligible NICUs, 382 (62.8%) responded. A 7-day treatment duration was most commonly reported for gram-positive sepsis (45.2% of NICUs), whereas 14 days was most commonly reported for gram-negative sepsis (44.4%). Treatment durations were longer for concurrent meningitis: 57% of units reported 14 days for gram-positive meningitis and 69.2% reported 21 days for gram-negative meningitis. Antifungal prophylaxis was reported by 62.1% of units. Most NICUs (79.7%) routinely obtained blood cultures from a single sterile site. Overall, 75.7% of units reported central line removal for gram-negative sepsis and 57.3% for gram-positive sepsis.\n\nConclusions: Reported antimicrobial duration and sepsis management practices for very preterm infants varied across neonatal units and international networks. These findings underscore persistent uncertainty and the urgent need for high-quality evidence to inform standardized, evidence-based antimicrobial stewardship in this vulnerable population.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-10-01",
+  "publicadoEl": "2026-10-01",
+  "tips": [
+    {
+      "titulo": "Duración en sepsis gram-positiva",
+      "texto": "El 45% de las unidades reportó usar 7 días de tratamiento en sepsis por cocos gram-positivos sin meningitis; conviene revisar protocolos locales para alinearlos con evidencia disponible y evitar prolongaciones innecesarias."
+    },
+    {
+      "titulo": "Sepsis gram-negativa más prolongada",
+      "texto": "La mayoría de las unidades (44%) optó por 14 días en bacilos gram-negativos. Considerar acortar si el neonato mejora clínicamente, los cultivos de control son negativos y no hay foco metastásico."
+    },
+    {
+      "titulo": "Meningitis: tratamientos más largos",
+      "texto": "El 69% de las unidades trató meningitis gram-negativa durante 21 días. Evaluar punción lumbar de control y ajustar la duración según evolución del líquido cefalorraquídeo y neuroimagen."
+    },
+    {
+      "titulo": "Retiro de catéter en bacteriemia",
+      "texto": "El 76% de las unidades retiró el catéter central en sepsis gram-negativa. La decisión debe sopesar riesgo de colonización del catéter, respuesta clínica y disponibilidad de accesos vasculares alternativos."
+    },
+    {
+      "titulo": "Hemocultivo de un solo sitio",
+      "texto": "El 80% obtuvo hemocultivos de un sitio estéril único. Solicitar hemocultivo antes de iniciar antimicrobianos y registrar volumen de sangre extraída para maximizar rendimiento diagnóstico."
+    }
+  ],
+  "sintesis": "Encuesta transversal en 382 unidades neonatales de 12 países documentó prácticas heterogéneas en el tratamiento de infecciones confirmadas en prematuros extremos: la duración del tratamiento para sepsis gram-positiva varió entre 7 y 14 días, y la remoción de catéter central se indicó en 57–76% según germen aislado.",
+  "aplicacionDocente": "En la ronda de prematuros extremos con sospecha de sepsis, discutir con residentes por qué la duración óptima del tratamiento permanece incierta, revisar el antibiograma local y enfatizar la importancia de obtener hemocultivo antes de la primera dosis. Utilizar casos reales para decidir cuándo retirar el catéter central.",
+  "infografia": "/img/infografias/2026-10-01-international-variations-in-the-use-of-antimicrobials-and-management-of-sepsis-a.png",
+  "disenoEstudio": "Encuesta transversal en 382 unidades de cuidados intensivos neonatales de 12 redes internacionales",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "La duración de antimicrobianos en sepsis neonatal varía hasta el doble entre unidades",
+  "etiquetas": [
+    "sepsis neonatal",
+    "prematuro extremo",
+    "administración antimicrobiana",
+    "bacteriemia",
+    "resistencia antimicrobiana"
+  ],
+  "advertencia": "Estudio descriptivo que refleja prácticas declaradas, no desenlaces clínicos ni adherencia real a los protocolos reportados.",
+  "generadoPor": "claude-sonnet-4-5"
+}
