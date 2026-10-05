@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-05-epidemiology-of-pediatric-bacterial-meningitis-in-japan-a-multicenter-survey-202",
+  "estado": "publicado",
+  "pmid": "42828735",
+  "doi": "10.1093/jpids/piag106",
+  "titulo": "Epidemiology of Pediatric Bacterial Meningitis in Japan: A Multicenter Survey, 2022-2024",
+  "tituloEs": "Epidemiología de la meningitis bacteriana pediátrica en Japón: vigilancia multicéntrica 2022-2024",
+  "revista": "Journal of the Pediatric Infectious Diseases Society",
+  "autores": [
+    "Tomita K",
+    "Furuichi M",
+    "Yaginuma M",
+    "Iwata S",
+    "Narumi S",
+    "Shinjoh M"
+  ],
+  "fechaPublicacion": "2026 Oct 3",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42828735/",
+  "resumenOriginal": "Background: Bacterial meningitis remains a life-threatening condition among infants and young children worldwide, even in the era of advanced antimicrobial therapy and widespread vaccination. As part of ongoing multicenter surveillance in Japan, we investigated the recent epidemiology of pediatric bacterial meningitis during 2022-2024.\n\nMethods: We conducted a multicenter retrospective study of children aged 0-14 years diagnosed with bacterial meningitis in Japan between January 2022 and December 2024. Data were collected using a standardized survey to characterize current epidemiology, age-specific pathogen and pneumococcal serotype patterns, and predictors of poor outcome. Multivariable logistic regression analysis was performed to identify independent predictors of poor outcome.\n\nResults: Of 206 bacterial meningitis cases, 124 (60.2%) were community-acquired and the remaining 82 (39.8%) were healthcare-associated. Eight patients (3.9%) died-four in each group. Streptococcus agalactiae, Escherichia coli, and Streptococcus pneumoniae collectively accounted for 81.5% of community-acquired cases. S. agalactiae predominantly affected neonates and infants up to age 4 months, whereas E. coli was detected from the neonatal period through age 6 months. Among E. coli isolates, 15% (3/20) were extended-spectrum &#x3b2;-lactamase producers. S. pneumoniae was more common after age 4 months; 45.5% (10/22) of isolates were penicillin resistant, and all serotyped isolates were non-PCV13 serotypes. Multivariable analysis identified cerebrospinal fluid glucose level <20 mg/dL as an independent predictor of poor outcome.\n\nConclusions: This multicenter survey highlights the continued predominance of S. agalactiae, E. coli, and S. pneumoniae as the major causative pathogens of pediatric bacterial meningitis in Japan. Ongoing challenges-including antimicrobial resistance, serotype replacement, and healthcare-associated meningitis-underscore the need for continued surveillance.",
+  "mesh": [],
+  "palabrasClave": [
+    "Escherichia coli",
+    "Streptococcus agalactiae",
+    "Streptococcus pneumoniae",
+    "bacterial meningitis",
+    "pediatrics"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 34,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": [
+    {
+      "titulo": "Espectro etiológico según edad",
+      "texto": "S. agalactiae predomina en neonatos y lactantes hasta 4 meses; E. coli desde el período neonatal hasta los 6 meses; S. pneumoniae después de los 4 meses."
+    },
+    {
+      "titulo": "Resistencia antimicrobiana emergente",
+      "texto": "El 15% de E. coli produjo betalactamasas de espectro extendido y 45,5% de S. pneumoniae mostró resistencia a penicilina. Considerar estos patrones al elegir antibioticoterapia empírica."
+    },
+    {
+      "titulo": "Serotipos no vacunales de neumococo",
+      "texto": "Todos los aislamientos serotipificados de S. pneumoniae fueron serotipos no incluidos en la vacuna conjugada 13-valente, lo que señala reemplazo de serotipos tras inmunización masiva."
+    },
+    {
+      "titulo": "Predictor de mal pronóstico",
+      "texto": "Glucosa en líquido cefalorraquídeo <20 mg/dL fue el único predictor independiente de desenlace desfavorable. Reforzar la evaluación citoquímica inicial completa."
+    },
+    {
+      "titulo": "Meningitis asociada a la atención",
+      "texto": "Casi 40% de los casos fueron asociados a la atención sanitaria, con mortalidad similar a los adquiridos en la comunidad. Mantener alta vigilancia en pacientes hospitalizados con factores de riesgo."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo multicéntrico en 206 niños japoneses con meningitis bacteriana. Streptococcus agalactiae, Escherichia coli y Streptococcus pneumoniae causaron el 81,5% de los casos adquiridos en la comunidad. La glucorraquia <20 mg/dL se asoció independientemente con mal pronóstico.",
+  "aplicacionDocente": "En la discusión de casos de sepsis o sospecha de meningitis, analizar con residentes el perfil etiológico según edad y procedencia, interpretar la glucorraquia como marcador pronóstico y discutir el impacto de la vacunación conjugada en la epidemiología local de serotipos neumocócicos.",
+  "infografia": "/img/infografias/2026-10-05-epidemiology-of-pediatric-bacterial-meningitis-in-japan-a-multicenter-survey-202.png",
+  "disenoEstudio": "Estudio observacional retrospectivo multicéntrico en 206 niños de 0 a 14 años con meningitis bacteriana en Japón, 2022-2024",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Glucorraquia <20 mg/dL predice mal pronóstico en meningitis bacteriana pediátrica",
+  "etiquetas": [
+    "meningitis bacteriana",
+    "streptococcus agalactiae",
+    "escherichia coli",
+    "streptococcus pneumoniae",
+    "resistencia antimicrobiana"
+  ],
+  "advertencia": "Estudio retrospectivo en un solo país con sistema de salud y calendario vacunal específicos; la extrapolación directa a otras regiones de Latinoamérica requiere considerar diferencias epidemiológicas y de cobertura vacunal.",
+  "generadoPor": "claude-sonnet-4-5"
+}

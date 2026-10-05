@@ -1,0 +1,74 @@
+{
+  "id": "2026-10-05-persistent-multidrug-resistant-salmonella-enterica-serovar-paratyphi-a-bacteremi",
+  "estado": "publicado",
+  "pmid": "42824629",
+  "doi": "10.1155/crpe/2293042",
+  "titulo": "Persistent Multidrug-Resistant Salmonella enterica Serovar Paratyphi A Bacteremia in a Preterm Neonate: A Case Report",
+  "tituloEs": "Bacteriemia persistente por Salmonella Paratyphi A multirresistente en un prematuro",
+  "revista": "Case reports in pediatrics",
+  "autores": [
+    "Sophea K",
+    "Viso S",
+    "Sophâl C"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42824629/",
+  "resumenOriginal": "Background: Neonatal sepsis caused by Salmonella enterica serovar Paratyphi A is rare and may present with nonspecific clinical features. Multidrug-resistant strains pose substantial diagnostic and therapeutic challenges, particularly in resource-limited settings.\n\nCase presentation: We report a preterm neonate born at 33&#x2009;weeks of gestation with a birth weight of 1800&#x2009;g who initially presented with respiratory distress and was managed as transient tachypnea of the newborn. The infant subsequently developed persistent fever, feeding intolerance, abdominal distension, leukopenia, severe thrombocytopenia, and elevated inflammatory markers despite initially negative blood cultures. A blood culture obtained on Day 20 of life grew multidrug-resistant S. Paratyphi A, resistant to ceftriaxone, ciprofloxacin, pefloxacin, and trimethoprim-sulfamethoxazole, with intermediate susceptibility to amikacin. The infant required blood-product support and prolonged antimicrobial therapy. A 21-day course of empiric cefoperazone/sulbactam plus levofloxacin was administered with close monitoring and was temporally associated with clinical improvement and microbiological clearance. Blood cultures obtained on Days 45 and 50 were negative. No maternal or apparent healthcare-associated source was identified.\n\nConclusion: Persistent multidrug-resistant S. Paratyphi A bacteremia should be considered in neonates with refractory sepsis despite initially negative blood cultures. Repeated cultures, reassessment of antimicrobial susceptibility, and cautious individualized treatment are essential when laboratory capacity and therapeutic options are limited. The effectiveness of empiric salvage therapy cannot be established without direct susceptibility data and stronger supporting evidence.",
+  "mesh": [],
+  "palabrasClave": [
+    "Salmonella enterica serovar Paratyphi A",
+    "blood culture",
+    "multidrug resistance",
+    "neonatal sepsis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 38,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": [
+    {
+      "titulo": "Repetir hemocultivos en sepsis refractaria",
+      "texto": "Un hemocultivo inicial negativo no descarta infección bacteriana invasiva. Considerar nuevas tomas si persiste fiebre, intolerancia alimentaria o deterioro clínico pese a tratamiento empírico."
+    },
+    {
+      "titulo": "Sospechar Salmonella en cuadros atípicos",
+      "texto": "Aunque rara en neonatos, la bacteriemia por Salmonella puede presentarse con fiebre persistente, distensión abdominal, trombocitopenia grave y marcadores inflamatorios elevados sin foco evidente."
+    },
+    {
+      "titulo": "Solicitar antibiograma en toda Salmonella aislada",
+      "texto": "La resistencia a cefalosporinas de tercera generación y fluoroquinolonas es creciente. El tratamiento empírico debe ajustarse según susceptibilidad documentada."
+    },
+    {
+      "titulo": "Vigilar toxicidad en terapias prolongadas",
+      "texto": "Cursos de 21 días o más en prematuros exigen monitoreo estrecho de función renal, auditiva y hematológica, especialmente con aminoglucósidos o fluoroquinolonas."
+    },
+    {
+      "titulo": "Descartar fuente materna o nosocomial",
+      "texto": "Investigar exposición intraparto, manipulación de alimentos o contacto con reservorios ambientales. La ausencia de fuente identificada no excluye transmisión vertical u horizontal."
+    }
+  ],
+  "sintesis": "Se describe un prematuro de 33 semanas que desarrolló bacteriemia persistente por Salmonella enterica serovar Paratyphi A multirresistente, detectada recién al día 20 de vida tras hemocultivos inicialmente negativos. El caso requirió transfusiones y antibioticoterapia prolongada con cefoperazona/sulbactam más levofloxacina durante 21 días, logrando mejoría clínica y negativización microbiológica.",
+  "aplicacionDocente": "En la discusión de casos de sepsis neonatal tardía sin respuesta, plantear con residentes cuándo repetir hemocultivos y cómo interpretar un primer cultivo negativo. Revisar el perfil de resistencia local de enterobacterias y la utilidad limitada de esquemas empíricos cuando no hay datos de susceptibilidad directa.",
+  "infografia": "/img/infografias/2026-10-05-persistent-multidrug-resistant-salmonella-enterica-serovar-paratyphi-a-bacteremi.png",
+  "disenoEstudio": "Reporte de caso en un prematuro hospitalizado",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Sepsis refractaria en prematuros: repetir hemocultivo aunque el primero sea negativo",
+  "etiquetas": [
+    "salmonella paratyphi",
+    "bacteriemia neonatal",
+    "resistencia antimicrobiana",
+    "sepsis neonatal tardía",
+    "prematuro"
+  ],
+  "advertencia": "Reporte de un solo caso sin datos de susceptibilidad completos ni grupo control; la efectividad del esquema terapéutico no puede establecerse con certeza.",
+  "generadoPor": "claude-sonnet-4-5"
+}
