@@ -1,0 +1,97 @@
+{
+  "id": "2026-10-09-mediastinal-lymphadenitis-caused-by-mycobacterium-avium-complex-in-children-a-ra",
+  "estado": "publicado",
+  "pmid": "42850474",
+  "doi": "10.1007/s00431-026-07470-9",
+  "titulo": "Mediastinal lymphadenitis caused by Mycobacterium avium complex in children: a rare case of airway compression",
+  "tituloEs": "Linfadenitis mediastínica por complejo Mycobacterium avium con compresión de vía aérea en niños",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Fréret V",
+    "Berteloot L",
+    "Taam RA",
+    "Bosdure E",
+    "Corvol H",
+    "Cros P",
+    "Dubus JC",
+    "Gachelin E",
+    "Gibertini I",
+    "Hullo E",
+    "Mordacq C",
+    "Nathan N"
+  ],
+  "fechaPublicacion": "2026 Oct 9",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42850474/",
+  "resumenOriginal": "Unlabelled: Airway compression caused by intrathoracic non-tuberculous mycobacteria (NTM) lymphadenitis is particularly uncommon in otherwise healthy children and remains poorly characterized. We aimed to describe the clinical, radiological, microbiological, and immunological features of a French pediatric cohort diagnosed with mediastinal Mycobacterium avium&#xa0;complex (MAC) lymphadenitis. We conducted a retrospective multicenter study that included children diagnosed with bacteriologically confirmed intrathoracic MAC lymphadenitis in France between 2009 and 2024. Patients with HIV-related immunodeficiency or known inborn errors of immunity were excluded. Immunological investigations were performed, including the secretion of IL-12 and IFN-&#x3b3; by a whole-blood assay. Ten children with intrathoracic MAC lymphadenitis with airway compression were included. In most cases, the diagnosis required invasive sampling. Mycobacterium avium&#xa0;was identified in nine patients and M. intracellulare in one patient. Main respiratory manifestations were dyspnea, persistent cough, and abnormal breath sounds. Chest computed tomography (CT) scans revealed mediastinal lymphadenopathies causing airway compression, ventilation disorders, and air trapping. Following prolonged antibiotic treatment, all patients showed clinical improvement and a reduction in lymph node size, although residual calcifications frequently persisted. IFN-&#x3b3; secretion was impaired in all five patients who underwent specific immunological testing, consistently lower compared with healthy controls.\n\nConclusion: This study highlights a rare presentation of airway compression in children characterized by MAC mediastinal lymphadenitis. These findings underscore the importance of considering NTM infections in the differential diagnosis of persistent mediastinal lymphadenitis in young children and highlight the frequent need for invasive sampling to establish a microbiological diagnosis. Although no overt immunodeficiency was identified, immune evaluation, particularly exploration of the IFN-&#x3b3;-mediated immunity, may be relevant in these patients.\n\nWhat is known: &#x2022; Mediastinal lymphadenitis caused by non-tuberculous mycobacteria (NTM) is a rare condition, mainly reported in immunocompromised patients, and often mimics tuberculosis on imaging. &#x2022; Diagnosis is challenging due to nonspecific clinical and radiological findings, and it relies on microbiological confirmation.\n\nWhat is new: &#x2022; In this cohort, intrathoracic MAC infection in young children presented as airway-compressive mediastinal lymphadenitis rather than classical parenchymal pulmonary NTM disease. &#x2022; Bronchoalveolar lavage had a low diagnostic yield, and most cases required targeted lymph node or endobronchial granuloma sampling. &#x2022; A subset of tested patients showed reduced IFN-&#x3b3; secretion despite the absence of a known monogenic immunodeficiency.",
+  "mesh": [
+    "Humans",
+    "Retrospective Studies",
+    "Male",
+    "Female",
+    "Mycobacterium avium Complex",
+    "Child, Preschool",
+    "Lymphadenitis",
+    "Mycobacterium avium-intracellulare Infection",
+    "Child",
+    "France",
+    "Infant",
+    "Airway Obstruction"
+  ],
+  "palabrasClave": [
+    "Mycobacterium avium",
+    "IFN-&#x3b3;",
+    "Mediastinal lymphadenitis",
+    "Pediatric infection",
+    "Respiratory disease"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Vacunas e inmunización",
+    "Tuberculosis y VIH"
+  ],
+  "puntaje": 33.5,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-09",
+  "publicadoEl": "2026-10-09",
+  "tips": [
+    {
+      "titulo": "Sospecha en tos persistente",
+      "texto": "Considerar micobacterias no tuberculosas (MNT) ante linfadenopatías mediastínicas con tos persistente, disnea o ruidos respiratorios anormales en preescolares, especialmente si la tomografía muestra compresión de vía aérea o atrapamiento aéreo."
+    },
+    {
+      "titulo": "Lavado broncoalveolar insuficiente",
+      "texto": "El lavado broncoalveolar tuvo bajo rendimiento diagnóstico en esta serie. La confirmación microbiológica requirió biopsia dirigida de ganglio o granuloma endobronquial en la mayoría de los casos."
+    },
+    {
+      "titulo": "Antibioticoterapia prolongada efectiva",
+      "texto": "Todos los pacientes mejoraron clínicamente con tratamiento antibiótico prolongado, con reducción del tamaño ganglionar, aunque persistieron calcificaciones residuales en muchos casos."
+    },
+    {
+      "titulo": "Evaluar inmunidad mediada por IFN-γ",
+      "texto": "Aunque no se identificó inmunodeficiencia manifiesta, los cinco pacientes evaluados mostraron secreción reducida de IFN-γ. Considerar estudio inmunológico básico, incluida exploración de inmunidad mediada por IFN-γ."
+    },
+    {
+      "titulo": "Presentación atípica en inmunocompetentes",
+      "texto": "A diferencia de la enfermedad pulmonar parenquimatosa clásica por MNT, estos niños presentaron linfadenitis mediastínica compresiva. Esta forma es infrecuente en población pediátrica inmunocompetente y puede simular tuberculosis."
+    }
+  ],
+  "sintesis": "Estudio multicéntrico retrospectivo de 10 niños franceses con linfadenitis mediastínica por complejo Mycobacterium avium (MAC) que causó compresión de vía aérea. El diagnóstico requirió muestreo invasivo en la mayoría. Todos mejoraron con antibioticoterapia prolongada, aunque persistieron calcificaciones residuales.",
+  "aplicacionDocente": "En un preescolar con tos persistente y tomografía con adenopatías mediastínicas compresivas, discutir micobacterias no tuberculosas como diagnóstico diferencial. Enfatizar la necesidad de muestreo invasivo cuando el lavado broncoalveolar es negativo y considerar estudio inmunológico básico de vía IFN-γ, incluso sin inmunodeficiencia evidente.",
+  "infografia": "/img/infografias/2026-10-09-mediastinal-lymphadenitis-caused-by-mycobacterium-avium-complex-in-children-a-ra.png",
+  "disenoEstudio": "Serie de casos retrospectiva multicéntrica en 10 niños franceses con linfadenitis mediastínica por MAC confirmada bacteriológicamente, 2009–2024",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "MAC mediastínico: compresión de vía aérea en niños, diagnóstico invasivo necesario",
+  "etiquetas": [
+    "mycobacterium avium complex",
+    "linfadenitis mediastínica",
+    "micobacterias no tuberculosas",
+    "compresión de vía aérea",
+    "inmunidad mediada por interferón gamma"
+  ],
+  "advertencia": "Serie pequeña de 10 casos, sin grupo control clínico; la evaluación inmunológica fue parcial y no estandarizada en todos los pacientes.",
+  "generadoPor": "claude-sonnet-4-5"
+}

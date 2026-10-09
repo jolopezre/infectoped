@@ -1,0 +1,90 @@
+{
+  "id": "2026-10-09-short-versus-long-course-antibiotic-therapy-in-non-severe-cap-in-children-a-syst",
+  "estado": "publicado",
+  "pmid": "42844453",
+  "doi": "10.1007/s00431-026-07471-8",
+  "titulo": "Short- versus long-course antibiotic therapy in non-severe CAP in children: a systematic review and meta-analysis",
+  "tituloEs": "Tratamiento antibiótico corto vs. prolongado en neumonía adquirida en la comunidad no grave en niños",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Klapas A",
+    "Panagopoulos P",
+    "Makis A",
+    "Siomou E",
+    "Ladomenou F"
+  ],
+  "fechaPublicacion": "2026 Oct 7",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42844453/",
+  "resumenOriginal": "Unlabelled: Optimizing antibiotic duration for pediatric community-acquired pneumonia (CAP) may reduce treatment burden and support antimicrobial stewardship. Although recent randomized trials and evidence syntheses have reported similar clinical outcomes with shorter antibiotic courses, the effect of treatment duration on adherence-an especially relevant consideration in children-has received comparatively limited systematic evaluation. We therefore aimed to compare treatment effectiveness, medication adherence, and antibiotic-related adverse events between short-course and conventional-duration antibiotic therapy for non-severe CAP in immunocompetent children. PubMed, Cochrane Library, Scopus, ClinicalTrials.gov, and WHO Global Index Medicus were sought through April 25, 2025. Only randomized clinical trials that included immunocompetent children&#x2009;<&#x2009;18&#xa0;years with non-severe CAP and compared short-course (&#x2264;&#x2009;5&#xa0;days) with longer therapy (>&#x2009;5&#xa0;days) were considered. Data extraction and risk of bias (ROB 2) assessment were performed by two independent reviewers. Summary data were extracted by published reports. The principal outcomes were treatment effectiveness, assessed through treatment failure and relapse according to the definitions prespecified by each trial, and medication non-adherence to the active (non-placebo) study drug. Antibiotic-related adverse events were assessed as a secondary outcome. Risk ratios (RRs) with 95% confidence intervals (CIs) were calculated using random-effects models. Two hundred thirty studies were originally screened, after removal of duplicates and 10 trials (n&#x2009;=&#x2009;8970) met inclusion criteria. No significant differences were found in treatment failure [RR&#x2009;=&#x2009;1.07 (95% CI, 0.93-1.24), I2&#x2009;=&#x2009;3%] or relapse [RR&#x2009;=&#x2009;1.04 (95% CI, 0.72-1.49), I2&#x2009;=&#x2009;0%]. Shorter regimens markedly reduced non-adherence [RR&#x2009;=&#x2009;0.35 (95% CI, 0.24-0.50), I2&#x2009;=&#x2009;54%], the most consistent and clinically meaningful difference. Adverse events were comparable [RR&#x2009;=&#x2009;0.71 (95% CI, 0.36-1.40), I2&#x2009;=&#x2009;81%].\n\nConclusions: &#xa0;Short-course therapy was not associated with significantly different treatment failure or relapse rates compared with longer regimens and was associated with substantially lower non-adherence. These findings support shorter antibiotic courses as a reasonable treatment option for non-severe pediatric CAP, while acknowledging that the present meta-analysis was not designed to formally establish non-inferiority or equivalence.\n\nWhat is known: &#x2022; Short-course antibiotic therapy may achieve similar clinical outcomes to conventional longer courses in children with non-severe community-acquired pneumonia. &#x2022; Medication adherence remains an important challenge in pediatric antibiotic therapy.\n\nWhat is new: &#x2022; This meta-analysis found no significant difference in treatment failure or relapse between short- and long-course therapy. &#x2022; Short-course therapy was associated with substantially lower non-adherence, highlighting an important practical advantage of shorter regimens.",
+  "mesh": [
+    "Humans",
+    "Anti-Bacterial Agents",
+    "Community-Acquired Pneumonia",
+    "Child",
+    "Treatment Outcome",
+    "Drug Administration Schedule",
+    "Child, Preschool",
+    "Randomized Controlled Trials as Topic",
+    "Community-Acquired Infections",
+    "Duration of Therapy"
+  ],
+  "palabrasClave": [
+    "Antibiotic duration",
+    "Antimicrobial stewardship",
+    "Children",
+    "Community-acquired pneumonia",
+    "Short-course therapy",
+    "Treatment&#xa0;adherence"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Infecciones respiratorias"
+  ],
+  "puntaje": 35,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-09",
+  "publicadoEl": "2026-10-09",
+  "tips": [
+    {
+      "titulo": "Considerar esquemas cortos",
+      "texto": "En neumonía comunitaria no grave sin factores de riesgo, considerar ciclos de 5 días o menos. Los esquemas cortos no aumentan el riesgo de fracaso terapéutico ni de recaída."
+    },
+    {
+      "titulo": "Ventaja en adherencia",
+      "texto": "Los esquemas cortos redujeron la falta de adherencia en 65% comparados con los prolongados, lo que constituye una ventaja práctica importante en población pediátrica."
+    },
+    {
+      "titulo": "Seguridad comparable",
+      "texto": "Los eventos adversos relacionados con antibióticos fueron similares entre ambos esquemas, sin evidencia de mayor toxicidad con cursos cortos."
+    },
+    {
+      "titulo": "Perfil del paciente",
+      "texto": "Esta evidencia se limita a niños inmunocompetentes con neumonía no grave. No debe extrapolarse a casos complicados, hospitalizados o con inmunodeficiencia."
+    },
+    {
+      "titulo": "Apoyo a la administración prudente",
+      "texto": "Acortar la duración antibiótica cuando esté clínicamente justificado refuerza los programas de uso racional de antimicrobianos sin comprometer la eficacia."
+    }
+  ],
+  "sintesis": "Esta revisión sistemática y metaanálisis evaluó 10 ensayos aleatorizados (n=8970) que compararon antibioticoterapia corta (≤5 días) versus prolongada (>5 días) en niños inmunocompetentes con neumonía adquirida en la comunidad no grave. Los esquemas cortos no mostraron diferencias significativas en fracaso terapéutico o recaída, pero redujeron sustancialmente la falta de adherencia.",
+  "aplicacionDocente": "En la ronda con residentes, revisar el día de antibiótico de cada niño con neumonía no grave: ¿cumple ya 5 días con buena evolución clínica? Discutir el egreso en lugar de extender rutinariamente a 7 o 10 días. Reforzar que el acortamiento mejora adherencia y reduce presión de selección antimicrobiana sin aumentar recaídas.",
+  "infografia": "/img/infografias/2026-10-09-short-versus-long-course-antibiotic-therapy-in-non-severe-cap-in-children-a-syst.png",
+  "disenoEstudio": "Revisión sistemática y metaanálisis de 10 ensayos aleatorizados en 8970 niños inmunocompetentes con neumonía comunitaria no grave",
+  "nivelEvidencia": "alto",
+  "fraseInfografia": "5 días de antibiótico pueden ser suficientes en neumonía comunitaria no grave en niños",
+  "etiquetas": [
+    "neumonía adquirida en la comunidad",
+    "duración antibiótica",
+    "adherencia terapéutica",
+    "uso racional de antimicrobianos",
+    "pediatría ambulatoria"
+  ],
+  "advertencia": "El metaanálisis no fue diseñado para establecer formalmente no inferioridad o equivalencia; las conclusiones se basan en ausencia de diferencias significativas.",
+  "generadoPor": "claude-sonnet-4-5"
+}
