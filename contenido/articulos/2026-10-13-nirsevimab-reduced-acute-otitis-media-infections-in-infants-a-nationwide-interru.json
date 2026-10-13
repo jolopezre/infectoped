@@ -1,0 +1,87 @@
+{
+  "id": "2026-10-13-nirsevimab-reduced-acute-otitis-media-infections-in-infants-a-nationwide-interru",
+  "estado": "publicado",
+  "pmid": "42855657",
+  "doi": "10.1007/s00431-026-07508-y",
+  "titulo": "Nirsevimab reduced acute otitis media infections in infants-a nationwide interrupted time-series analysis",
+  "tituloEs": "Nirsevimab redujo 44% la otitis media aguda en lactantes menores de un año",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Leskinen N",
+    "Renko M",
+    "Kuitunen I"
+  ],
+  "fechaPublicacion": "2026 Oct 9",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42855657/",
+  "resumenOriginal": "Unlabelled: Respiratory syncytial virus (RSV) is a major cause of acute respiratory tract infections in young children worldwide. Acute otitis media (AOM) is among the most frequent complications of RSV infection and the leading indication for antibiotic prescribing in this age group. The aim of this study was to evaluate the effectiveness of nirsevimab in reducing the incidence of AOM among infants. We conducted a nationwide register-based interrupted time-series study using data on live births, laboratory-confirmed RSV detections, and AOM diagnoses from four consecutive RSV seasons (2022-2023 to 2025-2026). Monthly infant populations at risk were reconstructed from birth cohorts to estimate incidence rates during the peak RSV seasons (December-March) which were compared between two pre-implementation and two post-implementation RSV seasons in infants aged&#x2009;<&#x2009;12 months, stratified into age groups of 0-2, 3-5, and 6-11 months. The study population consisted of 181,999 infants and the follow-up consisted of 2,022,261 infant-months. A total of 3699 RSV-positive findings and 15,830 AOM diagnoses were included in the primary analysis. Following nirsevimab implementation, the incidence of AOM and RSV among infants aged&#x2009;<&#x2009;12 months decreased by 44% (RR 0.56, 95% CI 0.54-0.58) and 83% (RR 0.17, 95% CI 0.15-0.18), respectively. The reduction was greatest in the youngest age (0-2 months) group.\n\nConclusion: &#xa0;Implementation of a nirsevimab immunisation programme was associated with a substantial reduction in AOM incidence among infants aged&#x2009;<&#x2009;12 months, suggesting that RSV immunisation may reduce the burden of AOM in early childhood.\n\nWhat's known: &#x2022; RSV is a major cause of morbidity during infancy, and acute otitis media is among its most frequent complications. &#x2022; Nirsevimab has demonstrated high efficacy in preventing severe RSV disease in young children; however, its effect on outpatient RSV-related complications has not been well established.\n\nWhat is new: &#x2022; This study provides population-based real-world evidence on the impact of nirsevimab on acute otitis media. &#x2022; Following the implementation of nirsevimab prophylaxis, the incidence of acute otitis media among infants decreased significantly.",
+  "mesh": [
+    "Humans",
+    "Otitis Media",
+    "Infant",
+    "Respiratory Syncytial Virus Infections",
+    "Interrupted Time Series Analysis",
+    "Female",
+    "Male",
+    "Incidence",
+    "Acute Disease",
+    "Infant, Newborn",
+    "Antiviral Agents",
+    "Registries"
+  ],
+  "palabrasClave": [
+    "Acute otitis media",
+    "Infants",
+    "Nirsevimab",
+    "Prophylaxis",
+    "RSV"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Infecciones respiratorias",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-13",
+  "publicadoEl": "2026-10-13",
+  "tips": [
+    {
+      "titulo": "Beneficio más allá del bronquiolitis",
+      "texto": "Nirsevimab no solo previene enfermedad grave por VSR sino que reduce significativamente la OMA, primera causa de prescripción antibiótica en lactantes."
+    },
+    {
+      "titulo": "Protección máxima en menores de 3 meses",
+      "texto": "La reducción de OMA fue mayor en el grupo de 0 a 2 meses, edad de mayor vulnerabilidad para complicaciones del VSR."
+    },
+    {
+      "titulo": "Impacto poblacional en uso de antibióticos",
+      "texto": "La caída de 44% en OMA sugiere potencial para disminuir prescripción antibiótica innecesaria y reducir resistencia antimicrobiana en esta población."
+    },
+    {
+      "titulo": "Evidencia de mundo real",
+      "texto": "Datos de registros nacionales durante cuatro temporadas consecutivas respaldan la efectividad de nirsevimab en condiciones reales de implementación."
+    },
+    {
+      "titulo": "VSR como causa subestimada de OMA",
+      "texto": "La reducción paralela de VSR (83%) y OMA (44%) confirma el rol del virus sincicial respiratorio como agente etiológico relevante en otitis del lactante."
+    }
+  ],
+  "sintesis": "Estudio nacional de series temporales interrumpidas en 181 999 lactantes mostró que tras la implementación de nirsevimab, la incidencia de otitis media aguda (OMA) disminuyó 44% y las infecciones confirmadas por VSR 83%, con mayor efecto en menores de 3 meses.",
+  "aplicacionDocente": "Al evaluar un lactante con OMA durante temporada de VSR, considerar el antecedente de profilaxis con nirsevimab como factor protector. Este estudio permite discutir con residentes el impacto poblacional de la inmunización pasiva más allá de la prevención de bronquiolitis grave, incluyendo reducción de complicaciones ambulatorias y uso racional de antibióticos.",
+  "infografia": "/img/infografias/2026-10-13-nirsevimab-reduced-acute-otitis-media-infections-in-infants-a-nationwide-interru.png",
+  "disenoEstudio": "Serie temporal interrumpida nacional en 181 999 lactantes, cuatro temporadas de VSR (2022–2026)",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Nirsevimab reduce casi a la mitad la otitis media aguda en menores de un año",
+  "etiquetas": [
+    "nirsevimab",
+    "otitis media aguda",
+    "virus sincicial respiratorio",
+    "inmunización pasiva",
+    "lactante"
+  ],
+  "advertencia": "Estudio observacional basado en registros; no permite establecer causalidad directa ni controlar completamente factores de confusión como prácticas diagnósticas o circulación de otros patógenos respiratorios.",
+  "generadoPor": "claude-sonnet-4-5"
+}

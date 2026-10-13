@@ -1,0 +1,96 @@
+{
+  "id": "2026-10-13-prevalence-and-outcomes-of-bacterial-co-detections-by-blood-culture-among-childr",
+  "estado": "publicado",
+  "pmid": "42161336",
+  "doi": "10.1093/cid/ciag242",
+  "titulo": "Prevalence and Outcomes of Bacterial Co-detections by Blood Culture Among Children and Adults Hospitalized With Laboratory-confirmed Influenza, Influenza Hospitalization Surveillance Network, 2022-2024",
+  "tituloEs": "Codetección bacteriana en hemocultivos de pacientes hospitalizados con influenza: prevalencia y desenlaces",
+  "revista": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+  "autores": [
+    "Tenforde MW",
+    "Ujamaa D",
+    "Talbot HK",
+    "O'Halloran AC",
+    "Chai SJ",
+    "Sachdev D",
+    "Armistead I",
+    "Alden NB",
+    "Meek J",
+    "Yousey-Hindes K",
+    "Witt LS",
+    "Openo KP"
+  ],
+  "fechaPublicacion": "2026 Oct 7",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42161336/",
+  "resumenOriginal": "Background: Influenza predisposes individuals to bacterial co-infections, which can result in disseminated infection and bacteremia. We describe the epidemiology and outcomes of blood culture co-detections among those hospitalized with influenza over 2 influenza seasons.\n\nMethods: We sampled individuals of all ages from FluSurv-NET, a US population-based surveillance network of persons hospitalized with laboratory-confirmed influenza, during the 2022-2023 and 2023-2024 seasons. Surveillance staff collected information on bacterial blood cultures within 3 days before or 3 days following admission. We described patient characteristics and in-hospital outcomes, stratified by culture positivity, number of positive cultures, and type of co-detection, using unweighted counts and weighted percentages to account for the complex survey design.\n\nResults: Overall, 14 316 patients were included, with a median (interquartile range) age of 57 (14-74) years, 53.6% female, 52.0% non-Hispanic White, and 25.6% with &#x2265;4 categories of underlying medical conditions. Of these, 50.8% had &#x2265;1 blood cultures obtained and 5.2% overall had &#x2265;1 bacterial co-detections. Intensive care unit admission occurred for 9.6%, 19.2%, 31.2%, and 47.9% among patients with no blood cultures, negative cultures, 1 co-detection, and >1 co-detection documented, respectively; in-hospital mortality occurred in 1.5%, 3.3%, 9.4%, and 14.5%, respectively. Among patients with positive cultures, 22.1% had Staphylococcus aureus and 7.5% had Streptococcus pneumoniae co-detections; both were associated with severe illness (with 22.4% in-hospital mortality each).\n\nDiscussion: Bacterial co-detections in persons hospitalized with influenza were associated with poor in-hospital outcomes. Efforts to prevent severe influenza and bacterial co-infections, including through vaccination, may reduce substantial morbidity and mortality from influenza.",
+  "mesh": [
+    "Humans",
+    "Female",
+    "Male",
+    "Influenza, Human",
+    "Coinfection",
+    "Hospitalization",
+    "Adolescent",
+    "Aged",
+    "Adult",
+    "Middle Aged",
+    "Blood Culture",
+    "Prevalence"
+  ],
+  "palabrasClave": [
+    "bacteremia",
+    "blood culture",
+    "hospitalization",
+    "influenza",
+    "outcomes"
+  ],
+  "temas": [
+    "Sepsis y cuidado crítico",
+    "Infecciones respiratorias",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 31.5,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-13",
+  "publicadoEl": "2026-10-13",
+  "tips": [
+    {
+      "titulo": "Hemocultivo en influenza grave",
+      "texto": "Considerar hemocultivo en pacientes hospitalizados con influenza que presenten deterioro clínico, signos de sepsis o criterios de ingreso a UCIP, para detectar coinfección bacteriana."
+    },
+    {
+      "titulo": "S. aureus y S. pneumoniae",
+      "texto": "Staphylococcus aureus y Streptococcus pneumoniae fueron las codetecciones más frecuentes, cada una asociada con 22,4% de mortalidad intrahospitalaria. Ambas justifican antibioticoterapia empírica precoz en cuadros graves."
+    },
+    {
+      "titulo": "Estratificación de riesgo por hemocultivo",
+      "texto": "La presencia de hemocultivo positivo, y especialmente más de una codetección, identifica a pacientes con riesgo muy elevado de desenlaces adversos y puede orientar el nivel de cuidado."
+    },
+    {
+      "titulo": "Prevención mediante vacunación",
+      "texto": "La vacunación antiinfluenza, antineumocócica y el cumplimiento de esquemas completos en población de riesgo pueden reducir tanto la carga viral como la frecuencia de coinfecciones bacterianas graves."
+    },
+    {
+      "titulo": "Codetección y severidad",
+      "texto": "La detección bacteriana en sangre no solo confirma infección invasiva, sino que se correlaciona con mayor necesidad de cuidados intensivos y mortalidad, independientemente del agente."
+    }
+  ],
+  "sintesis": "En 14 316 pacientes hospitalizados con influenza confirmada en Estados Unidos (2022–2024), el 5,2% presentó hemocultivo positivo para bacterias. La codetección bacteriana se asoció con mayor ingreso a UCIP (hasta 47,9% con >1 codetección) y mortalidad intrahospitalaria (hasta 14,5%), especialmente por Staphylococcus aureus y Streptococcus pneumoniae.",
+  "aplicacionDocente": "Este hallazgo permite discutir con residentes cuándo solicitar hemocultivo en influenza (signos de gravedad, inestabilidad hemodinámica), cuáles patógenos anticipar (S. aureus, S. pneumoniae) y cómo la codetección bacteriana modifica el pronóstico y la cobertura antibiótica empírica. Útil para reforzar la importancia de las vacunas como estrategia de prevención.",
+  "infografia": "/img/infografias/2026-10-13-prevalence-and-outcomes-of-bacterial-co-detections-by-blood-culture-among-childr.png",
+  "disenoEstudio": "Estudio de vigilancia poblacional en 14 316 hospitalizados con influenza confirmada, 2 temporadas, Estados Unidos",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Codetección bacteriana en influenza: hasta 14,5% de mortalidad cuando hay >1 hemocultivo +",
+  "etiquetas": [
+    "influenza",
+    "coinfección bacteriana",
+    "hemocultivo",
+    "mortalidad intrahospitalaria",
+    "staphylococcus aureus"
+  ],
+  "advertencia": "Estudio de vigilancia sin grupo control externo; no permite establecer causalidad directa entre codetección y mortalidad, solo asociación.",
+  "generadoPor": "claude-sonnet-4-5"
+}
