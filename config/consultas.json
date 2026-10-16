@@ -1,6 +1,6 @@
 {
   "_comentario": "Lineas de busqueda en PubMed sobre enfermedades infecciosas pediatricas. 'peso' ordena la prioridad cuando hay mas candidatos que 'maximoPorSemana'.",
-  "ventanaDias": 6,
+  "ventanaDias": 8,
   "consultas": [
     {
       "id": "antimicrobianos-pediatria",
