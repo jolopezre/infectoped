@@ -1,7 +1,7 @@
 # INFECTOPED
 
 Sitio de difusión de evidencia en **enfermedades infecciosas pediátricas**.
-Cada cuatro días busca artículos nuevos en PubMed, selecciona los **dos** más
+Cada cinco días busca artículos nuevos en PubMed, selecciona los **cuatro** más
 relevantes, redacta un resumen en español con **5 puntos clave accionables**,
 genera una **infografía PNG** y despliega el sitio en Netlify.
 Sin base de datos, sin CMS, sin servidor.
@@ -51,7 +51,7 @@ infectoped/
 │   ├── lib/{util,pubmed,claude,plantillas,suscribirse}.mjs
 │   ├── buscar.mjs · resumir.mjs · infografia.mjs · construir.mjs · servir.mjs
 ├── .github/workflows/
-│   ├── publicacion.yml          Cron cada 4 días
+│   ├── publicacion.yml          Cron cada 5 días
 │   └── verificacion.yml         Comprueba que el sitio construye en cada PR
 ├── netlify.toml
 └── package.json
@@ -108,17 +108,17 @@ En **Settings → Actions → General → Workflow permissions**, activa
 
 ---
 
-## Cadencia cada 4 días
+## Cadencia cada 5 días
 
-El cron es `23 11 */4 * *`: días 1, 5, 9, 13, 17, 21, 25 y 29 de cada mes a las
+El cron es `23 11 */5 * *`: días 1, 6, 11, 16, 21, 26 y 31 de cada mes a las
 11:23 UTC (06:23 en Lima).
 
-**Advertencia honesta:** cron no sabe contar "cada 4 días" de forma continua. El
-contador se reinicia con el mes, así que entre el día 29 y el día 1 siguiente el
-intervalo será de 2 o 3 días según el mes. En la práctica son 8 ediciones
-mensuales con un salto algo más corto en el cambio de mes.
+**Advertencia honesta:** cron no sabe contar "cada 5 días" de forma continua. El
+contador se reinicia con el mes, así que entre el día 31 (o el 26, en meses de 30
+días) y el día 1 siguiente el intervalo será de 1 a 5 días. En la práctica son 6 o
+7 ediciones mensuales con un salto algo más corto en el cambio de mes.
 
-La ventana de búsqueda es de 6 días para cubrir con margen el intervalo; la
+La ventana de búsqueda es de 8 días para cubrir con margen el intervalo; la
 deduplicación por PMID impide que un artículo salga dos veces.
 
 ---
