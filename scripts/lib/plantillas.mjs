@@ -74,7 +74,7 @@ ${contenido}
   </div>
   <div class="contenedor pie-legal">
     <p>Contenido educativo. No sustituye el juicio clínico, las guías vigentes ni la lectura del artículo original. Ninguna ficha incluye dosis: consulte siempre la fuente primaria antes de prescribir.</p>
-    <p>© ${new Date().getFullYear()} ${escapar(sitio.autor)} · Publicación automatizada cada 4 días · Fuente: PubMed / NCBI</p>
+    <p>© ${new Date().getFullYear()} ${escapar(sitio.autor)} · Publicación automatizada cada 5 días · Fuente: PubMed / NCBI</p>
   </div>
 </footer>
 <script src="/js/sitio.js" defer></script>
@@ -102,9 +102,9 @@ export function portada({ sitio, articulos }) {
   return `
 <section class="heroe">
   <div class="contenedor">
-    <p class="heroe-etiqueta">Publicación cada 4 días · ${articulos.length} ${articulos.length === 1 ? 'artículo' : 'artículos'} en el archivo</p>
+    <p class="heroe-etiqueta">Publicación cada 5 días · ${articulos.length} ${articulos.length === 1 ? 'artículo' : 'artículos'} en el archivo</p>
     <h1>Evidencia en <em>infectología pediátrica</em>, lista para la ronda.</h1>
-    <p class="heroe-texto">Cada cuatro días rastreamos PubMed, elegimos dos artículos que de verdad cambian cómo atendemos niños con infecciones, y publicamos una infografía y cinco puntos accionables. En español, sin relleno.</p>
+    <p class="heroe-texto">Cada cinco días rastreamos PubMed, elegimos cuatro artículos que de verdad cambian cómo atendemos niños con infecciones, y publicamos una infografía y cinco puntos accionables. En español, sin relleno.</p>
     <div class="heroe-acciones">
       <a class="boton" href="/articulos/">Ver el archivo</a>
       <a class="boton boton-fantasma" href="/suscribirse/">Suscribirse</a>
@@ -136,7 +136,7 @@ ${resto.length ? `<section class="seccion contenedor">
 
 <section class="franja">
   <div class="contenedor franja-rejilla">
-    <div><span class="franja-num">1</span><h3>Búsqueda</h3><p>Nueve líneas de búsqueda en PubMed, cada cuatro días, sobre antimicrobianos, resistencia, sepsis, vacunas y enfermedades tropicales en niños.</p></div>
+    <div><span class="franja-num">1</span><h3>Búsqueda</h3><p>Nueve líneas de búsqueda en PubMed, cada cinco días, sobre antimicrobianos, resistencia, sepsis, vacunas y enfermedades tropicales en niños.</p></div>
     <div><span class="franja-num">2</span><h3>Selección</h3><p>Puntuación por diseño del estudio, revista y solapamiento temático. Solo pasan los ${sitio.maximoPorSemana} mejores de cada edición.</p></div>
     <div><span class="franja-num">3</span><h3>Traducción</h3><p>Un resumen en español y cinco puntos que un pediatra puede aplicar en la siguiente ronda.</p></div>
     <div><span class="franja-num">4</span><h3>Publicación</h3><p>Infografía descargable, ficha completa con enlace a PubMed y aviso por RSS.</p></div>
@@ -284,13 +284,13 @@ export function paginaAcerca({ sitio }) {
 </section>
 <section class="seccion contenedor estrecho prosa">
   <h2>Por qué existe</h2>
-  <p>La literatura en infectología pediátrica crece más rápido de lo que un pediatra con guardias puede leer. INFECTOPED hace el filtro: cada cuatro días selecciona dos artículos relevantes y los devuelve convertidos en algo aplicable en la siguiente ronda.</p>
+  <p>La literatura en infectología pediátrica crece más rápido de lo que un pediatra con guardias puede leer. INFECTOPED hace el filtro: cada cinco días selecciona cuatro artículos relevantes y los devuelve convertidos en algo aplicable en la siguiente ronda.</p>
 
   <h2 id="metodo">Cómo seleccionamos</h2>
   <ol>
-    <li><strong>Búsqueda.</strong> Cada cuatro días se ejecutan nueve líneas de búsqueda en PubMed (NCBI E-utilities) con una ventana de los últimos seis días.</li>
+    <li><strong>Búsqueda.</strong> Cada cinco días se ejecutan nueve líneas de búsqueda en PubMed (NCBI E-utilities) con una ventana de los últimos ocho días.</li>
     <li><strong>Puntuación.</strong> Los candidatos se ordenan por diseño del estudio, revista, solapamiento entre líneas temáticas y calidad del resumen disponible.</li>
-    <li><strong>Redacción.</strong> Los dos artículos seleccionados se resumen en español con asistencia de un modelo de lenguaje, bajo instrucciones estrictas de no extrapolar ni inventar cifras, y de no mencionar dosis.</li>
+    <li><strong>Redacción.</strong> Los cuatro artículos seleccionados se resumen en español con asistencia de un modelo de lenguaje, bajo instrucciones estrictas de no extrapolar ni inventar cifras, y de no mencionar dosis.</li>
     <li><strong>Revisión.</strong> Antes de la publicación, un editor humano contrasta cada punto clave con el resumen original.</li>
     <li><strong>Publicación.</strong> Se genera la infografía, se construye el sitio y se despliega automáticamente.</li>
   </ol>
