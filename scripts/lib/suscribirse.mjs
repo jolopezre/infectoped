@@ -14,7 +14,7 @@ export function paginaSuscribirse({ sitio }) {
 <section class="cabecera-seccion">
   <div class="contenedor estrecho">
     <h1>Recibe cada edición</h1>
-    <p>Publicamos cada cuatro días. Puedes seguir INFECTOPED desde tu lector de noticias, sin cuenta ni correo.</p>
+    <p>Publicamos cada cinco días. Puedes seguir INFECTOPED desde tu lector de noticias, sin cuenta ni correo.</p>
   </div>
 </section>
 
