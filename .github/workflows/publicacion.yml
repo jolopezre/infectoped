@@ -1,22 +1,22 @@
-name: Publicación cada 4 días
+name: Publicación cada 5 días
 
 on:
   schedule:
-    # Días 1, 5, 9, 13, 17, 21, 25 y 29 de cada mes a las 11:23 UTC (06:23 Lima).
+    # Días 1, 6, 11, 16, 21, 26 y 31 de cada mes a las 11:23 UTC (06:23 Lima).
     # Se evita el minuto 0 porque GitHub retrasa o descarta las tareas
     # programadas en el pico de cada hora. En el cambio de mes el intervalo
-    # puede ser de 2 a 3 dias en vez de 4.
-    - cron: '23 11 */4 * *'
+    # puede ser de 1 a 5 dias en vez de 5.
+    - cron: '23 11 */5 * *'
   workflow_dispatch:
     inputs:
       maximo:
         description: 'Número máximo de artículos a publicar'
         required: false
-        default: '2'
+        default: '4'
       ventana:
         description: 'Ventana de búsqueda en días'
         required: false
-        default: '6'
+        default: '8'
 
 permissions:
   contents: write
@@ -31,9 +31,9 @@ jobs:
     timeout-minutes: 25
     steps:
       - name: Descargar el repositorio
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Preparar Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
       - name: Instalar dependencias
@@ -44,8 +44,8 @@ jobs:
         env:
           NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-          MAXIMO_SEMANAL: ${{ github.event.inputs.maximo || '2' }}
-          VENTANA_DIAS: ${{ github.event.inputs.ventana || '6' }}
+          MAXIMO_SEMANAL: ${{ github.event.inputs.maximo || '4' }}
+          VENTANA_DIAS: ${{ github.event.inputs.ventana || '8' }}
         run: npm run buscar
       - name: Redactar los 5 puntos clave
         env:
@@ -70,6 +70,16 @@ jobs:
           else
             git commit -m "Edicion $(date -u +'%Y-%m-%d')"
             git push
+          fi
+      - name: Pedir despliegue a Netlify
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "Sin NETLIFY_BUILD_HOOK configurado; se omite el aviso."
+          else
+            curl -fsS -X POST -d '{}' "$HOOK" > /dev/null
+            echo "Despliegue solicitado a Netlify."
           fi
       - name: Resumen y aviso de fallos
         run: |
