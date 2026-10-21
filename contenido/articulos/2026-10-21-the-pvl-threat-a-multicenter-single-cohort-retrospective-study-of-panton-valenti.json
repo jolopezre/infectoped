@@ -1,0 +1,98 @@
+{
+  "id": "2026-10-21-the-pvl-threat-a-multicenter-single-cohort-retrospective-study-of-panton-valenti",
+  "estado": "publicado",
+  "pmid": "42873304",
+  "doi": "10.1007/s00431-026-07495-0",
+  "titulo": "The PVL threat: A multicenter, single-cohort retrospective study of Panton-Valentine leukocidin staphylococcal infections in critically ill children",
+  "tituloEs": "Infecciones por S. aureus productor de leucocidina de Panton-Valentine en niños críticos",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Portaccio I",
+    "Bonanomi E",
+    "Chidini G",
+    "Rigotti C",
+    "Ventura ML",
+    "Boghi D",
+    "De Giorgis V",
+    "Morena TC",
+    "Picconi E",
+    "Capasso L",
+    "Raimondi F",
+    "Fortarezza D"
+  ],
+  "fechaPublicacion": "2026 Oct 14",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42873304/",
+  "resumenOriginal": "Unlabelled: Staphylococcus aureus carrying the Panton-Valentine leukocidin (PVL) genes, in both methicillin-susceptible (MSSA) and methicillin-resistant (MRSA) strains, causes severe infection in previously healthy children. We described critically ill children with PVL-positive infection and explored predictors of prolonged intensive care. In this multicenter, single-cohort retrospective study, we included 44 consecutive children aged 0-16&#xa0;years with PVL-producing S. aureus infection admitted to a neonatal or pediatric intensive care unit (PICU) at 13 Italian centers between 2022 and 2025. The primary outcome was PICU stay above the cohort median. We used Fisher exact tests and exploratory Firth penalized logistic regression, overall and within age strata, with sensitivity analyses. Median age was 22&#xa0;months (interquartile range [IQR] 11-123); 5 children (11%) were neonates. MSSA caused 25 cases (57%) and MRSA 19 (43%). Necrotizing pneumonia predominated, with excavation in 34 children (77%). Empyema (52%), acute respiratory distress syndrome (41%), pneumothorax (36%) and septic shock (34%) were the leading complications; 41 children (93%) required respiratory support and 4 (9%) extracorporeal membrane oxygenation. Median PICU stay was 17&#xa0;days (IQR 10-28); 2 children died (5%). Septic shock was associated with prolonged stay (odds ratio 7.2; 95% CI 1.5-49.3), also after adjustment in children&#x2009;&#x2265;&#x2009;1&#xa0;year (adjusted odds ratio 8.0; 95% CI 1.3-49.8), with consistent but imprecise sensitivity analyses.\n\nConclusion: PVL-producing S. aureus caused life-threatening infection at all pediatric ages. Methicillin resistance was not associated with prolonged stay, supporting PVL testing of S. aureus isolates from critically ill children. Predictors of prolonged stay are exploratory and need prospective confirmation.\n\nWhat is known: &#x2022; PVL-producing S. aureus causes necrotizing pneumonia and disseminated infection in previously healthy children. &#x2022; Evidence rests largely on case reports and small series, and infants are underrepresented.\n\nWhat is new: &#x2022; In 44 critically ill children, including 5 neonates, MSSA and MRSA produced comparable critical illness. &#x2022; In exploratory analyses, septic shock was associated with prolonged intensive care; mortality was 5%.",
+  "mesh": [
+    "Humans",
+    "Leukocidins",
+    "Exotoxins",
+    "Bacterial Toxins",
+    "Retrospective Studies",
+    "Infant",
+    "Male",
+    "Female",
+    "Child, Preschool",
+    "Critical Illness",
+    "Child",
+    "Staphylococcal Infections"
+  ],
+  "palabrasClave": [
+    "Staphylococcus aureus",
+    "Methicillin resistance",
+    "Necrotizing pneumonia",
+    "Panton-Valentine leukocidin",
+    "Pediatric intensive care",
+    "Septic shock"
+  ],
+  "temas": [
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Infecciones respiratorias"
+  ],
+  "puntaje": 33.5,
+  "semana": "2026-S43",
+  "descubiertoEl": "2026-10-21",
+  "publicadoEl": "2026-10-21",
+  "tips": [
+    {
+      "titulo": "Considerar LPV en neumonía grave",
+      "texto": "Ante neumonía necrotizante con excavación en un niño previamente sano, solicitar detección de LPV en el aislado de S. aureus, ya que tanto cepas sensibles como resistentes a meticilina producen enfermedad crítica comparable."
+    },
+    {
+      "titulo": "Anticipar complicaciones respiratorias",
+      "texto": "Más de la mitad de los casos desarrollaron empiema y un tercio neumotórax. Conviene monitorizar estrechamente la función respiratoria y considerar soporte ventilatorio precoz, pues 93% de los pacientes lo requirió."
+    },
+    {
+      "titulo": "Choque séptico predice estadía prolongada",
+      "texto": "En análisis exploratorios, el choque séptico se asoció con estadía en UCIP mayor a 17 días. Identificar esta complicación tempranamente puede orientar el manejo intensivo y la comunicación con las familias."
+    },
+    {
+      "titulo": "No discriminar por perfil de resistencia",
+      "texto": "La gravedad clínica fue similar entre infecciones por S. aureus sensible y resistente a meticilina. La decisión de solicitar prueba de LPV no debe basarse únicamente en el antibiograma."
+    },
+    {
+      "titulo": "Lactantes y neonatos también afectados",
+      "texto": "Once por ciento de los casos ocurrieron en neonatos y la mediana de edad fue 22 meses. La sospecha clínica de infección por LPV debe mantenerse en todos los grupos de edad pediátrica."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo multicéntrico en 44 niños críticamente enfermos con infección por S. aureus productor de leucocidina de Panton-Valentine (LPV). La neumonía necrotizante predominó (77% con excavación), la estadía mediana en UCIP fue 17 días y la mortalidad alcanzó 5%. El choque séptico se asoció con estadía prolongada, independientemente de la resistencia a meticilina.",
+  "aplicacionDocente": "Durante la ronda en UCIP, revise el concepto de leucocidina de Panton-Valentine y su papel en la necrosis tisular. Discuta con los residentes por qué el perfil de sensibilidad a meticilina no predice gravedad en estas infecciones, refuerce la importancia del hemocultivo temprano y entrene el reconocimiento de complicaciones respiratorias para anticipar soporte ventilatorio.",
+  "infografia": "/img/infografias/2026-10-21-the-pvl-threat-a-multicenter-single-cohort-retrospective-study-of-panton-valenti.png",
+  "disenoEstudio": "Estudio retrospectivo multicéntrico en 44 niños de 0 a 16 años ingresados en UCIP por infección por S. aureus productor de LPV, en 13 centros italianos, 2022-2025",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Leucocidina de Panton-Valentine: toxina que causa neumonía necrotizante grave en niños sanos",
+  "etiquetas": [
+    "staphylococcus aureus",
+    "leucocidina de panton-valentine",
+    "neumonía necrotizante",
+    "cuidados intensivos pediátricos",
+    "choque séptico"
+  ],
+  "advertencia": "Estudio retrospectivo con análisis exploratorios; los predictores de estadía prolongada requieren confirmación prospectiva y la muestra limitada (44 pacientes) reduce la precisión de las estimaciones.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "2026-10-21-carbapenem-resistance-and-mortality-in-pediatric-acinetobacter-bloodstream-infec",
+  "estado": "publicado",
+  "pmid": "42897394",
+  "doi": "10.1007/s00431-026-07518-w",
+  "titulo": "Carbapenem resistance and mortality in pediatric Acinetobacter bloodstream infections: determinants from a 12-year tertiary-care cohort study",
+  "tituloEs": "Resistencia a carbapenémicos y mortalidad en bacteriemias pediátricas por Acinetobacter",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Karauzum SE",
+    "Erci E",
+    "Koc G",
+    "Yazici Ozkaya P",
+    "Kiran Tasci E",
+    "Karakoyun M",
+    "Ozek G",
+    "Ataseven E",
+    "Terek D",
+    "Yasar Duman M",
+    "Cilli FF",
+    "Sahbudak Bal Z"
+  ],
+  "fechaPublicacion": "2026 Oct 20",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42897394/",
+  "resumenOriginal": "Unlabelled: Carbapenem-resistant (CR) Acinetobacter spp. bloodstream infections (BSIs) are difficult to treat in children, yet pediatric data on factors associated with resistance and mortality remain limited. We aimed to identify factors associated with carbapenem resistance and 30-day mortality in pediatric Acinetobacter BSIs. We retrospectively analyzed children with monomicrobial Acinetobacter BSIs at a tertiary-care university hospital between January 2014 and September 2025. Factors associated with carbapenem resistance were assessed using co-primary logistic regression analyses in the full cohort and within A. baumannii; 30-day mortality was assessed using Cox regression. Among 128 episodes, median age was 2.0&#xa0;years (IQR 0.76-8.01), 60.2% (77/128) were male and 90.6% (116/128) had comorbidities. Carbapenem resistance was identified in 54/128 episodes (42.2%), all caused by A. baumannii (54/87, 62.1%). Increasing age, longer hospitalization before BSI onset, mechanical ventilation (MV), and prior meropenem exposure were associated with resistance in both co-primary models. Adjusted ORs for MV were 23.77 (95% CI, 7.54-74.92) in the full cohort and 23.20 (95% CI, 5.39-99.95) within A. baumannii. Overall 30-day mortality was 13.3% (17/128) and was higher in CR than carbapenem-susceptible episodes (22.2% versus 6.8%; p&#x2009;=&#x2009;0.011). Exploratory comparisons across CR A. baumannii treatment categories were inconclusive (exact p&#x2009;=&#x2009;0.256). Thrombocytopenia (aHR, 6.12; 95% CI, 2.13-17.61) and carbapenem resistance (aHR, 3.01; 95% CI, 1.04-8.71) were associated with mortality in the primary Cox model.\n\nConclusion: &#xa0;Thrombocytopenia and carbapenem resistance were associated with 30-day all-cause mortality in the primary adjusted analysis; the resistance association was not statistically significant in A. baumannii-restricted and first-episode-only sensitivity analyses.\n\nWhat is known: &#x2022; Acinetobacter BSIs mainly affect medically complex hospitalized children. &#x2022; Pediatric evidence on factors associated with carbapenem resistance and mortality remains scarce.\n\nWhat is new: &#x2022; Increasing age, longer hospitalization before BSI onset, mechanical ventilation, and prior meropenem exposure were associated with carbapenem resistance in both the full Acinetobacter cohort and within A. baumannii. &#x2022; Carbapenem resistance was associated with 30-day mortality in the primary model, but this finding was not consistently supported in sensitivity analyses; thrombocytopenia remained associated with mortality.",
+  "mesh": [
+    "Humans",
+    "Male",
+    "Acinetobacter Infections",
+    "Retrospective Studies",
+    "Child, Preschool",
+    "Carbapenems",
+    "Child",
+    "Infant",
+    "Female",
+    "Bacteremia",
+    "Anti-Bacterial Agents",
+    "Acinetobacter baumannii"
+  ],
+  "palabrasClave": [
+    "Acinetobacter baumannii",
+    "Bloodstream infection",
+    "Carbapenem resistance",
+    "Children",
+    "Healthcare-associated infection",
+    "Mortality"
+  ],
+  "temas": [
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S43",
+  "descubiertoEl": "2026-10-21",
+  "publicadoEl": "2026-10-21",
+  "tips": [
+    {
+      "titulo": "Vigilar ventilación mecánica",
+      "texto": "La ventilación mecánica mostró la asociación más fuerte con resistencia a carbapenémicos (OR ajustado 23,77). Considerar este factor de riesgo al elegir antibioticoterapia empírica en pacientes ventilados."
+    },
+    {
+      "titulo": "Exposición previa a meropenem",
+      "texto": "El antecedente de meropenem se asoció con resistencia. Interrogar sobre antibioticoterapia reciente antes de iniciar tratamiento empírico en sospecha de bacteriemia."
+    },
+    {
+      "titulo": "Identificar trombocitopenia",
+      "texto": "La trombocitopenia se asoció con mortalidad a 30 días de manera consistente (HR ajustado 6,12). Su presencia obliga a intensificar la vigilancia y considerar complicaciones graves."
+    },
+    {
+      "titulo": "Días de hospitalización previos",
+      "texto": "La hospitalización prolongada antes del episodio se asoció con resistencia. A mayor tiempo de internación, mayor probabilidad de cepas resistentes a carbapenémicos."
+    },
+    {
+      "titulo": "Población de riesgo identificada",
+      "texto": "El 90,6% de los casos presentaba comorbilidades. Las bacteriemias por Acinetobacter afectan principalmente a niños hospitalizados con complejidad médica subyacente."
+    }
+  ],
+  "sintesis": "Estudio de cohorte retrospectivo en 128 episodios de bacteriemia por Acinetobacter spp. en niños hospitalizados. La resistencia a carbapenémicos (42,2%) se asoció con edad mayor, hospitalización prolongada previa, ventilación mecánica y exposición a meropenem. La mortalidad a 30 días fue del 13,3%, asociada con trombocitopenia y resistencia a carbapenémicos en el modelo primario.",
+  "aplicacionDocente": "En la discusión de casos con residentes, enfatizar la estratificación de riesgo: ventilación mecánica, hospitalización prolongada y exposición previa a carbapenémicos justifican cobertura empírica para cepas resistentes. La trombocitopenia al diagnóstico es marcador pronóstico independiente y debe orientar la intensidad del monitoreo.",
+  "infografia": "/img/infografias/2026-10-21-carbapenem-resistance-and-mortality-in-pediatric-acinetobacter-bloodstream-infec.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo en 128 episodios de bacteriemia monomicrobiana en hospital terciario, 2014-2025",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Ventilación mecánica multiplica por 23 el riesgo de resistencia a carbapenémicos",
+  "etiquetas": [
+    "acinetobacter",
+    "resistencia antimicrobiana",
+    "bacteriemia",
+    "carbapenémicos",
+    "cuidados intensivos pediátricos"
+  ],
+  "advertencia": "Diseño retrospectivo de un solo centro; el análisis de mortalidad según categorías de tratamiento fue no concluyente y la asociación de resistencia con mortalidad no se mantuvo en todos los análisis de sensibilidad.",
+  "generadoPor": "claude-sonnet-4-5"
+}

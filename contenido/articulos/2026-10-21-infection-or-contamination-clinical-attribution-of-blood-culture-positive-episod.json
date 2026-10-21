@@ -1,0 +1,90 @@
+{
+  "id": "2026-10-21-infection-or-contamination-clinical-attribution-of-blood-culture-positive-episod",
+  "estado": "publicado",
+  "pmid": "42888396",
+  "doi": "10.1186/s12879-026-14605-8",
+  "titulo": "Infection or contamination - Clinical attribution of blood culture-positive episodes in neonatal intensive care: an 11-year retrospective single-center study",
+  "tituloEs": "Atribución clínica de hemocultivos positivos en cuidados intensivos neonatales: estudio retrospectivo",
+  "revista": "BMC infectious diseases",
+  "autores": [
+    "Schnee SV",
+    "Lohrmann F",
+    "Matheisl D",
+    "Schneider H",
+    "Hufnagel M",
+    "Fuchs H",
+    "Kuntz M"
+  ],
+  "fechaPublicacion": "2026 Oct 15",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42888396/",
+  "resumenOriginal": "Background: Positive blood cultures in neonatal intensive care do not necessarily indicate clinically relevant bloodstream infection. Interpretation is particularly challenging for coagulase-negative staphylococci (CoNS), which may represent either contamination or clinically relevant infection depending on the clinical context. We aimed to describe how treating teams attributed culture-positive episodes as infection or contamination in routine neonatal care and to examine which clinical, laboratory, and microbiological features were associated with this original clinical attribution. As a secondary aim, we characterized the local epidemiology of culture-positive episodes.\n\nMethods: We conducted a retrospective single-center study of all culture-positive episodes occurring between 2014 and 2024 in neonates hospitalized in a German tertiary NICU at the time of blood culture sampling. Original clinical attribution was extracted from documentation recorded during the index episode. Descriptive analyses and exploratory logistic regression were performed.\n\nResults: Among 3246 blood cultures, 232 (7.1%) were positive. After accounting for additional follow-up and parallel cultures and other exclusions, 189 unique culture-positive episodes remained for analysis; 125 (66.1%) were attributed as infection and 64 (33.9%) as contamination. Thirty-five episodes (18.5%) occurred during the early-onset period and 154 (81.5%) during the late-onset period. Coagulase-negative staphylococci (CoNS) were detected in 114 episodes (60.3%) and showed the greatest variability in attribution. All 13 CoNS-positive early-onset episodes were attributed as contamination, whereas 64 of 101 CoNS-positive late-onset episodes (63.4%) were attributed as infection. Enterobacterales, Enterococcus faecalis, Staphylococcus aureus, and Candida spp. were almost uniformly attributed as infection, whereas Bacillus spp. and environmental organisms were predominantly attributed as contamination. In late-onset episodes, maximum CRP showed the strongest association with attribution as infection in univariable and multivariable analyses (adjusted OR 4.41, 95% CI 2.59-7.51). Associations with time-to-positivity, CoNS detection, and central vascular catheter presence were weaker and imprecisely estimated after adjustment.\n\nConclusions: Clinical attribution of culture-positive episodes was associated with the combined consideration of organism plausibility, inflammatory response, time-to-positivity, and clinical context. CoNS-positive late-onset episodes represented the greatest diagnostic uncertainty. These findings describe real-world clinical attribution rather than diagnostic accuracy and underline the need for more reproducible criteria to support antimicrobial stewardship without compromising the treatment of vulnerable neonates.",
+  "mesh": [
+    "Humans",
+    "Retrospective Studies",
+    "Blood Culture",
+    "Infant, Newborn",
+    "Intensive Care Units, Neonatal",
+    "Female",
+    "Male",
+    "Germany",
+    "Staphylococcus",
+    "Bacteremia",
+    "Intensive Care, Neonatal",
+    "Sepsis"
+  ],
+  "palabrasClave": [
+    "Bloodstream infection",
+    "Contamination",
+    "Epidemiology",
+    "Neonatal sepsis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S43",
+  "descubiertoEl": "2026-10-21",
+  "publicadoEl": "2026-10-21",
+  "tips": [
+    {
+      "titulo": "Estafilococos coagulasa-negativos: contexto temporal",
+      "texto": "Todos los episodios con estafilococos coagulasa-negativos en sepsis de inicio temprano fueron considerados contaminación, mientras que el 63% de los de inicio tardío se atribuyeron a infección verdadera."
+    },
+    {
+      "titulo": "Proteína C reactiva máxima",
+      "texto": "La elevación de la proteína C reactiva mostró la asociación más fuerte con infección verdadera en episodios de inicio tardío, orientando mejor que el tiempo de positividad o la presencia de catéter central."
+    },
+    {
+      "titulo": "Patógenos de atribución uniforme",
+      "texto": "Enterobacterales, Enterococcus faecalis, Staphylococcus aureus y Candida se atribuyeron casi siempre a infección verdadera; Bacillus y organismos ambientales, predominantemente a contaminación."
+    },
+    {
+      "titulo": "Considerar múltiples variables clínicas",
+      "texto": "La atribución clínica integró plausibilidad del microorganismo, respuesta inflamatoria, tiempo de positividad y contexto del paciente, reflejando decisiones complejas en la práctica real."
+    },
+    {
+      "titulo": "Necesidad de criterios reproducibles",
+      "texto": "La variabilidad en la interpretación de hemocultivos positivos, especialmente con estafilococos coagulasa-negativos tardíos, resalta la necesidad de criterios estandarizados para optimizar el uso de antimicrobianos sin comprometer la seguridad."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en una unidad de cuidados intensivos neonatales alemana que analizó 189 episodios con hemocultivo positivo durante 11 años. El 66% se atribuyó a infección verdadera y el 34% a contaminación. Los estafilococos coagulasa-negativos representaron la mayor incertidumbre diagnóstica, especialmente en episodios de inicio tardío.",
+  "aplicacionDocente": "En la discusión de casos con residentes, este hallazgo refuerza que un hemocultivo positivo no equivale automáticamente a infección verdadera. Enseñar a integrar el microorganismo aislado, el momento de aparición (temprano o tardío), la respuesta inflamatoria (proteína C reactiva) y el contexto clínico ayuda a evitar tratamientos prolongados innecesarios y fortalece el uso racional de antibióticos.",
+  "infografia": "/img/infografias/2026-10-21-infection-or-contamination-clinical-attribution-of-blood-culture-positive-episod.png",
+  "disenoEstudio": "Estudio retrospectivo unicéntrico en 189 episodios con hemocultivo positivo en neonatos hospitalizados, 2014–2024",
+  "nivelEvidencia": "bajo",
+  "fraseInfografia": "La proteína C reactiva orienta mejor que el tiempo de positividad en sepsis neonatal tardía",
+  "etiquetas": [
+    "sepsis neonatal",
+    "hemocultivo",
+    "estafilococos coagulasa-negativos",
+    "contaminación",
+    "stewardship antimicrobiano"
+  ],
+  "advertencia": "Estudio retrospectivo unicéntrico sin criterios predefinidos de infección verdadera; la atribución refleja decisiones clínicas reales, no un estándar de referencia diagnóstico validado.",
+  "generadoPor": "claude-sonnet-4-5"
+}
