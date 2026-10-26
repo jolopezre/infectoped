@@ -1,0 +1,81 @@
+{
+  "id": "2026-10-26-external-validation-of-risk-scores-for-pediatric-pneumonia",
+  "estado": "publicado",
+  "pmid": "42925134",
+  "doi": "10.1097/INF.0000000000005452",
+  "titulo": "External Validation of Risk Scores for Pediatric Pneumonia",
+  "tituloEs": "Validación externa de escalas de riesgo para neumonía pediátrica muestra utilidad limitada",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Robinson JL",
+    "Kellner JD",
+    "Crotts J",
+    "Chen G",
+    "Kirk VG",
+    "Pusic M",
+    "Reed M",
+    "Weinstein M",
+    "Bhargava R",
+    "Bhatt M",
+    "Boutis K",
+    "Curtis S"
+  ],
+  "fechaPublicacion": "2026 Oct 22",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42925134/",
+  "resumenOriginal": "Background: Neither the Pneumonia Risk Score (PRS) nor the VALS-DANCE diagnostic tool has been externally validated using a reference standard specific for bacterial pneumonia. We used a previously published cohort of children with suspected bacterial pneumonia to externally validate these scores.\n\nMethods: Children attending Canadian pediatric emergency departments with suspected pneumonia had extensive standardized data collected that were provided to an expert panel to reach a consensus diagnosis. This diagnosis was used to externally validate both clinical scores. Proportions, point estimates and 95% confidence intervals (CIs) were calculated, as appropriate, for the classifications and cutoffs recommended for PRS and VALS-Dance.\n\nResults: In a cohort of 236 children, the PRS classified 69 as low risk, 155 as moderate risk and 12 as high risk for \"radiographic\" pneumonia. Of these, 11/69 (15.9%), 44/155 (28.4%) and 5/12 (41.7%), respectively, had bacterial pneumonia, yielding a receiver operating characteristic curve of 0.64 (95% CI 0.56-0.71). The PRS low-risk grouping yielded negative likelihood ratio (-LR) 0.56 (95% CI 0.24-0.88) and the high-risk grouping a positive LR (+LR) 2.10 (95% CI -0.23 to 4.42) for bacterial pneumonia. In a cohort of 94 children, the VALS-DANCE Step1 cutoff yielded +LR 2.97 (95% CI 1.52-4.08) and -LR 0.19 (95% CI 0.05-0.33) for distinguishing bacterial from viral pneumonia. In a cohort of 53 children, the VALS-DANCE Step2 cutoff yielded +LR 13.1 (95% CI 0.83-208.8) and -LR 0.65 (95% CI 0.51-0.84) for distinguishing typical from atypical bacterial pneumonia.\n\nConclusions: The PRS may have limited utility in the emergency department in guiding clinicians as to whether children with suspected pneumonia need antibiotics. For children hospitalized with community-acquired pneumonia, the VALS-DANCE Step1 diagnostic tool may have some utility for ruling out, but little for confirming bacterial pneumonia. For those with bacterial pneumonia, VALS-DANCE Step2 has uncertain utility for confirming typical and little utility for diagnosing atypical pneumonia.",
+  "mesh": [],
+  "palabrasClave": [
+    "atypical pneumonia",
+    "risk scores",
+    "typical pneumonia",
+    "viral pneumonia"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Infecciones respiratorias"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "PRS limitado en urgencias",
+      "texto": "La escala PRS clasificó correctamente neumonía bacteriana con AUC 0.64. El grupo de bajo riesgo presentó 15.9% de casos bacterianos, lo que limita su valor para descartar antibioticoterapia."
+    },
+    {
+      "titulo": "VALS-DANCE útil para descartar",
+      "texto": "VALS-DANCE Paso1 mostró razón de verosimilitud negativa 0.19, lo que apoya su uso para excluir etiología bacteriana cuando el puntaje es bajo. Su capacidad confirmatoria (LR+ 2.97) es insuficiente."
+    },
+    {
+      "titulo": "Diferenciación típica-atípica incierta",
+      "texto": "VALS-DANCE Paso2 tuvo LR+ 13.1 pero intervalos de confianza muy amplios, señalando incertidumbre para distinguir neumonía típica de atípica en pacientes hospitalizados."
+    },
+    {
+      "titulo": "Juicio clínico sigue siendo central",
+      "texto": "Ninguna herramienta reemplaza la evaluación clínica integral. Considerar estas escalas como complemento, no como único criterio para iniciar o suspender antibióticos."
+    },
+    {
+      "titulo": "Indicación antibiótica requiere contexto",
+      "texto": "Aun en grupos de bajo riesgo por PRS se documentó neumonía bacteriana en uno de cada seis niños, recordando que la decisión terapéutica debe integrar hallazgos clínicos, radiológicos y epidemiológicos."
+    }
+  ],
+  "sintesis": "Estudio canadiense evaluó dos herramientas diagnósticas (PRS y VALS-DANCE) para diferenciar neumonía bacteriana de viral en urgencias. Ambas escalas mostraron rendimiento modesto al compararlas con diagnóstico consensuado por panel de expertos. El PRS tuvo capacidad discriminativa limitada; VALS-DANCE Paso1 mostró utilidad para descartar etiología bacteriana pero no para confirmarla.",
+  "aplicacionDocente": "Durante la revisión de casos en urgencias, discutir con residentes las limitaciones de las escalas pronósticas cuando la prevalencia de enfermedad difiere entre poblaciones. Mostrar cómo un LR negativo cercano a 1 (como 0.56 del PRS bajo riesgo) aporta poco para modificar probabilidad preprueba. Entrenar en interpretar intervalos de confianza amplios como señal de imprecisión que exige cautela clínica.",
+  "infografia": "/img/infografias/2026-10-26-external-validation-of-risk-scores-for-pediatric-pneumonia.png",
+  "disenoEstudio": "Validación externa prospectiva en 236 niños con sospecha de neumonía adquirida en comunidad evaluados en urgencias pediátricas canadienses",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Escalas de riesgo en neumonía: útiles para descartar, insuficientes para confirmar",
+  "etiquetas": [
+    "neumonía adquirida en comunidad",
+    "escalas de predicción clínica",
+    "diagnóstico diferencial",
+    "antibioticoterapia",
+    "urgencias pediátricas"
+  ],
+  "advertencia": "La cohorte de validación procede de un único sistema de salud canadiense; el rendimiento de las escalas puede variar en contextos con distinta prevalencia de neumonía bacteriana o disponibilidad de estudios microbiológicos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

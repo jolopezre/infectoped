@@ -1,0 +1,81 @@
+{
+  "id": "2026-10-26-beyond-rsv-why-the-bronchiolitis-burden-in-infants-will-not-simply-disappear",
+  "estado": "publicado",
+  "pmid": "42911274",
+  "doi": "10.1007/s00431-026-07550-w",
+  "titulo": "Beyond RSV: why the bronchiolitis burden in infants will not simply disappear",
+  "tituloEs": "Más allá del VSR: por qué la bronquiolitis en lactantes no desaparecerá con nirsevimab",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Mariani F",
+    "Morello R",
+    "Martino L",
+    "Carlomagno AA",
+    "Buonsenso D"
+  ],
+  "fechaPublicacion": "2026 Oct 22",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42911274/",
+  "resumenOriginal": "Nirsevimab and maternal respiratory syncytial virus (RSV) vaccination are delivering real-world important reductions in RSV-bronchiolitis hospitalisations, a landmark achievement in paediatric preventive medicine. We argue, however, that these successes should not be mistaken for the resolution of severe bronchiolitis as a clinical and public health problem. First, RSV's epidemiological dominance may partly reflect its transmission efficiency rather than a unique pathogenic superiority: rhinovirus, human metapneumovirus, adenovirus, and bocavirus already cause substantial disease, and genetic variants in CDHR3, GSDMB, and innate immune genes indicate that host susceptibility, not pathogen identity, is a key driver of severity. Second, although current evidence does not support viral replacement, the possibility that other respiratory viruses could expand into the ecological niche vacated by suppressed RSV transmission warrants close monitoring, alongside the theoretical, fitness-limited risk of nirsevimab-resistant RSV escape variants. Third, important gaps remain in long-term virological surveillance, cost-effectiveness evaluation, and equitable global access, particularly for the low- and middle-income countries that bear over 97% of RSV-attributable mortality.&#xa0;Conclusion:&#xa0;We contend that bronchiolitis should be understood as a syndrome reflecting the infant airway's stereotyped response to viral injury, rather than a disease defined by a single pathogen. Sustained broad-spectrum surveillance, transparent cost-effectiveness monitoring, and continued investment in a pan-respiratory mucosal vaccine pipeline are needed to ensure that early success against RSV translates into a durable reduction of the overall infant bronchiolitis burden. What is Known: &#x2022; Nirsevimab and maternal RSV vaccination are producing substantial real-world reductions in RSV-bronchiolitis hospitalisations, a major success in paediatric preventive medicine. What is New: &#x2022; We argue that the control of RSV does not equate to the control of severe infant bronchiolitis. Other respiratory viruses-rhinovirus, human metapneumovirus, adenovirus and bocavirus-already cause substantial disease and could expand into the ecological niche left by suppressed RSV transmission, while host genetic susceptibility, not pathogen identity, remains a key driver of severity. We call for sustained broad spectrum viral surveillance to ensure that success against RSV translates into a durable reduction of the overall bronchiolitis burden, rather than its replacement by other pathogens.",
+  "mesh": [
+    "Humans",
+    "Respiratory Syncytial Virus Infections",
+    "Bronchiolitis",
+    "Infant",
+    "Respiratory Syncytial Virus Vaccines",
+    "Antiviral Agents"
+  ],
+  "palabrasClave": [
+    "Bronchiolitis burden",
+    "Maternal RSV vaccination",
+    "Nirsevimab"
+  ],
+  "temas": [
+    "Infecciones respiratorias",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Bronquiolitis como síndrome, no enfermedad única",
+      "texto": "Reconocer que la bronquiolitis refleja una respuesta estereotipada de la vía aérea infantil al daño viral, independientemente del patógeno causal, ayuda a mantener la vigilancia clínica ante casos graves por virus distintos al VSR."
+    },
+    {
+      "titulo": "Vigilancia virológica amplia",
+      "texto": "Conviene mantener la identificación virológica sistemática en lactantes hospitalizados por bronquiolitis, incluso tras la introducción de nirsevimab, para detectar cambios en el perfil etiológico y posibles fenómenos de reemplazo viral."
+    },
+    {
+      "titulo": "Evaluación de susceptibilidad del huésped",
+      "texto": "Considerar que variantes genéticas en CDHR3, GSDMB y genes de inmunidad innata modulan la gravedad. Esto respalda la atención individualizada y la futura investigación en biomarcadores de riesgo más allá del tipo viral."
+    },
+    {
+      "titulo": "Monitoreo de costo-efectividad a largo plazo",
+      "texto": "Los programas de prevención contra VSR deben incluir evaluación transparente de costo-efectividad y cobertura equitativa, especialmente en países de ingresos bajos y medios, donde ocurre más del 97% de la mortalidad atribuible."
+    },
+    {
+      "titulo": "Inversión en vacunas de amplio espectro",
+      "texto": "El éxito contra VSR no debe detener el desarrollo de vacunas mucosas pan-respiratorias que ofrezcan protección frente a múltiples virus causantes de bronquiolitis en lactantes."
+    }
+  ],
+  "sintesis": "Nirsevimab y la vacunación materna contra virus sincitial respiratorio (VSR) reducen significativamente las hospitalizaciones por bronquiolitis por VSR. Sin embargo, otros virus respiratorios (rinovirus, metapneumovirus, adenovirus, bocavirus) ya causan enfermedad sustancial, y la susceptibilidad genética del huésped, no el patógeno, es determinante clave de gravedad.",
+  "aplicacionDocente": "Al discutir casos de bronquiolitis con residentes, enfatizar que la reducción de VSR no elimina el síndrome. Solicitar panel viral completo en hospitalizados, analizar perfiles de gravedad independientemente del agente y anticipar posibles cambios epidemiológicos. Usar estos casos para enseñar que la prevención específica de patógeno no reemplaza la vigilancia amplia ni la evaluación individualizada del riesgo.",
+  "infografia": "/img/infografias/2026-10-26-beyond-rsv-why-the-bronchiolitis-burden-in-infants-will-not-simply-disappear.png",
+  "disenoEstudio": "Revisión narrativa sobre el impacto de la prevención del VSR en la carga global de bronquiolitis",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Menos VSR no significa menos bronquiolitis: otros virus ya causan enfermedad grave",
+  "etiquetas": [
+    "bronquiolitis",
+    "nirsevimab",
+    "virus sincitial respiratorio",
+    "vigilancia virológica",
+    "prevención"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis cuantitativo; la hipótesis de reemplazo viral requiere validación prospectiva con vigilancia sostenida a largo plazo.",
+  "generadoPor": "claude-sonnet-4-5"
+}

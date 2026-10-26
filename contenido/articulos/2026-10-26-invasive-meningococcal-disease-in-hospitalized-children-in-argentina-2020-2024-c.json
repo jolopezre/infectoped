@@ -1,0 +1,80 @@
+{
+  "id": "2026-10-26-invasive-meningococcal-disease-in-hospitalized-children-in-argentina-2020-2024-c",
+  "estado": "publicado",
+  "pmid": "42919450",
+  "doi": "10.1097/INF.0000000000005453",
+  "titulo": "Invasive Meningococcal Disease in Hospitalized Children in Argentina, 2020-2024: Clinical, Epidemiologic and Molecular Findings From a Multicenter Active Surveillance Study",
+  "tituloEs": "Enfermedad meningocócica invasiva en niños hospitalizados en Argentina tras introducción de MenACWY",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Gentile A",
+    "Bakir J",
+    "Maydana MN",
+    "Morales JC",
+    "Ensinck G",
+    "Ernst A",
+    "Moreira LJ",
+    "Melonari PA",
+    "Santillán Iturres A",
+    "Efron A"
+  ],
+  "fechaPublicacion": "2026 Oct 23",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42919450/",
+  "resumenOriginal": "Background: Invasive meningococcal disease (IMD) is a low-incidence but high-impact infection associated with substantial mortality and sequelae. Following MenACWY vaccine introduction into Argentina's National Immunization Program in 2017, updated data on residual disease burden are needed.\n\nMethods: A multicenter active hospital-based surveillance study was conducted in 6 pediatric sentinel units in Argentina (January 2020-December 2024) in children younger than 15 years with suspected IMD. Cases were confirmed by culture and/or polymerase chain reaction from a normally sterile body site. Hospital discharge rates were calculated per 10,000 discharges. Whole-genome sequencing and genetic Meningococcal Antigen Typing System were used to characterize strains and estimate theoretical 4CMenB coverage.\n\nResults: Among 234,264 pediatric hospital discharges, 27 confirmed IMD cases were identified (overall rate: 1.2 per 10,000; 95% confidence interval, 0.8-1.7). Annual rates showed no consistent pattern between children younger than 2 years and those 2 years or older. The case-fatality rate was 14.8% (4/27); all deaths occurred in previously healthy children younger than 5 years and were associated with sepsis and a fulminant course (hospital stay &#x2264;1 day). Of 20 cases with a determined capsular group, 19 (95%) were B and 1 (5%) was C; no capsular group Y or W cases were identified. Theoretical 4CMenB coverage by genetic Meningococcal Antigen Typing System was 77.3%, driven by ST-162 clonal complex predominance.\n\nConclusions: IMD in Argentina continues to predominantly affect young children and is associated with elevated case-fatality amid fulminant sepsis. Serogroup B predominates in the post-MenACWY era, and high estimated 4CMenB coverage supports evaluation of serogroup B vaccination as a complementary prevention strategy.",
+  "mesh": [],
+  "palabrasClave": [
+    "hospital-based surveillance",
+    "invasive meningococcal disease",
+    "molecular epidemiology",
+    "pediatric",
+    "vaccine coverage"
+  ],
+  "temas": [
+    "Sepsis y cuidado crítico",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Sospecha temprana en menores de 5 años",
+      "texto": "La letalidad del 14,8% y el curso fulminante (estadía ≤1 día) refuerzan la necesidad de alta sospecha clínica y tratamiento antibiótico empírico inmediato ante cuadro febril con petequias o signos de choque."
+    },
+    {
+      "titulo": "Predominio absoluto del serogrupo B",
+      "texto": "El 95% de los casos con serogrupo determinado fue B; no se identificaron casos de Y ni W. Este hallazgo respalda la efectividad sostenida de MenACWY y señala la brecha de protección contra el serogrupo B."
+    },
+    {
+      "titulo": "Cobertura teórica elevada con 4CMenB",
+      "texto": "La tipificación genética estima una cobertura del 77,3% con la vacuna 4CMenB, impulsada por el predominio del complejo clonal ST-162. Este dato puede orientar la discusión sobre estrategias complementarias de prevención."
+    },
+    {
+      "titulo": "Sepsis fulminante: marcador de gravedad",
+      "texto": "Todos los fallecimientos ocurrieron en niños previamente sanos con sepsis y estadía hospitalaria ≤1 día. Conviene anticipar manejo en UCIP ante signos de choque o púrpura progresiva, independientemente del estado vacunal."
+    },
+    {
+      "titulo": "Confirmar etiología con hemocultivo y PCR",
+      "texto": "La vigilancia utilizó cultivo y/o PCR de sitios normalmente estériles. Solicitar hemocultivo antes de la primera dosis de antibiótico y considerar PCR en líquido cefalorraquídeo si el cultivo es negativo."
+    }
+  ],
+  "sintesis": "Vigilancia activa multicéntrica en seis hospitales pediátricos argentinos (2020–2024) identificó 27 casos confirmados de enfermedad meningocócica invasiva en menores de 15 años. El 95% correspondió al serogrupo B; la letalidad fue del 14,8%, con todos los fallecimientos en menores de 5 años previamente sanos y con sepsis fulminante.",
+  "aplicacionDocente": "Durante la discusión de casos febriles con petequias, contrastar la baja incidencia (1,2 por 10.000 egresos) con la alta letalidad (14,8%) para enfatizar la necesidad de reconocimiento precoz. Revisar con residentes las indicaciones de hemocultivo y PCR antes del inicio de antibióticos, y analizar el perfil epidemiológico posintroducción de MenACWY.",
+  "infografia": "/img/infografias/2026-10-26-invasive-meningococcal-disease-in-hospitalized-children-in-argentina-2020-2024-c.png",
+  "disenoEstudio": "Estudio de vigilancia activa multicéntrica en 6 unidades pediátricas centinela en Argentina, 2020–2024",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Meningococo B: 95% de los casos en Argentina tras la introducción de vacuna MenACWY",
+  "etiquetas": [
+    "enfermedad meningocócica invasiva",
+    "serogrupo b",
+    "vacuna menacwy",
+    "vigilancia epidemiológica",
+    "sepsis fulminante"
+  ],
+  "advertencia": "Estudio de vigilancia en seis centros centinela; la representatividad nacional puede estar limitada y la estimación de cobertura vacunal 4CMenB es teórica, no derivada de ensayos clínicos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

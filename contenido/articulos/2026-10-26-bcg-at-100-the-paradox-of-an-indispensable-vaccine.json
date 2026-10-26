@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-26-bcg-at-100-the-paradox-of-an-indispensable-vaccine",
+  "estado": "publicado",
+  "pmid": "42911367",
+  "doi": "10.1007/s13312-026-00433-1",
+  "titulo": "BCG at 100: The Paradox of an Indispensable Vaccine",
+  "tituloEs": "BCG a los 100 años: paradoja de una vacuna indispensable pero insuficiente contra tuberculosis",
+  "revista": "Indian pediatrics",
+  "autores": [
+    "Vashishtha VM"
+  ],
+  "fechaPublicacion": "2026 Oct 22",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42911367/",
+  "resumenOriginal": "Bacille Calmette-Guerin (BCG) vaccine, in use for over a century, occupies a paradoxical position in global health. It protects infants against disseminated tuberculosis (TB) with 60-80% efficacy and reduces all-cause infant mortality through non-specific effects mediated by trained immunity. Yet it provides limited and variable protection against pulmonary TB in adolescents and adults who drive transmission. A tuberculin survey from western Uttar Pradesh documented an annual risk of TB infection of 3.5-4.1%, nearly 50 times the national target, in a predominantly BCG-vaccinated child population. This perspective addresses four fundamental questions: Has BCG become redundant for its original purpose? Can it be improved? Is it more efficacious for non-TB indications? And is it currently indispensable? The pipeline is reviewed from a pediatric prism, identifying preferred candidates for each age group. MTBVAC leads as the most promising infant BCG replacement candidate while M72/AS01E is a frontrunner for adolescents and adults.",
+  "mesh": [],
+  "palabrasClave": [
+    "M72/AS01E",
+    "MTBVAC",
+    "Non-specific effects",
+    "Trained immunity",
+    "Tuberculosis",
+    "VPM1002"
+  ],
+  "temas": [
+    "Vacunas e inmunización",
+    "Tuberculosis y VIH"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Protección en lactantes",
+      "texto": "BCG sigue siendo efectiva para prevenir formas diseminadas graves (meníngea, miliar) en menores de 1 año. Mantener cobertura universal al nacer o en las primeras semanas de vida."
+    },
+    {
+      "titulo": "Límites contra transmisión",
+      "texto": "BCG no protege consistentemente contra tuberculosis pulmonar del adolescente ni del adulto, que son los principales transmisores. No esperar impacto epidemiológico de BCG neonatal en la carga comunitaria de TB."
+    },
+    {
+      "titulo": "Beneficio inespecífico",
+      "texto": "La reducción de mortalidad por causas no tuberculosas (inmunidad entrenada) refuerza la indicación de BCG al nacer, especialmente en contextos de alta carga infecciosa y malnutrición."
+    },
+    {
+      "titulo": "Nuevas vacunas en desarrollo",
+      "texto": "MTBVAC lidera como reemplazo de BCG para lactantes; M72/AS01E es candidata destacada para adolescentes y adultos. Seguir el desarrollo clínico de estas plataformas."
+    },
+    {
+      "titulo": "Vigilancia de contactos pediátricos",
+      "texto": "La detección activa y quimioprofilaxis en contactos menores de 5 años sigue siendo crucial, independientemente del estado vacunal con BCG, para prevenir progresión a enfermedad activa."
+    }
+  ],
+  "sintesis": "Revisión del rol actual de BCG: protege 60-80% contra tuberculosis diseminada en lactantes y reduce mortalidad infantil por efectos inespecíficos (inmunidad entrenada), pero su protección contra tuberculosis pulmonar en adolescentes y adultos (que impulsan la transmisión) es limitada y variable. En Uttar Pradesh occidental (India), el riesgo anual de infección por TB en población infantil vacunada alcanzó 3,5-4,1%, cifra 50 veces superior a la meta nacional.",
+  "aplicacionDocente": "Durante la ronda de pacientes hospitalizados por tuberculosis, distinguir formas diseminadas (en las que BCG habría fallado o faltado) de tuberculosis pulmonar primaria. Con residentes, discutir que BCG no equivale a inmunidad duradera contra reactivación ni reinfección pulmonar, por lo que todo contacto pediátrico debe evaluarse independientemente de la cicatriz vacunal.",
+  "infografia": "/img/infografias/2026-10-26-bcg-at-100-the-paradox-of-an-indispensable-vaccine.png",
+  "disenoEstudio": "Revisión narrativa con análisis de encuesta tuberculínica en población pediátrica de India",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "BCG salva lactantes, pero no frena transmisión: la paradoja centenaria de la vacuna",
+  "etiquetas": [
+    "tuberculosis pediátrica",
+    "vacuna bcg",
+    "inmunidad entrenada",
+    "prevención",
+    "nuevas vacunas tb"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis; la encuesta tuberculínica proviene de una región específica de India y puede no ser generalizable a toda Latinoamérica.",
+  "generadoPor": "claude-sonnet-4-5"
+}
