@@ -1,0 +1,78 @@
+{
+  "id": "2026-10-31-breaking-the-barrier-mbi-lcbi-and-recent-beta-lactam-exposure-as-predictors-of-p",
+  "estado": "publicado",
+  "pmid": "42946685",
+  "doi": "10.1097/INF.0000000000005457",
+  "titulo": "Breaking the Barrier: MBI-LCBI and Recent Beta-lactam Exposure as Predictors of Piperacillin-Tazobactam Resistance in Pediatric Hemato-oncology Patients",
+  "tituloEs": "Lesión de barrera mucosa y betalactámicos previos predicen resistencia a piperacilina-tazobactam",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Nasrallah E",
+    "Lubovsky D",
+    "Hassan S",
+    "Szwarcwort M",
+    "Pollak D",
+    "Arad-Cohen N",
+    "Dabaja-Younis H"
+  ],
+  "fechaPublicacion": "2026 Oct 28",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42946685/",
+  "resumenOriginal": "Background: Gram-negative bloodstream infections (BSIs) in pediatric hemato-oncology patients, particularly those with neutropenia, are associated with substantial morbidity and mortality. While piperacillin-tazobactam (PTZ) remains a standard empiric therapy, increasing resistance poses a significant clinical challenge. Identifying risk factors for PTZ-resistant (PTZ-R) BSI is crucial for optimizing empiric antibiotic selection and improving clinical outcomes.\n\nMethods: This retrospective study (2015-2024) analyzed pediatric hemato-oncology Gram-negative BSIs at a northern Israeli tertiary center. Using clinical and microbiologic data, we performed univariate and multivariate logistic regression to identify independent predictors of PTZ resistance.\n\nResults: Overall, 284 episodes in 162 patients were evaluated for PTZ susceptibility. Seventy (24.6%) episodes in 56 (34.6%) patients were PTZ-R. Mucosal barrier injury laboratory-confirmed BSI (MBI-LCBI) accounted for 46.1% of episodes, central line-associated bloodstream infection for 50% and secondary BSI for 3.9%. MBI-LCBI (68.6% vs. 38.8%, P < 0.001), beta-lactam use within the preceding 30 days (67.2% vs. 43.2%, P < 0.001), and colonization with extended-spectrum beta-lactamases and carbapenemase-producing Enterobacterales (14.3% vs. 5.6%, P = 0.018) were markedly more common among PTZ-R episodes. Additionally, nonlocal residency (5.7% vs. 16.1%, P = 0.014) and hematologic malignancy (85.5% vs. 62.5%, P = 0.003) were significantly more prevalent in patients with PTZ-R episodes. In multivariate analysis, MBI-LCBI (odds ratio 3.1, 95% confidence interval 1.7-6) and recent beta-lactam exposure (odds ratio 2.2, 95% confidence interval 1.2-4.1) were independent predictors of PTZ-R. Thirty-day mortality occurred in 9 (4.2%) cases; all were PTZ sensitive (P = 0.119).\n\nConclusions: High PTZ-R in pediatric hemato-oncology BSIs is driven by recent beta-lactam use and MBI-LCBI. Identifying these risk factors may support the selection of appropriate empiric therapy for high-risk patients.",
+  "mesh": [],
+  "palabrasClave": [
+    "gram-negative",
+    "mucosal barrier injury",
+    "pediatric",
+    "piperacillin&#x2013;tazobactam",
+    "resistance"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico"
+  ],
+  "puntaje": 34.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-31",
+  "publicadoEl": "2026-10-31",
+  "tips": [
+    {
+      "titulo": "Interrogar exposición reciente a antibióticos",
+      "texto": "Ante fiebre y neutropenia en oncohematología, indagar uso de betalactámicos en las últimas 4 semanas: duplica el riesgo de resistencia a piperacilina-tazobactam y puede requerir escalamiento empírico a carbapenémico."
+    },
+    {
+      "titulo": "Reconocer MBI-LCBI como factor de riesgo",
+      "texto": "La bacteriemia asociada a lesión de barrera mucosa (mucositis, enterocolitis neutropénica) triplica la probabilidad de resistencia. Considerar cobertura empírica ampliada en este contexto clínico específico."
+    },
+    {
+      "titulo": "Valorar colonización previa documentada",
+      "texto": "La colonización por enterobacterias productoras de BLEE o carbapenemasas fue significativamente más frecuente en episodios resistentes. Revisar cultivos de vigilancia recientes antes de elegir el esquema empírico."
+    },
+    {
+      "titulo": "Solicitar hemocultivo antes de iniciar",
+      "texto": "Con una resistencia del 24,6%, el hemocultivo pronto es esencial para ajuste dirigido. La mortalidad a 30 días ocurrió solo en casos sensibles, reforzando la importancia del desescalamiento oportuno."
+    },
+    {
+      "titulo": "Estratificar según tipo de bacteriemia",
+      "texto": "Bacteriemia asociada a catéter y MBI-LCBI representaron 96% de los episodios. Identificar el mecanismo orienta la duración del tratamiento y la decisión de retirar el catéter venoso central."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 284 episodios de bacteriemia por gramnegativos en niños hemato-oncológicos que identificó dos predictores independientes de resistencia a piperacilina-tazobactam: bacteriemia asociada a lesión de barrera mucosa (MBI-LCBI) y exposición a betalactámicos en los 30 días previos. La resistencia alcanzó 24,6% de los episodios.",
+  "aplicacionDocente": "Durante la ronda con residentes, revisar los últimos antibióticos recibidos y el estado de la mucosa oral e intestinal de cada paciente neutropénico febril. Discutir cuándo piperacilina-tazobactam sigue siendo adecuada y cuándo la presencia de mucositis grave o betalactámicos recientes justifica meropenem empírico, equilibrando cobertura y stewardship antimicrobiano.",
+  "infografia": "/img/infografias/2026-10-31-breaking-the-barrier-mbi-lcbi-and-recent-beta-lactam-exposure-as-predictors-of-p.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo en 162 pacientes hemato-oncológicos pediátricos con bacteriemia por gramnegativos, 2015-2024",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Betalactámicos recientes y lesión de barrera mucosa: claves para predecir resistencia",
+  "etiquetas": [
+    "neutropenia febril",
+    "resistencia antimicrobiana",
+    "oncología pediátrica",
+    "piperacilina-tazobactam",
+    "bacteriemia"
+  ],
+  "advertencia": "Estudio retrospectivo unicéntrico; la prevalencia de resistencia y los factores de riesgo pueden variar según patrones locales de uso de antibióticos y epidemiología microbiana.",
+  "generadoPor": "claude-sonnet-4-5"
+}

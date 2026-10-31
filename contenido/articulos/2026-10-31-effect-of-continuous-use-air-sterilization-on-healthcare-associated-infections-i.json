@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-31-effect-of-continuous-use-air-sterilization-on-healthcare-associated-infections-i",
+  "estado": "publicado",
+  "pmid": "42955094",
+  "doi": "10.1007/s00431-026-07579-x",
+  "titulo": "Effect of continuous-use air sterilization on healthcare-associated infections in a neonatal intensive care unit: A quasi-experimental study",
+  "tituloEs": "Esterilización continua del aire no reduce infecciones asociadas a atención en UCIN",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Kola SVT",
+    "Amuji N",
+    "B LP",
+    "Balachander B",
+    "Venkatraman J",
+    "Rao Pn S"
+  ],
+  "fechaPublicacion": "2026 Oct 29",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42955094/",
+  "resumenOriginal": "Healthcare-associated infections (HAIs) remain a significant challenge in NICUs. Continuous air sterilization systems may reduce environmental microbial contamination, but their impact on HAIs and multidrug-resistant organism (MDRO) colonization remains uncertain.&#xa0;To evaluate the association of a continuous air sterilization system with healthcare-associated infections (HAIs), multidrug-resistant organism (MDRO) colonization, and environmental microbial burden in a neonatal intensive care unit (NICU).&#xa0;This quasi-experimental pre-post intervention study was conducted in a Level III NICU of a tertiary care hospital in Southern India. Neonates admitted during a 5-month pre-intervention phase were compared with those admitted during a 5-month post-intervention phase following installation of the continuous air sterilization system, with a 1-month washout period excluded from analysis. Primary outcomes were definite and probable HAIs. Secondary outcomes included MDRO colonization, environmental microbial burden, antibiotic utilization, and sepsis-related clinical outcomes. Crude effect estimates with 95% confidence intervals were additionally calculated; multivariable logistic regression was used for colonization outcomes to account for baseline differences.&#xa0;Among 698 neonates, 367 were included in the pre-intervention and 331 in the post-intervention cohort. The post-intervention cohort had significantly lower birth weight (2520&#x2009;&#xb1;&#x2009;771 vs. 2398&#x2009;&#xb1;&#x2009;820&#xa0;g; p&#x2009;=&#x2009;0.043) and gestational age (36&#x2009;&#xb1;&#x2009;3 vs. 35&#x2009;&#xb1;&#x2009;4&#xa0;weeks; p&#x2009;=&#x2009;0.0003). The incidence of definite HAI (5.2% vs. 6.3%; p&#x2009;=&#x2009;0.611), probable HAI (2.5% vs. 5.1%; p&#x2009;=&#x2009;0.094), and any HAI (7.4% vs. 9.7%; p&#x2009;=&#x2009;0.332) did not differ significantly between the groups. After adjustment for gestational age and birth weight, the odds of any HAI remained similar (aOR 1.05, 95% CI 0.58-1.91). New MDRO colonization was also comparable (6.0% vs. 7.0%; p&#x2009;=&#x2009;0.713). However, the intervention was associated with a significant reduction in airborne microbial burden. Conclusions: The continuous air sterilization system was associated with a substantial reduction in airborne microbial burden; however, no statistically significant reduction in HAIs or MDRO colonization was observed. Given the uncontrolled pre-post design and baseline differences,&#xa0;causal effects on clinical outcomes remain unproven. This study was only powered to detect very large effects; therefore, clinical benefit should be tested in larger cluster-randomized studies, or in settings where airborne transmission is a major driver of HAI. What is already known &#x2022; Environmental microbial contamination contributes to the transmission of healthcare-associated infections (HAIs) in NICUs. &#x2022; Air sterilization technologies can reduce airborne microbial load, but evidence for their impact on neonatal clinical outcomes and HAIs remains limited and inconsistent. What this study adds &#x2022; Continuous air sterilization was associated with a reduction in environmental microbial burden in a Level III NICU. &#x2022; Because airborne transmission is one of several routes of NICU infection, trials of air sterilization need either very large samples or settings and endpoints in which airborne infection predominates.",
+  "mesh": [
+    "Humans",
+    "Intensive Care Units, Neonatal",
+    "Cross Infection",
+    "Infant, Newborn",
+    "Sterilization",
+    "India",
+    "Male",
+    "Female",
+    "Infection Control",
+    "Air Microbiology",
+    "Logistic Models",
+    "Anti-Bacterial Agents"
+  ],
+  "palabrasClave": [
+    "Air microbiology",
+    "Drug resistance, microbial",
+    "Healthcare-associated infection",
+    "Infection control",
+    "Intensive care units, neonatal"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 38,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-31",
+  "publicadoEl": "2026-10-31",
+  "tips": [
+    {
+      "titulo": "Tecnología sin impacto clínico demostrado",
+      "texto": "La esterilización continua del aire redujo la carga microbiana ambiental, pero no disminuyó las IAAS ni la colonización por organismos multirresistentes en esta UCIN."
+    },
+    {
+      "titulo": "Transmisión aérea minoritaria en UCIN",
+      "texto": "Las IAAS neonatales dependen principalmente de transmisión por contacto y dispositivos invasivos, no de patógenos aéreos. La reducción del aire contaminado puede ser insuficiente para impactar las tasas de infección."
+    },
+    {
+      "titulo": "Limitaciones del diseño cuasiexperimental",
+      "texto": "Diferencias basales entre cohortes (menor peso y edad gestacional post intervención) y ausencia de aleatorización impiden establecer causalidad. Los hallazgos deben interpretarse con cautela."
+    },
+    {
+      "titulo": "Priorizar medidas de eficacia probada",
+      "texto": "Ante recursos limitados, conviene priorizar intervenciones con evidencia sólida: higiene de manos, paquetes de prevención de infecciones asociadas a catéteres y ventiladores, y políticas de uso prudente de antibióticos."
+    },
+    {
+      "titulo": "Estudios futuros mejor diseñados",
+      "texto": "Se requieren ensayos aleatorizados por conglomerados, con muestras grandes o en contextos donde la transmisión aérea sea predominante, para evaluar el beneficio clínico real de estas tecnologías."
+    }
+  ],
+  "sintesis": "Estudio cuasiexperimental en una UCIN de India evaluó el impacto de un sistema de esterilización continua del aire sobre infecciones asociadas a atención (IAAS) y colonización por organismos multirresistentes. Aunque se redujo la carga microbiana ambiental, no hubo diferencias significativas en las IAAS ni en la colonización.",
+  "aplicacionDocente": "Útil para discutir con residentes la diferencia entre desenlaces microbiológicos (carga ambiental) y clínicos (IAAS). Refuerza la necesidad de evaluar críticamente tecnologías costosas antes de su implementación masiva, especialmente cuando las vías de transmisión predominantes no son aéreas.",
+  "infografia": "/img/infografias/2026-10-31-effect-of-continuous-use-air-sterilization-on-healthcare-associated-infections-i.png",
+  "disenoEstudio": "Estudio cuasiexperimental pre–post intervención en 698 neonatos en una UCIN de nivel III",
+  "nivelEvidencia": "bajo",
+  "fraseInfografia": "Menos microbios en el aire no siempre significa menos infecciones en neonatos",
+  "etiquetas": [
+    "infecciones asociadas a atención",
+    "UCIN",
+    "esterilización del aire",
+    "organismos multirresistentes",
+    "prevención de infecciones"
+  ],
+  "advertencia": "Diseño cuasiexperimental sin aleatorización, con diferencias basales significativas entre cohortes y poder estadístico limitado para detectar efectos moderados.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "2026-10-31-external-validation-of-the-mdr-score-for-predicting-multidrug-resistant-device-a",
+  "estado": "publicado",
+  "pmid": "42955402",
+  "doi": "10.1007/s00431-026-07504-2",
+  "titulo": "External validation of the MDR score for predicting multidrug-resistant device-associated infections in pediatric intensive care units (PEPE-MDR score): a nationwide registry-based study",
+  "tituloEs": "Validación externa de una escala de riesgo para predecir infecciones resistentes en UCIP",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "González-Anleo C",
+    "Girona-Alarcón M",
+    "Fresán-Ruiz E",
+    "Bobillo-Pérez S",
+    "Guitart C",
+    "Garrido C",
+    "Carnaval T",
+    "Jordan I",
+    "Pediatric ENVIN-HELICS Study Group"
+  ],
+  "fechaPublicacion": "2026 Oct 28",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Multicenter Study",
+    "Validation Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42955402/",
+  "resumenOriginal": "Unlabelled: Multidrug-resistant (MDR) organisms are an increasing cause of device-associated healthcare-associated infections (DA-HAIs) in pediatric intensive care units (PICUs), complicating empirical antibiotic selection. The aim of the study was to externally validate the MDR-score (PEPE-MDR score), a tool developed to estimate the likelihood of a DA-HAI being caused by MDR. A multicenter retrospective cohort study was conducted using surveillance data from the pediatric ENVIN-HELICS registry (2014-2024). Pediatric patients with microbiologically confirmed DA-HAIs were included. The PEPE-MDR score incorporates prior MDR colonization, comorbidity, and PICU length of stay&#x2009;>&#x2009;9&#xa0;days. Discrimination was assessed using area under the receiver operating characteristic curve (AUC-ROC), sensitivity, specificity, and positive (PPV) and negative predictive values (NPV). Calibration was evaluated with the observed-to-expected (O:E) ratio and the calibration slope. Among 21,999 episodes registered, 406 DA-HAIs were included. Of these, 93 (22.9%) were caused by MDR organisms. Median (IQR) MDR scores were higher in MDR infections than non-MDR infections (p&#x2009;<&#x2009;0.001), with a Hodges-Lehmann location shift (95% CI) of 3 points (2-4). The MDR score yielded an AUC-ROC of 0.69 (95% CI 0.62-0.75). Using the high-risk category as the threshold, sensitivity and specificity were 46.2% and 79.9% (PPV 40.6%; NPV 83.3%). Combining moderate- and high-risk categories increased sensitivity to 77.4% with specificity 47.0% (PPV 30.3%; NPV 87.5%). Observed risks were lower than predicted: O:E ratio 0.64 (95% CI 0.54-0.77), although risk increased across categories (12.5%, 22.0%, 40.6%; p&#x2009;<&#x2009;0.001).\n\nConclusion: &#xa0;In this multicenter external validation, the PEPE-MDR score provided moderate discrimination and preserved risk stratification for MDR DA-HAIs, contributing to empirical antibiotic decision-making in PICUs after recalibration to local prevalence.\n\nWhat is known: &#x2022; Acknowledging the risk of a multidrug resistant microorganism involvement in infections related to invasive devices is crucial to adjust empirical antibiotherapy in the pediatric intensive care unit (PICU). &#x2022; A MDR score for Predicting Multidrug-Resistant Device-Associated Infections in Pediatric Intensive Care Units (PEPE-MDR score) was developed recently, but it required external validation.\n\nWhat is new: &#x2022; The PEPE-MDR score was validated in a multicenter national database. &#x2022; These findings support the PEPE-MDR score's utility as a practical tool for adjusting empirical antibiotic treatment in the PICU setting.",
+  "mesh": [
+    "Humans",
+    "Intensive Care Units, Pediatric",
+    "Retrospective Studies",
+    "Cross Infection",
+    "Registries",
+    "Female",
+    "Drug Resistance, Multiple, Bacterial",
+    "Child",
+    "Child, Preschool",
+    "Male",
+    "Infant",
+    "Predictive Value of Tests"
+  ],
+  "palabrasClave": [
+    "Antimicrobial resistance",
+    "Device-associated healthcare-associated infections",
+    "Multidrug-resistant organisms",
+    "Pediatric intensive care unit",
+    "Risk prediction score"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 33.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-31",
+  "publicadoEl": "2026-10-31",
+  "tips": [
+    {
+      "titulo": "Tres variables predicen resistencia",
+      "texto": "La escala PEPE-MDR incorpora colonización previa por microorganismos multirresistentes, comorbilidad y estancia en UCIP mayor a 9 días. Estos tres factores estratifican el riesgo de infección resistente."
+    },
+    {
+      "titulo": "Categorías de riesgo orientan cobertura",
+      "texto": "El riesgo moderado-alto identificó el 77% de las infecciones multirresistentes, con valor predictivo negativo del 87%. Considerar ampliación de cobertura empírica en estas categorías."
+    },
+    {
+      "titulo": "Calibrar según prevalencia local",
+      "texto": "Los riesgos observados fueron menores que los predichos. Conviene ajustar los puntos de corte a la prevalencia local de resistencia para optimizar la decisión antibiótica."
+    },
+    {
+      "titulo": "No reemplaza el juicio clínico",
+      "texto": "La escala ofrece discriminación moderada, no perfecta. Integrar el puntaje con la gravedad clínica, factores de riesgo individuales y ecología local del servicio."
+    },
+    {
+      "titulo": "Aplicable a infecciones por dispositivos",
+      "texto": "La herramienta se validó específicamente para infecciones asociadas a catéteres, ventilación mecánica y sondas urinarias confirmadas microbiológicamente, no para infecciones comunitarias o no asociadas a dispositivos."
+    }
+  ],
+  "sintesis": "Estudio multicéntrico que validó externamente la escala PEPE-MDR para estimar el riesgo de infecciones asociadas a dispositivos causadas por microorganismos multirresistentes en unidades de cuidados intensivos pediátricos. La escala mostró discriminación moderada y preservó la estratificación de riesgo, aunque requiere calibración local.",
+  "aplicacionDocente": "Durante la discusión matutina de casos nuevos en UCIP, calcular el puntaje PEPE-MDR en pacientes con sospecha de infección asociada a dispositivo. Comparar la categoría de riesgo obtenida con la ecología local y discutir si la cobertura empírica inicial debe ampliarse, integrando colonización previa, días de estancia y comorbilidad.",
+  "infografia": "/img/infografias/2026-10-31-external-validation-of-the-mdr-score-for-predicting-multidrug-resistant-device-a.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo multicéntrico basado en registro nacional de vigilancia, 406 infecciones asociadas a dispositivos en UCIP",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Escala PEPE-MDR: colonización previa + comorbilidad + >9 días en UCIP predice resistencia",
+  "etiquetas": [
+    "resistencia antimicrobiana",
+    "unidad de cuidados intensivos pediátricos",
+    "infección asociada a dispositivos",
+    "antibioticoterapia empírica",
+    "escalas de riesgo"
+  ],
+  "advertencia": "Diseño retrospectivo basado en registro de vigilancia; la escala sobrestimó el riesgo en esta cohorte, lo que señala la necesidad de recalibración local antes de su implementación.",
+  "generadoPor": "claude-sonnet-4-5"
+}

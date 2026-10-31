@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-31-the-evolving-landscape-of-neonatal-care-and-research-based-on-14-th-dr-i-c-verma",
+  "estado": "publicado",
+  "pmid": "42932155",
+  "doi": "10.1007/s12098-026-06525-x",
+  "titulo": "The Evolving Landscape of Neonatal Care and Research : Based on 14(th) Dr. I. C. Verma Excellence in Research Award Delivered as Oration on 4(th) October 2026",
+  "tituloEs": "Neonatología contemporánea: de la supervivencia al desarrollo integral del recién nacido",
+  "revista": "Indian journal of pediatrics",
+  "autores": [
+    "Bethou A"
+  ],
+  "fechaPublicacion": "2026 Oct 26",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42932155/",
+  "resumenOriginal": "Neonatology has undergone a remarkable transformation over the past six decades, evolving from a discipline focused predominantly on preventing neonatal death to one increasingly concerned with quality of survival, neurodevelopment, family-integrated care and long-term health. Despite substantial progress, neonatal mortality remains a major global health challenge. In 2024, approximately 2.3&#xa0;million newborns died globally, with the highest mortality rates in sub-Saharan Africa and South Asia. India has achieved a substantial decline in neonatal mortality, from 28 to 17 per 1000 live births between 2015 and 2023, accompanied by rapid expansion of facility-based newborn care. However, prematurity, low birth weight, intrapartum complications, infection, antimicrobial resistance, inequitable access, workforce constraints and inadequate long-term follow-up remain major challenges. The epidemiology of neonatal disease is also changing, with increasing survival of extremely premature infants and greater recognition of bronchopulmonary dysplasia, necrotizing enterocolitis, retinopathy of prematurity, brain injury and developmental impairment. Neonatal research is similarly moving from descriptive epidemiology and rescue therapy towards prediction, prevention, precision medicine and implementation science. The next decade should prioritize prevention of prematurity, precision sepsis management, respiratory and brain protection, nutrition and gut health, Kangaroo Mother Care, zero separation, artificial intelligence and predictive analytics, long-term outcomes and affordable innovations. The ultimate measure of neonatal care should move beyond survival to enabling every newborn to develop and reach their full potential.",
+  "mesh": [],
+  "palabrasClave": [
+    "Artificial intelligence",
+    "Kangaroo mother care",
+    "Neonatal mortality",
+    "Neonatal research",
+    "Precision neonatology",
+    "Preterm infant"
+  ],
+  "temas": [
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico"
+  ],
+  "puntaje": 31.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-31",
+  "publicadoEl": "2026-10-31",
+  "tips": [
+    {
+      "titulo": "Más allá de la supervivencia",
+      "texto": "Al evaluar recién nacidos de riesgo, considerar no solo parámetros vitales sino indicadores de neurodesarrollo y calidad de vida futura. El alta no cierra el seguimiento."
+    },
+    {
+      "titulo": "Manejo de sepsis con enfoque de precisión",
+      "texto": "Ajustar antibioticoterapia según epidemiología local y resistencias. El uso empírico masivo contribuye a resistencia antimicrobiana, un reto creciente en unidades neonatales."
+    },
+    {
+      "titulo": "Nutrición y salud intestinal",
+      "texto": "Promover lactancia materna temprana y contacto piel con piel en prematuros estables. La evidencia vincula nutrición óptima con menor morbilidad gastrointestinal y mejor neurodesarrollo."
+    },
+    {
+      "titulo": "Cuidado centrado en la familia",
+      "texto": "Integrar a los padres en rondas y cuidados básicos. El modelo de cero separación y atención canguro muestran beneficios en termorregulación y reducción de estrés neonatal."
+    },
+    {
+      "titulo": "Seguimiento a largo plazo",
+      "texto": "Establecer consultas de seguimiento neurocognitivo para prematuros extremos. La detección precoz de alteraciones visuales, auditivas y del desarrollo permite intervención oportuna."
+    }
+  ],
+  "sintesis": "Esta revisión describe la transformación de la neonatología desde un enfoque centrado en reducir mortalidad hacia uno que prioriza calidad de supervivencia, neurodesarrollo y atención integrada con las familias. A pesar del progreso global, persisten desafíos como prematurez, bajo peso al nacer, infecciones y resistencia antimicrobiana.",
+  "aplicacionDocente": "Durante rondas con residentes, discutir no solo estabilización inmediata sino metas de neurodesarrollo y calidad de vida. Revisar casos de prematuros extremos integrando detección de retinopatía, displasia broncopulmonar y evaluación del neurodesarrollo. Enfatizar que el éxito en neonatología se mide en desarrollo pleno, no solo en supervivencia.",
+  "infografia": "/img/infografias/2026-10-31-the-evolving-landscape-of-neonatal-care-and-research-based-on-14-th-dr-i-c-verma.png",
+  "disenoEstudio": "Revisión narrativa sobre tendencias epidemiológicas y direcciones futuras en neonatología",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "El éxito neonatal: sobrevivir y alcanzar todo el potencial de desarrollo",
+  "etiquetas": [
+    "neonatología",
+    "prematurez",
+    "neurodesarrollo",
+    "sepsis neonatal",
+    "atención centrada en la familia"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis ni recomendaciones graduadas; refleja opinión experta sobre tendencias, no ensayos controlados.",
+  "generadoPor": "claude-sonnet-4-5"
+}
