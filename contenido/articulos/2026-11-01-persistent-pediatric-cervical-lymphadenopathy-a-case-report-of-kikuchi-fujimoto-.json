@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-01-persistent-pediatric-cervical-lymphadenopathy-a-case-report-of-kikuchi-fujimoto-",
+  "estado": "publicado",
+  "pmid": "42948176",
+  "doi": "10.1155/crpe/4898588",
+  "titulo": "Persistent Pediatric Cervical Lymphadenopathy: A Case Report of Kikuchi-Fujimoto Disease Mimicking Infection and Malignancy",
+  "tituloEs": "Linfadenopatía cervical persistente en niños: pensar en Kikuchi-Fujimoto tras descartar infección",
+  "revista": "Case reports in pediatrics",
+  "autores": [
+    "Thomas M",
+    "Stevens D",
+    "Davis C",
+    "Money NM"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42948176/",
+  "resumenOriginal": "Case presentation: A 10-year-old female presented with 2 months of unilateral cervical lymphadenopathy despite several courses of oral antibiotics. She presented to the emergency department due to persistent pain and swelling along with new fever. On presentation, she was febrile to 39.0&#xb0;C. Physical examination revealed significant left-sided cervical and submandibular lymphadenopathy with tenderness, warmth, and overlying erythema. Initial labs were notable for leukopenia (2.6&#x2009;&#xd7;&#x2009;103/&#x3bc;L), thrombocytopenia (135,000/&#x3bc;L), and elevated liver enzymes. Computed tomography (CT) of the neck demonstrated necrotic left cervical lymphadenopathy with prominent right cervical lymph nodes. An infectious workup, including testing for Epstein-Barr virus, Cytomegalovirus, human immunodeficiency virus, coccidioidomycosis, tuberculosis, and microbial cell-free DNA sequencing, was negative. Initial fine-needle aspiration (FNA) and core needle biopsy showed predominantly necrotic tissue. Cultures obtained during the biopsy showed no growth, and flow cytometry was negative for leukemia/lymphoma markers. Intravenous (IV) ceftriaxone administration resulted in improvement in neck swelling and fever resolution. Histopathologic examination from excisional biopsy revealed histiocytic necrotizing lymphadenitis consistent with Kikuchi-Fujimoto (KFD) lymphadenitis. Comprehensive autoimmune serologies were negative. Naproxen was prescribed to help with residual inflammation.\n\nDiscussion: KFD should be considered in children presenting with prolonged cervical lymphadenopathy refractory to antibiotics. This case illustrates several diagnostic challenges inherent in making this diagnosis. The patient's prolonged unilateral cervical lymphadenopathy, necrotic imaging findings, and transient improvement with antibiotics strongly suggested bacterial lymphadenitis or malignancy. However, the persistence of symptoms despite multiple appropriate antibiotic courses, the development of cytopenias and elevated liver enzymes, and ultimately nondiagnostic cultures represented key findings prompting reconsideration of the initial differential diagnoses. This case also highlights the importance of considering excisional biopsy when core biopsy is nondiagnostic.",
+  "mesh": [],
+  "palabrasClave": [
+    "Kikuchi&#x2013;Fujimoto disease",
+    "case report",
+    "cervical lymphadenopathy",
+    "histiocytic necrotizing lymphadenitis",
+    "pediatric"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Tuberculosis y VIH"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-11-01",
+  "publicadoEl": "2026-11-01",
+  "tips": [
+    {
+      "titulo": "Considerar Kikuchi-Fujimoto",
+      "texto": "Ante linfadenopatía cervical que persiste tras varios cursos antibióticos apropiados, especialmente con fiebre y citopenias, incluir enfermedad de Kikuchi-Fujimoto en el diagnóstico diferencial junto a infección atípica y malignidad."
+    },
+    {
+      "titulo": "Citopenias como clave orientadora",
+      "texto": "La combinación de leucopenia, trombocitopenia y elevación de transaminasas en contexto de adenopatía cervical febril sugiere proceso sistémico más allá de linfadenitis bacteriana común."
+    },
+    {
+      "titulo": "Biopsia excisional cuando PAAF falla",
+      "texto": "Si la punción aspirativa con aguja fina o biopsia con aguja gruesa resultan no diagnósticas (predominio de necrosis), proceder a biopsia excisional para obtener arquitectura ganglionar completa y permitir diagnóstico histopatológico definitivo."
+    },
+    {
+      "titulo": "Mejoría transitoria con antibióticos",
+      "texto": "La respuesta clínica parcial a antibióticos intravenosos no descarta diagnóstico no infeccioso; en Kikuchi-Fujimoto puede observarse mejoría sintomática espontánea coincidente con el tratamiento antimicrobiano."
+    },
+    {
+      "titulo": "Manejo sintomático con AINE",
+      "texto": "Enfermedad de Kikuchi-Fujimoto es autolimitada; tratamiento de soporte con antiinflamatorios no esteroideos (naproxeno) para inflamación residual suele ser suficiente. Descartar asociación con lupus eritematoso sistémico mediante serología autoinmune."
+    }
+  ],
+  "sintesis": "Niña de 10 años con adenopatía cervical unilateral de 2 meses, refractaria a antibióticos, fiebre y citopenias. Estudio exhaustivo descartó infección y malignidad; biopsia excisional confirmó enfermedad de Kikuchi-Fujimoto, entidad autolimitada que puede simular linfadenitis bacteriana o linfoma.",
+  "aplicacionDocente": "Caso útil para enseñar el razonamiento diagnóstico ante adenopatía cervical prolongada. Discutir con residentes cuándo ampliar diagnóstico diferencial más allá de infección bacteriana: presencia de citopenias, elevación de enzimas hepáticas, ausencia de crecimiento en cultivos y falta de respuesta sostenida a antibióticos son señales de alerta que obligan a considerar entidades no infecciosas.",
+  "infografia": "/img/infografias/2026-11-01-persistent-pediatric-cervical-lymphadenopathy-a-case-report-of-kikuchi-fujimoto-.png",
+  "disenoEstudio": "Reporte de caso en una niña de 10 años con linfadenopatía cervical persistente",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Adenopatía cervical >4 semanas + citopenias: no todo es infección o linfoma",
+  "etiquetas": [
+    "linfadenopatía cervical",
+    "enfermedad de Kikuchi-Fujimoto",
+    "diagnóstico diferencial",
+    "biopsia excisional",
+    "citopenias"
+  ],
+  "advertencia": "Reporte de caso único; la frecuencia de presentación clínica y laboratorial descrita puede no ser representativa del espectro completo de la enfermedad de Kikuchi-Fujimoto en pediatría.",
+  "generadoPor": "claude-sonnet-4-5"
+}

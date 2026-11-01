@@ -1,0 +1,92 @@
+{
+  "id": "2026-11-01-application-of-procalcitonin-in-pediatric-emergency-and-critical-care-settings",
+  "estado": "publicado",
+  "pmid": "42838857",
+  "doi": "10.1016/j.pedneo.2026.06.006",
+  "titulo": "Application of procalcitonin in pediatric emergency and critical care settings",
+  "tituloEs": "Procalcitonina como herramienta complementaria en urgencias y cuidados críticos pediátricos",
+  "revista": "Pediatrics and neonatology",
+  "autores": [
+    "Wu HP",
+    "Lee EP",
+    "Lin JJ",
+    "Hsu JH",
+    "Jeng MJ",
+    "Wu ET",
+    "Hsu TY",
+    "Wang PY",
+    "Wu CY",
+    "Wu PM",
+    "Huang HJ",
+    "Jan SL"
+  ],
+  "fechaPublicacion": "2026 Nov",
+  "tiposPublicacion": [
+    "Consensus Statement",
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42838857/",
+  "resumenOriginal": "This expert consensus on the clinical application of procalcitonin (PCT) in pediatric emergency and critical care was convened by the Taiwan Society of Pediatric Emergency Medicine (TSPEM) and formulated by a committee of 14 leading experts. In pediatric emergency and critical care medicine, distinguishing between bacterial and viral etiologies remains a significant challenge, as clinical symptoms often lack specificity. While traditional biomarkers such as white blood cell count (WBC) and Creactive protein (CRP) provide reference values, they possess limitations regarding diagnostic timeliness and accuracy. In contrast, PCT serves as a specific biomarker for bacterial infections with superior kinetic advantages, rising rapidly within 3 to 6 hours of infection. It demonstrates greater sensitivity than CRP in the early detection of bacterial infections and in reflecting disease severity. This consensus recommends PCT as a vital adjunctive diagnostic tool, particularly for the early diagnosis and risk stratification of lower respiratory tract infections, bacterial meningitis, and sepsis. Specifically within the Pediatric Intensive Care Unit (PICU), PCT levels are valuable for monitoring disease progression and assessing the risk of sepsis-associated organ dysfunction. Furthermore, PCT plays a pivotal role in antimicrobial stewardship by providing objective guidance for the initiation and deescalation of antibiotic therapy, thereby effectively reducing unnecessary antibiotic exposure and mitigating the risk of antimicrobial resistance. Although PCT entails higher costs, studies indicate that its combination with CRP enhances diagnostic value. The committee emphasizes that PCT should be utilized as an \"adjunctive aid\" rather than a sole determinant of clinical decision-making. Clinicians must integrate PCT results with the patient's overall clinical presentation and employ dynamic serial monitoring to optimize care quality and therapeutic outcomes in pediatric emergency and critical care settings.",
+  "mesh": [
+    "Child",
+    "Humans",
+    "Bacterial Infections",
+    "Biomarkers",
+    "Critical Care",
+    "Intensive Care Units, Pediatric",
+    "Procalcitonin",
+    "Sepsis"
+  ],
+  "palabrasClave": [
+    "Critical care",
+    "Emergency department",
+    "Pediatric",
+    "Procalcitonin"
+  ],
+  "temas": [
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-11-01",
+  "publicadoEl": "2026-11-01",
+  "tips": [
+    {
+      "titulo": "Diagnóstico precoz en infecciones graves",
+      "texto": "Solicitar PCT ante sospecha de neumonía bacteriana, meningitis o sepsis. Su elevación en 3 a 6 horas permite identificar infección bacteriana antes que la proteína C reactiva."
+    },
+    {
+      "titulo": "Estratificación de riesgo en la UCIP",
+      "texto": "Monitorear PCT seriadamente en pacientes críticos para evaluar progresión de sepsis y riesgo de disfunción orgánica asociada."
+    },
+    {
+      "titulo": "Optimización de antibioticoterapia",
+      "texto": "Usar PCT como guía objetiva para iniciar antibióticos en urgencias y para considerar su retiro precoz en UCIP, reduciendo días innecesarios de tratamiento."
+    },
+    {
+      "titulo": "Complementar con proteína C reactiva",
+      "texto": "Combinar PCT con proteína C reactiva aumenta el valor diagnóstico global, especialmente en infecciones del tracto respiratorio inferior, pese al costo adicional."
+    },
+    {
+      "titulo": "Integrar clínica y laboratorio",
+      "texto": "Interpretar la PCT siempre en contexto clínico del paciente. Nunca basar decisiones únicamente en un valor aislado; monitorear dinámicamente su evolución."
+    }
+  ],
+  "sintesis": "Un consenso de expertos taiwaneses recomienda la procalcitonina (PCT) como biomarcador complementario para distinguir infecciones bacterianas de virales en urgencias y cuidados intensivos pediátricos. La PCT se eleva en 3 a 6 horas, supera en sensibilidad temprana a la proteína C reactiva y orienta el inicio y retiro de antibióticos, reduciendo la exposición innecesaria.",
+  "aplicacionDocente": "Durante la ronda en la unidad de cuidados intensivos pediátricos, discutir con residentes cuándo solicitar PCT (sospecha de infección bacteriana grave) y cómo interpretarla seriadamente: una caída sostenida respalda el retiro de antibióticos, mientras que valores persistentemente elevados obligan a replantear el diagnóstico o buscar foco no controlado.",
+  "infografia": "/img/infografias/2026-11-01-application-of-procalcitonin-in-pediatric-emergency-and-critical-care-settings.png",
+  "disenoEstudio": "Declaración de consenso de 14 expertos de la Sociedad Taiwanesa de Medicina de Urgencias Pediátricas",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Procalcitonina: se eleva en 3–6 h y orienta inicio y retiro de antibióticos en UCIP",
+  "etiquetas": [
+    "procalcitonina",
+    "biomarcadores",
+    "sepsis pediátrica",
+    "cuidados intensivos pediátricos",
+    "optimización antimicrobiana"
+  ],
+  "advertencia": "Consenso de expertos sin metaanálisis cuantitativo; la evidencia de cortes y dinámicas de PCT varía según población y contexto clínico local.",
+  "generadoPor": "claude-sonnet-4-5"
+}

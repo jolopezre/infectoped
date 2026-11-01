@@ -1,0 +1,76 @@
+{
+  "id": "2026-11-01-irrational-antibiotic-prescriptions-in-pediatric-care-across-africa-a-systematic",
+  "estado": "publicado",
+  "pmid": "42963442",
+  "doi": "10.1038/s41390-026-05581-5",
+  "titulo": "Irrational antibiotic prescriptions in pediatric care across Africa: a systematic review and meta-analysis",
+  "tituloEs": "Prescripción inapropiada de antibióticos en pediatría africana: prevalencia del 44%",
+  "revista": "Pediatric research",
+  "autores": [
+    "Demsie DG",
+    "Yismaw MB",
+    "Tafere C",
+    "Gebrie D",
+    "Siraj EA",
+    "Agmassie Z",
+    "Tefera BB",
+    "Bantie AT",
+    "Gebremariam Y",
+    "Balcha WF",
+    "Belachew A",
+    "Nigus MD"
+  ],
+  "fechaPublicacion": "2026 Oct 30",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42963442/",
+  "resumenOriginal": "Background: Inappropriate antibiotic use, including deviations from guideline recommendations, incorrect dosages, and over-prescription, is a critical public health concern. This systematic review and meta-analysis assessed the prevalence and factors associated with inappropriate antibiotic use in pediatric populations across Africa.\n\nMethod: A comprehensive search was conducted in PubMed, Web of Science, and African Journals Online, following PRISMA guidelines and the PICOC framework. Study quality was assessed using the Mixed Methods Appraisal Tool (MMAT). Meta-analysis was performed with STATA 17 using a random-effects model.\n\nResult: From 3,085 records, 11 studies met inclusion. The pooled prevalence of inappropriate antibiotic use was 44%. Rates reached 75.1%, 73.9%, and 71.5% in some countries, while lower rates of 11% and 19.3% were reported elsewhere. Retrospective studies showed a pooled prevalence of 51.2% (I&#xb2;&#x2009;=&#x2009;99.5%), and prospective studies 35.4% (I&#xb2;&#x2009;=&#x2009;99%). Commonly prescribed antibiotics included cotrimoxazole, amoxicillin, and ceftriaxone. Inappropriate practices involved incorrect dosages (10.1%-19.5%) and durations (17.47-18.8%). Risk factors included younger age, three or more antibiotics (AOR: 2.8, 95% CI: 1.245-6.462, p&#x2009;=&#x2009;0.013), and prolonged hospitalization.\n\nConclusion: Inappropriate pediatric antibiotic use in Africa is highly prevalent, driven by age, hospitalization, and polypharmacy, underscoring the need for targeted stewardship interventions.\n\nImpact: This study is the first to bring together evidence across Africa showing that nearly half of antibiotics prescribed to children are used inappropriately. The findings call for stronger, targeted antibiotic stewardship efforts to improve prescribing practices and curb the growing threat of resistance in African healthcare settings.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-11-01",
+  "publicadoEl": "2026-11-01",
+  "tips": [
+    {
+      "titulo": "Revisar número de antimicrobianos",
+      "texto": "La prescripción simultánea de tres o más antibióticos duplica el riesgo de uso inapropiado. Considerar si cada esquema realmente requiere combinación múltiple o si un espectro más dirigido es suficiente."
+    },
+    {
+      "titulo": "Atención en lactantes hospitalizados",
+      "texto": "La edad menor y la hospitalización prolongada se asocian con mayor frecuencia de prescripción inadecuada. Revisar diariamente la indicación, dosis y duración en este grupo especialmente vulnerable."
+    },
+    {
+      "titulo": "Verificar dosis y duración",
+      "texto": "Los errores en dosificación alcanzaron hasta 19.5% y en duración hasta 18.8%. Confrontar cada prescripción con guías locales actualizadas antes de la primera dosis."
+    },
+    {
+      "titulo": "Antibióticos más involucrados",
+      "texto": "Cotrimoxazol, amoxicilina y ceftriaxona fueron los más frecuentemente mal prescritos. Reforzar el conocimiento de indicaciones precisas, dosis por peso y duración apropiada para cada uno."
+    },
+    {
+      "titulo": "Programas de optimización",
+      "texto": "La alta prevalencia de uso inapropiado señala la necesidad urgente de programas de administración responsable de antimicrobianos adaptados al contexto africano y con enfoque pediátrico específico."
+    }
+  ],
+  "sintesis": "Revisión sistemática con metaanálisis de 11 estudios africanos encuentra que el 44% de las prescripciones de antibióticos en población pediátrica son inapropiadas. La edad temprana, el uso de tres o más antibióticos simultáneos y la hospitalización prolongada se asocian con mayor riesgo de uso inadecuado.",
+  "aplicacionDocente": "Durante la ronda hospitalaria, revisar con residentes cada prescripción de antibióticos: indicación precisa, número de fármacos, dosis por kilogramo y duración planificada. Discutir por qué esquemas de tres o más antimicrobianos incrementan el riesgo de error y cómo la revisión diaria, especialmente en lactantes hospitalizados, puede reducir el uso inapropiado.",
+  "infografia": "/img/infografias/2026-11-01-irrational-antibiotic-prescriptions-in-pediatric-care-across-africa-a-systematic.png",
+  "disenoEstudio": "Revisión sistemática y metaanálisis de 11 estudios observacionales en población pediátrica africana",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Casi la mitad de los antibióticos prescritos a niños en África son inapropiados",
+  "etiquetas": [
+    "uso racional de antimicrobianos",
+    "prescripción pediátrica",
+    "resistencia antimicrobiana",
+    "África",
+    "administración responsable"
+  ],
+  "advertencia": "Alta heterogeneidad entre estudios (I²=99%) y predominio de diseños retrospectivos limitan la generalización de las cifras y la identificación de factores causales.",
+  "generadoPor": "claude-sonnet-4-5"
+}

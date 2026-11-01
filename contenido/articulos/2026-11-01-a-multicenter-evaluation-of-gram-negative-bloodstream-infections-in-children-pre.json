@@ -1,0 +1,95 @@
+{
+  "id": "2026-11-01-a-multicenter-evaluation-of-gram-negative-bloodstream-infections-in-children-pre",
+  "estado": "publicado",
+  "pmid": "42092349",
+  "doi": "10.1097/INF.0000000000005270",
+  "titulo": "A Multicenter Evaluation of Gram-negative Bloodstream Infections in Children: Predictors of Carbapenem Resistance",
+  "tituloEs": "Factores de riesgo de resistencia a carbapenémicos en bacteriemias por gramnegativos en niños",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Arslan A",
+    "Arslan SY",
+    "Coskun ZN",
+    "Ciftci E",
+    "Tanir Basaranoglu S",
+    "Durmus SY",
+    "Kiliç Çil M",
+    "Ozenen GG",
+    "Kaba O",
+    "Genceli M",
+    "Dede E",
+    "Tekeli O"
+  ],
+  "fechaPublicacion": "2026 Nov 1",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42092349/",
+  "resumenOriginal": "Background: Pediatric carbapenem-resistant Gram-negative (CRGN) infections cause high morbidity and mortality. Despite the rising global threat, multicenter data on resistance drivers in children remain limited. This study aimed to determine the prevalence, carbapenem resistance (CR) rates and clinical risk factors for Gram-negative bloodstream infections (GNBSIs) among hospitalized children in Turkey.\n\nMethods: A 1-month point prevalence study was conducted in November 2023 across 27 tertiary hospitals. Hospitalized patients (1 month-18 years) with laboratory-confirmed GNBSIs were included. Independent risk factors and prior antibiotic exposures were analyzed using regression models.\n\nResults: Among 15,249 patients, 180 GNBSIs were identified (prevalence: 1.19%). K. pneumoniae (28.3%), E. coli (12.7%) and P. aeruginosa (11.5%) were the most frequent pathogens. The overall CR rate was 33.3%, peaking at 73.6% in A. baumannii. Independent risk factors for CRGN BSIs included university hospital setting [adjusted odds ratio (aOR): 3.05; 95% confidence interval (CI): 1.47-6.31], central venous catheterization (aOR: 3.23; 95% CI: 1.10-9.40), mechanical ventilation (aOR: 2.59; 95% CI: 1.18-5.63) and steroid use (aOR: 2.59; 95% CI: 1.10-6.04). Prolonged antibiotic exposure (>7 days) to meropenem, colistin, glycopeptides and aminoglycosides significantly increased the odds of CR ( P < 0.05).\n\nConclusions: This study highlights a high burden of CR in pediatric GNBSIs in Turkey. The identification of modifiable risk factors and the high prevalence of multidrug-resistant isolates emphasize the urgent need for enhanced infection control and robust antimicrobial stewardship programs.",
+  "mesh": [
+    "Humans",
+    "Infant",
+    "Child, Preschool",
+    "Carbapenems",
+    "Female",
+    "Male",
+    "Turkey",
+    "Adolescent",
+    "Gram-Negative Bacterial Infections",
+    "Anti-Bacterial Agents",
+    "Risk Factors",
+    "Child"
+  ],
+  "palabrasClave": [
+    "Gram-negative bloodstream infections",
+    "carbapenem resistance",
+    "colistin",
+    "meropenem"
+  ],
+  "temas": [
+    "Resistencia antimicrobiana",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 28.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-11-01",
+  "publicadoEl": "2026-11-01",
+  "tips": [
+    {
+      "titulo": "Revisar dispositivos invasivos",
+      "texto": "La cateterización venosa central triplica el riesgo de bacteriemia por gramnegativos resistentes a carbapenémicos. Considerar el retiro precoz de dispositivos cuando ya no sean estrictamente necesarios."
+    },
+    {
+      "titulo": "Reevaluar ventilación mecánica",
+      "texto": "La ventilación mecánica aumenta 2,5 veces el riesgo de resistencia. Implementar protocolos de destete precoz y cuidados respiratorios que reduzcan días de ventilación invasiva."
+    },
+    {
+      "titulo": "Uso juicioso de esteroides",
+      "texto": "El uso de corticoides se asoció con riesgo 2,5 veces mayor de resistencia a carbapenémicos. Limitar su indicación a casos estrictamente necesarios y valorar dosis mínimas efectivas."
+    },
+    {
+      "titulo": "Limitar exposición antibiótica prolongada",
+      "texto": "La exposición mayor a 7 días a meropenem, colistina, glucopéptidos o aminoglucósidos aumenta significativamente la resistencia. Reevaluar diariamente la necesidad de continuar estos esquemas de amplio espectro."
+    },
+    {
+      "titulo": "Sospechar resistencia en patógenos específicos",
+      "texto": "Acinetobacter baumannii mostró resistencia a carbapenémicos en 73,6% de los casos. Solicitar hemocultivo antes de iniciar antibióticos y considerar esquemas alternativos si la epidemiología local es similar."
+    }
+  ],
+  "sintesis": "Estudio multicéntrico turco que identificó 180 bacteriemias por gramnegativos en niños hospitalizados, con resistencia a carbapenémicos en 33,3% de los casos. Los principales factores de riesgo modificables fueron cateterización venosa central, ventilación mecánica, uso de esteroides y exposición prolongada a antibióticos de amplio espectro.",
+  "aplicacionDocente": "Durante las rondas con residentes, identificar pacientes con catéteres centrales, ventilación mecánica o antibióticos de amplio espectro por más de una semana. Plantear la pregunta: ¿qué dispositivo podemos retirar hoy? ¿Cuál antibiótico podemos desescalar o suspender? Vincular cada decisión con la reducción del riesgo de resistencia antimicrobiana documentada en este estudio multicéntrico.",
+  "infografia": "/img/infografias/2026-11-01-a-multicenter-evaluation-of-gram-negative-bloodstream-infections-in-children-pre.png",
+  "disenoEstudio": "Estudio de prevalencia puntual en 27 hospitales terciarios; 180 bacteriemias gramnegativas confirmadas en niños de 1 mes a 18 años",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "1 de cada 3 bacteriemias gramnegativas en niños hospitalizados es resistente a carbapenémicos",
+  "etiquetas": [
+    "bacteriemia",
+    "resistencia antimicrobiana",
+    "carbapenémicos",
+    "pediatría",
+    "infecciones nosocomiales"
+  ],
+  "advertencia": "Estudio de prevalencia puntual en un solo mes; la causalidad de los factores de riesgo no puede establecerse definitivamente sin seguimiento longitudinal.",
+  "generadoPor": "claude-sonnet-4-5"
+}
