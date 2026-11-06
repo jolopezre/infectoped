@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-06-detection-of-common-neonatal-sepsis-pathogens-using-a-contemporary-pediatric-blo",
+  "estado": "publicado",
+  "pmid": "42988897",
+  "doi": "10.1038/s41390-026-05626-9",
+  "titulo": "Detection of common neonatal sepsis pathogens using a contemporary pediatric blood culture system",
+  "tituloEs": "El volumen de sangre inoculada mejora la recuperación de patógenos en hemocultivos neonatales",
+  "revista": "Pediatric research",
+  "autores": [
+    "Faugno A",
+    "Strunk T",
+    "MacKay C",
+    "Joubert IA",
+    "Peck A",
+    "Currie A",
+    "Nathan E",
+    "Porter M"
+  ],
+  "fechaPublicacion": "2026 Nov 6",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42988897/",
+  "resumenOriginal": "Objective: To evaluate recovery and time to positivity (TTP) of neonatal sepsis pathogens at low and ultra-low organism concentrations using a contemporary pediatric automated blood culture system.\n\nStudy design: Six common neonatal sepsis pathogens were prepared in a 1:1 mixture of donor whole blood and saline-organism suspension at final concentrations ranging from &#x2264;1 to 10-20 CFU/mL. Aliquots of 0.25-2.0&#x2009;mL, containing 0.125-1.0&#x2009;mL donor whole blood, were inoculated into BD BACTEC Peds Plus/F bottles. Recovery and TTP were assessed.\n\nResults: Clinically important neonatal pathogens remained recoverable at very low inocula, including &#x2264;1&#x2009;CFU/mL. Median TTP ranged from 10 to 12&#x2009;h for Escherichia coli and Streptococcus agalactiae to 20-26&#x2009;h for coagulase-negative staphylococci. Increasing organism concentration shortened TTP for E. coli, Haemophilus influenzae, Staphylococcus capitis, and S. agalactiae. Inoculated suspension volume had relatively little effect on TTP among recovered cultures. Recovery improved across larger inoculated suspension volumes, particularly for staphylococcal organisms.\n\nConclusions: A contemporary pediatric blood culture system demonstrated excellent recovery of common neonatal sepsis pathogens, including at very low organism concentrations. Larger inoculated suspension volumes primarily improved pathogen recovery rather than substantially faster detection. These findings support optimizing and documenting blood culture specimen volume as part of neonatal diagnostic stewardship.\n\nImpact: Common neonatal sepsis pathogens remained recoverable at very low organism concentrations, including &#x2264;1 CFU/mL, using a contemporary pediatric blood culture system. Organism-specific differences in time to positivity were more pronounced than the generally modest effects of organism concentration or inoculated suspension volume. Larger inoculated suspension volumes primarily improved pathogen recovery rather than detection speed. Recovery of staphylococci was reduced at smaller inoculated suspension volumes, particularly at ultra-low organism concentrations. These findings support attention to specimen volume and documentation of the volume obtained as components of neonatal diagnostic and antimicrobial stewardship.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-06",
+  "publicadoEl": "2026-11-06",
+  "tips": [
+    {
+      "titulo": "Optimizar el volumen de sangre",
+      "texto": "Procurar el mayor volumen de sangre posible para hemocultivo en neonatos: volúmenes mayores mejoran la recuperación de patógenos, especialmente estafilococos, sin necesariamente acelerar la detección."
+    },
+    {
+      "titulo": "Documentar el volumen obtenido",
+      "texto": "Registrar sistemáticamente el volumen de sangre inoculado en cada hemocultivo neonatal. Esta información ayuda a interpretar cultivos negativos y forma parte de la gestión diagnóstica antimicrobiana."
+    },
+    {
+      "titulo": "Tiempos de detección esperados",
+      "texto": "Escherichia coli y Streptococcus agalactiae suelen detectarse en 10-12 horas, mientras que estafilococos coagulasa negativos requieren 20-26 horas. Este conocimiento orienta decisiones sobre duración empírica de antibióticos."
+    },
+    {
+      "titulo": "Sensibilidad en bacteriemias de bajo inóculo",
+      "texto": "Los sistemas pediátricos contemporáneos detectan patógenos incluso a concentraciones ≤1 UFC/mL, lo que respalda su utilidad en sepsis neonatal temprana con cargas bacterianas muy bajas."
+    },
+    {
+      "titulo": "Interpretar negativos con cautela",
+      "texto": "Un hemocultivo negativo con volumen subóptimo, especialmente ante sospecha de infección estafilocócica, debe interpretarse considerando las limitaciones de sensibilidad relacionadas con el volumen insuficiente."
+    }
+  ],
+  "sintesis": "Estudio experimental que evaluó la capacidad de un sistema pediátrico automatizado para detectar seis patógenos neonatales comunes en concentraciones muy bajas (≤1 UFC/mL). Los mayores volúmenes de sangre inoculada mejoraron la recuperación de patógenos, especialmente estafilococos, más que la velocidad de detección.",
+  "aplicacionDocente": "En la ronda neonatal, discutir cómo el volumen de sangre extraído influye en la probabilidad de recuperar el patógeno, especialmente estafilococos. Revisar con residentes los registros de volumen inoculado y correlacionarlos con resultados de hemocultivos. Contrastar tiempos de positividad observados con los esperados para cada patógeno, reforzando la gestión racional de antibióticos empíricos.",
+  "infografia": "/img/infografias/2026-11-06-detection-of-common-neonatal-sepsis-pathogens-using-a-contemporary-pediatric-blo.png",
+  "disenoEstudio": "Estudio experimental in vitro con sangre de donantes inoculada con patógenos neonatales a concentraciones de ≤1 a 10-20 UFC/mL",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Mayor volumen de sangre en hemocultivo neonatal mejora recuperación de patógenos",
+  "etiquetas": [
+    "sepsis neonatal",
+    "hemocultivo",
+    "gestión diagnóstica antimicrobiana",
+    "volumen de muestra",
+    "estafilococos"
+  ],
+  "advertencia": "Estudio in vitro que no reproduce totalmente las condiciones clínicas de sepsis neonatal, como factores del huésped o presencia de antibióticos previos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-06-shotgun-metagenomic-characterization-of-human-adenovirus-f40-and-a-non-cpe-clost",
+  "estado": "publicado",
+  "pmid": "42983644",
+  "doi": "10.1186/s12879-026-14694-5",
+  "titulo": "Shotgun metagenomic characterization of human adenovirus F40 and a non-cpe Clostridium perfringens strain in pediatric prolonged diarrhea: a genome-resolved case study",
+  "tituloEs": "Metagenómica identifica codetección viral-bacteriana en diarrea prolongada pediátrica",
+  "revista": "BMC infectious diseases",
+  "autores": [
+    "El-Shahidy SM",
+    "Zakaria AM",
+    "Ibrahim MA",
+    "Diab AM"
+  ],
+  "fechaPublicacion": "2026 Nov 3",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Case Reports"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42983644/",
+  "resumenOriginal": "Background: Viral and bacterial pathogens may be concurrently detected in pediatric gastroenteritis, yet such findings are often missed by routine diagnostic methods. Shotgun metagenomic sequencing enables comprehensive detection and genomic characterization of microorganisms present in clinical specimens, including pathogens that may not be recovered by conventional testing.\n\nMethods: Shotgun metagenomic sequencing was performed on a single pediatric diarrheic stool sample, followed by quality filtering, de novo assembly, taxonomic classification, phylogenetic reconstruction, and integrated virulome-resistome profiling, including plasmid-associated resistance elements.\n\nResults: Routine diagnostics identified adenovirus as the sole pathogen. Metagenomic analysis confirmed human adenovirus F40 (HAdV-F40), showing close phylogenetic relatedness to globally distributed HAdV-F40 reference strains and a clear distinction from HAdV-F41. In addition, metagenomics uniquely detected a Clostridium perfringens strain (SAM_A8, ST-5) that was not recovered by culture. The strain lacked the classical enterotoxin gene (cpe) but harbored a conserved histotoxic virulence profile, including cpa, pfoA, colA, hyaluronidases, and sialidases. Plasmid-associated tetracycline resistance genes (tetA(P) and tetB(P)) were also identified.\n\nConclusion: This case study demonstrates the feasibility of shotgun metagenomic sequencing for comprehensive detection and genomic characterization of microorganisms present in pediatric diarrheal stool specimens, including organisms not identified by routine diagnostics. The findings are descriptive and highlight the value of metagenomics as a complementary diagnostic approach. However, no conclusions regarding pathogenic synergy, causality, or the clinical contribution of the co-detected organisms can be drawn from this single case.",
+  "mesh": [
+    "Humans",
+    "Diarrhea",
+    "Clostridium perfringens",
+    "Adenoviruses, Human",
+    "Feces",
+    "Metagenomics",
+    "Phylogeny",
+    "Shotgun Sequencing",
+    "Clostridium Infections",
+    "Child, Preschool",
+    "Female",
+    "Gastroenteritis"
+  ],
+  "palabrasClave": [
+    "Clostridium perfringens",
+    "Adenovirus F40 (HAdV-F40)",
+    "Antimicrobial resistance",
+    "Co-detection",
+    "Gastroenteritis",
+    "Metagenomics",
+    "Mucin degradation",
+    "Virulence genes"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-06",
+  "publicadoEl": "2026-11-06",
+  "tips": [
+    {
+      "titulo": "Considerar metagenómica en diarrea prolongada",
+      "texto": "Cuando el cuadro clínico no se explica completamente con los agentes detectados por métodos convencionales, la secuenciación metagenómica puede revelar coinfecciones bacterianas o virales adicionales."
+    },
+    {
+      "titulo": "Clostridium perfringens sin enterotoxina clásica",
+      "texto": "Existen cepas de C. perfringens que carecen del gen cpe pero portan factores de virulencia histotóxica (cpa, pfoA, colA). Su papel en gastroenteritis pediátrica aún requiere definición."
+    },
+    {
+      "titulo": "Resistencia plasmídica transmisible",
+      "texto": "La detección de genes de resistencia a tetraciclinas en plásmidos resalta el potencial de transferencia horizontal, aun en cepas no cultivables por métodos estándar."
+    },
+    {
+      "titulo": "Adenovirus F40 vs. F41",
+      "texto": "HAdV-F40 y HAdV-F41 son filogenéticamente distintos. La caracterización genómica precisa puede orientar vigilancia epidemiológica y estudios de brotes en gastroenteritis entérica."
+    },
+    {
+      "titulo": "Límite de la causalidad",
+      "texto": "La codetección molecular no implica causalidad ni sinergia patogénica. La interpretación clínica debe integrar contexto epidemiológico, gravedad y evolución del paciente."
+    }
+  ],
+  "sintesis": "La secuenciación metagenómica de materia fecal en un caso de gastroenteritis pediátrica prolongada identificó adenovirus F40 (confirmando el diagnóstico convencional) y detectó adicionalmente Clostridium perfringens no cultivable con perfil de virulencia histotóxica y resistencia a tetraciclinas asociada a plásmidos, no recuperado por métodos rutinarios.",
+  "aplicacionDocente": "En la ronda con residentes, use este caso para discutir cuándo ampliar el diagnóstico etiológico más allá de los métodos convencionales. Destaque que la metagenómica es descriptiva: detecta microorganismos, pero no establece causalidad. Enseñe a integrar hallazgos moleculares con la evolución clínica del paciente.",
+  "infografia": "/img/infografias/2026-11-06-shotgun-metagenomic-characterization-of-human-adenovirus-f40-and-a-non-cpe-clost.png",
+  "disenoEstudio": "Estudio de caso único con secuenciación metagenómica shotgun en materia fecal de paciente pediátrico con diarrea",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "La metagenómica revela patógenos no cultivables en diarrea pediátrica prolongada",
+  "etiquetas": [
+    "metagenómica",
+    "diarrea pediátrica",
+    "adenovirus f40",
+    "clostridium perfringens",
+    "resistencia antimicrobiana"
+  ],
+  "advertencia": "Estudio de caso único, descriptivo; no permite extraer conclusiones sobre causalidad, sinergia patogénica ni utilidad clínica de la metagenómica en la práctica rutinaria.",
+  "generadoPor": "claude-sonnet-4-5"
+}

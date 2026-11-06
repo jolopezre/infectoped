@@ -1,0 +1,81 @@
+{
+  "id": "2026-11-06-carbapenemase-producing-carbapenem-resistant-enterobacterales-among-children-in-",
+  "estado": "publicado",
+  "pmid": "42980645",
+  "doi": "10.1093/jpids/piag115",
+  "titulo": "Carbapenemase-Producing Carbapenem-Resistant Enterobacterales Among Children in the United States, 2019-2024",
+  "tituloEs": "Aumento de enterobacterias resistentes a carbapenémicos productoras de carbapenemasas en niños, EE. UU.",
+  "revista": "Journal of the Pediatric Infectious Diseases Society",
+  "autores": [
+    "Rankin DA",
+    "Stahl AL",
+    "Ali M",
+    "Prestel C",
+    "Khan MA",
+    "Kogut S",
+    "Nazarian E",
+    "Amin K",
+    "Lopez K",
+    "Ryan B",
+    "Hsiao L",
+    "Mitsunaga T"
+  ],
+  "fechaPublicacion": "2026 Nov 4",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42980645/",
+  "resumenOriginal": "Background: The current epidemiology of carbapenem-resistant Enterobacterales (CRE) among pediatric patients in the United States is poorly described. We assessed trends in pediatric CRE and carbapenemase-producing-CRE (CP-CRE) incidence in the U.S. and characterized recent pediatric CP-CRE cases.\n\nMethods: We analyzed CRE clinical isolates from patients <18 years submitted to CDC's Antimicrobial Resistance Laboratory Network from January 2019 through December 2024. Annual unadjusted incidence rates for CRE and CP-CRE were estimated overall and by age group for a national convenience sample and an open cohort of 29 states with required CRE isolate submission. Trends were assessed using Poisson regression. For pediatric patients with incident CP-CRE identified from January 2023 through March 2024, medical chart reviews were performed.\n\nResults: From 2019-2024, the estimated national pediatric CRE and CP-CRE incidence increased 51% (IRR:1.51; 95% CI:1.22, 1.88) and 92% (IRR:1.92; 95% CI:1.25, 2.99), respectively; increases were similar in the open cohort. Infants had the highest incidence rates. Overall, NDM-CRE incidence increased (IRR: 4.24; 95% CI: 2.07, 9.16), surpassing KPC-CRE as the most prominent carbapenemase. Chart reviews were completed for 109 of 129 pediatric patients with CP-CRE; 14% were in patients without healthcare risk factors. Among patients with healthcare risk factors, 75% had an underlying medical condition; the most common underlying condition among infants and toddlers was cardiovascular disease (64%) and among older children was neurocognitive conditions (49%) and malignancies (41%). Common exposures across all age groups included intensive care unit hospitalization (40%) and healthcare outside the United States (37%).\n\nConclusions: Pediatric CP-CRE incidence is increasing, driven by NDM-CRE for which there are few treatment options. Most cases occurred among children with serious underlying conditions receiving high-acuity care. Prevention opportunities may include admission screening for patients with prior healthcare exposure outside the United States and strengthening infection prevention practices.",
+  "mesh": [],
+  "palabrasClave": [
+    "Carbapenem-resistant Enterobacterales",
+    "carbapenemase antimicrobial resistance",
+    "pediatric infections",
+    "public health surveillance"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-06",
+  "publicadoEl": "2026-11-06",
+  "tips": [
+    {
+      "titulo": "Considerar tamizaje al ingreso",
+      "texto": "En pacientes con atención médica previa fuera de EE. UU. (37% de los casos) o con hospitalización en unidad de cuidados intensivos, considerar tamizaje de CRE al ingreso hospitalario."
+    },
+    {
+      "titulo": "Lactantes, grupo de mayor riesgo",
+      "texto": "Los lactantes presentan las tasas de incidencia más altas de CP-CRE. En este grupo etario, la cardiopatía subyacente fue la condición más frecuente (64%)."
+    },
+    {
+      "titulo": "NDM desplaza a KPC",
+      "texto": "La carbapenemasa NDM cuadruplicó su incidencia y es ahora la más frecuente, superando a KPC. NDM tiene menos opciones terapéuticas disponibles, lo que obliga a consulta temprana con infectología."
+    },
+    {
+      "titulo": "No todos tienen factores de riesgo",
+      "texto": "El 14% de los casos ocurrió en niños sin factores de riesgo sanitario conocidos, lo que exige mantener vigilancia clínica amplia ante infecciones resistentes."
+    },
+    {
+      "titulo": "Reforzar prevención en alta complejidad",
+      "texto": "El 75% de los casos tenía condiciones médicas subyacentes y el 40% estuvo en UCIP, ámbitos donde deben reforzarse las prácticas de prevención y control de infecciones."
+    }
+  ],
+  "sintesis": "Análisis de vigilancia nacional 2019-2024 mostró un incremento del 92% en la incidencia de enterobacterias resistentes a carbapenémicos productoras de carbapenemasas (CP-CRE) en menores de 18 años. El 75% de los casos ocurrió en pacientes con condiciones médicas complejas; NDM superó a KPC como carbapenemasa más frecuente.",
+  "aplicacionDocente": "Durante la ronda de UCIP, discutir con residentes qué pacientes ameritan tamizaje de CRE al ingreso: antecedente de atención médica internacional, múltiples hospitalizaciones o patología de base compleja. Revisar el patrón de resistencia local (KPC vs. NDM) para orientar la elección empírica cuando se sospeche infección por CRE.",
+  "infografia": "/img/infografias/2026-11-06-carbapenemase-producing-carbapenem-resistant-enterobacterales-among-children-in-.png",
+  "disenoEstudio": "Estudio de vigilancia prospectiva en red nacional, 2019-2024, población pediátrica con aislados clínicos de CRE",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "CP-CRE en niños aumentó 92% en 5 años; NDM es ahora la carbapenemasa dominante",
+  "etiquetas": [
+    "resistencia antimicrobiana",
+    "enterobacterias",
+    "carbapenémicos",
+    "carbapenemasas",
+    "pediatría"
+  ],
+  "advertencia": "Estudio de vigilancia con muestra de conveniencia nacional; las tasas de incidencia no están ajustadas por exposición hospitalaria ni por variaciones regionales en la práctica de tamizaje.",
+  "generadoPor": "claude-sonnet-4-5"
+}

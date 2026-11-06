@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-06-carbapenem-resistance-in-pediatric-acinetobacter-baumannii-urinary-tract-infecti",
+  "estado": "publicado",
+  "pmid": "42972474",
+  "doi": "10.1186/s13052-026-02349-9",
+  "titulo": "Carbapenem resistance in pediatric Acinetobacter baumannii urinary tract infections: molecular determinants",
+  "tituloEs": "Resistencia a carbapenémicos en infecciones urinarias por Acinetobacter baumannii en pediatría",
+  "revista": "Italian journal of pediatrics",
+  "autores": [
+    "Hassan RH",
+    "Zaki MES",
+    "Ismail MS",
+    "Noureldin MA",
+    "Youssef NAE"
+  ],
+  "fechaPublicacion": "2026 Nov 2",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42972474/",
+  "resumenOriginal": "Background: In the pediatric population, carbapenem-resistant Acinetobacter baumannii (CRAB) is a significant cause of hospital-acquired infections, particularly hospital-acquired urinary tract infections (HA-UTIs). There are a few studies on the molecular mechanisms of resistance to CRAB among children.\n\nObjective: To detect the prevalence of CRAB among children with HA-UTIs and to evaluate associated carbapenemase genes and clinical risk factors.\n\nMethods: This cross-sectional study included 100 children with HA-UTIs. Isolates were identified using standard microbiology techniques, and antimicrobial resistance (AMR) was detected according to the Clinical and Laboratory Standards Institute (CLSI) guidelines. Carbapenemase genes (blaOXA-23-like, blaOXA-24/40-like, blaOXA-58-like, and blaNDM) were detected by PCR. Data were statistically analyzed to assess the association between clinical factors and carbapenem resistance (CR).\n\nResults: CR was identified in 73% of isolates. High rates of AMR were observed for cephalosporins and fluoroquinolones. The most prevalent gene was the blaOXA-23-like gene (60%), followed by the blaOXA-58-like (34%), the blaOXA-24/40-like (30%), and the blaNDM (15%). A significant association was observed between resistance to carbapenems and the carbapenemase genes blaOXA-23-like and blaNDM (p&#x2009;<&#x2009;0.05). Clinical factors like ICU admission and catheterization did not show a significant association with resistance.\n\nConclusion: Carbapenem resistance among pediatric Acinetobacter baumannii UTIs is highly prevalent and primarily driven by molecular mechanisms, particularly OXA-23 and NDM carbapenemases. This underscores the significance of molecular diagnostics and infection control in pediatric healthcare settings.",
+  "mesh": [
+    "Humans",
+    "Acinetobacter baumannii",
+    "Urinary Tract Infections",
+    "Cross-Sectional Studies",
+    "Carbapenems",
+    "Female",
+    "Male",
+    "Acinetobacter Infections",
+    "Child, Preschool",
+    "beta-Lactamases",
+    "Child",
+    "Bacterial Proteins"
+  ],
+  "palabrasClave": [
+    "Acinetobacter baumannii",
+    "Antimicrobial resistance",
+    "Carbapenem resistance",
+    "NDM",
+    "OXA-23",
+    "Pediatric UTI"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Diagnóstico microbiológico",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 37,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-06",
+  "publicadoEl": "2026-11-06",
+  "tips": [
+    {
+      "titulo": "Anticipar resistencia elevada",
+      "texto": "En infecciones urinarias nosocomiales por Acinetobacter baumannii, esperar resistencia a carbapenémicos en más de 70% de los casos. Considerar terapia empírica con alternativas cuando la epidemiología local lo respalde."
+    },
+    {
+      "titulo": "Solicitar estudio molecular",
+      "texto": "La detección de genes de carbapenemasas (especialmente OXA-23 y NDM) puede guiar decisiones terapéuticas y medidas de control de infecciones en unidades pediátricas."
+    },
+    {
+      "titulo": "Vigilar coresistencia",
+      "texto": "Los aislamientos resistentes a carbapenémicos suelen presentar resistencia concomitante a cefalosporinas y fluoroquinolonas, limitando las opciones de tratamiento oral de seguimiento."
+    },
+    {
+      "titulo": "Reforzar control de infecciones",
+      "texto": "La alta prevalencia de mecanismos moleculares de resistencia en el ámbito hospitalario refuerza la necesidad de precauciones de contacto y estrategias de descontaminación ambiental."
+    },
+    {
+      "titulo": "Interpretar con cautela factores clínicos",
+      "texto": "En este estudio, ni la admisión a cuidados intensivos ni el cateterismo vesical se asociaron significativamente con resistencia, sugiriendo que los mecanismos moleculares prevalecen sobre factores de riesgo clásicos."
+    }
+  ],
+  "sintesis": "Estudio transversal en 100 niños hospitalizados con infección urinaria por Acinetobacter baumannii. Se identificó resistencia a carbapenémicos en 73% de los aislamientos, asociada principalmente a los genes blaOXA-23-like (60%) y blaNDM (15%). Los factores clínicos evaluados no mostraron asociación significativa con la resistencia.",
+  "aplicacionDocente": "Durante la ronda, discutir con residentes por qué un urocultivo positivo para Acinetobacter en un niño hospitalizado obliga a considerar resistencia a carbapenémicos desde el inicio. Revisar el mapa de resistencias local y cuándo solicitar PCR para carbapenemasas, integrando microbiología molecular a la toma de decisiones en infecciones nosocomiales.",
+  "infografia": "/img/infografias/2026-11-06-carbapenem-resistance-in-pediatric-acinetobacter-baumannii-urinary-tract-infecti.png",
+  "disenoEstudio": "Estudio transversal en 100 niños con infección urinaria asociada a cuidados de la salud",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "73% de resistencia a carbapenémicos en infecciones urinarias por Acinetobacter en niños",
+  "etiquetas": [
+    "acinetobacter baumannii",
+    "resistencia antimicrobiana",
+    "carbapenemasas",
+    "infección urinaria nosocomial",
+    "pediatría"
+  ],
+  "advertencia": "Diseño transversal sin seguimiento clínico; no evalúa desenlaces terapéuticos ni compara estrategias de tratamiento",
+  "generadoPor": "claude-sonnet-4-5"
+}
