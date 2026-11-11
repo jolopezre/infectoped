@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-11-the-serum-proteomic-signatures-associated-with-organ-dysfunction-based-on-phoeni",
+  "estado": "publicado",
+  "pmid": "43012616",
+  "doi": "10.1097/PCC.0000000000004104",
+  "titulo": "The Serum Proteomic Signatures Associated With Organ Dysfunction Based on Phoenix Criteria in Pediatric Sepsis: A Pilot Study",
+  "tituloEs": "Siete proteínas séricas predicen disfunción orgánica en sepsis pediátrica según criterios Phoenix",
+  "revista": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+  "autores": [
+    "Miao H",
+    "Wu D",
+    "Cui Y",
+    "Sun H",
+    "Xiong X",
+    "Ren Y",
+    "Lv Z",
+    "Liang Q",
+    "Wang C",
+    "Zhang Y"
+  ],
+  "fechaPublicacion": "2026 Nov 11",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43012616/",
+  "resumenOriginal": "Objectives: To investigate the serum proteomic characteristics linked to sepsis-induced organ dysfunction, as defined by the Phoenix Pediatric Sepsis (PPS) criteria.\n\nDesign and setting: We conducted a serum proteomic study using data-independent acquisition mass spectrometry in pediatric patients with sepsis, admitted to the PICU at a tertiary, university-affiliated children's hospital in China.\n\nPatients: Thirty-eight patients with sepsis and 19 healthy controls were included from November 2020 to June 2022.\n\nInterventions: None.\n\nMeasurements and main results: A total of 403 differentially expressed proteins (DEPs) were identified in the serum of pediatric sepsis patients compared with healthy controls. Gene Set Enrichment Analysis revealed that DEPs across the four PPS-defined organ dysfunction were enriched in the antimicrobial humoral response, negative regulation of inflammation, plasminogen activation, and cytokine-mediated signaling pathways. Weighted Gene Co-Expression Network Analysis (WGCNA) showed that the MEgreen module was highly associated with the PPS score and was enriched in neutrophils. Further analysis identified seven hub proteins (tissue inhibitor of metalloproteinase-1 [TIMP1], cathepsin L peptidase 1, &#x3b2;-1,4-galactosyltransferase 1, carbonic anhydrase 3, interleukin 1 receptor like 1, olfactomedin 4, and cathepsin G [CATG]) as candidate serum proteomic markers of organ dysfunction risk. We used the expression of these seven hub proteins in a least absolute shrinkage and selection operator regression model to predict organ system dysfunction. It achieved an area under the curve of 0.857 for the coagulation system and 0.769 for the cardiovascular system. All seven hub proteins were significantly correlated with lactic acid and the international normalized ratio (all p < 0.05); CATG was positively correlated with mean arterial pressure (p = 0.005), TIMP1 displayed a positive correlation with d-dimer (p = 0.021) and a negative correlation with platelet (p = 0.005).\n\nConclusions: We identified seven hub proteins that constitute a novel proteomic signature for predicting sepsis-associated organ dysfunction based on the Phoenix criteria. It is particularly relevant to the coagulation and cardiovascular systems.",
+  "mesh": [],
+  "palabrasClave": [
+    "least absolute shrinkage and selection operator",
+    "pediatric sepsis",
+    "phoenix criteria",
+    "proteomics",
+    "weighted gene co-expression network analysis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-11",
+  "publicadoEl": "2026-11-11",
+  "tips": [
+    {
+      "titulo": "Biomarcadores emergentes de disfunción orgánica",
+      "texto": "Las proteínas TIMP1 y catepsina G correlacionan con parámetros de coagulación (dímero D, plaquetas) y hemodinámicos (presión arterial media), sugiriendo vías fisiopatológicas específicas en sepsis pediátrica."
+    },
+    {
+      "titulo": "Interpretación de criterios Phoenix",
+      "texto": "Los criterios Phoenix Pediatric Sepsis definen disfunción orgánica con mayor precisión que definiciones previas. Conocer las vías moleculares subyacentes puede mejorar la comprensión pronóstica."
+    },
+    {
+      "titulo": "Correlación con lactato y coagulación",
+      "texto": "Las siete proteínas identificadas se asociaron con ácido láctico y razón internacional normalizada, reforzando su relevancia como marcadores de severidad sistémica en sepsis."
+    },
+    {
+      "titulo": "Vigilancia de coagulopatía temprana",
+      "texto": "La firma proteómica muestra mejor rendimiento para disfunción del sistema de coagulación. Considerar monitoreo estrecho de plaquetas y dímero D en pacientes con sepsis grave."
+    },
+    {
+      "titulo": "Herramienta predictiva en desarrollo",
+      "texto": "Aunque estos marcadores no están disponibles en la práctica habitual, representan un paso hacia estratificación molecular del riesgo de disfunción multiorgánica en sepsis pediátrica."
+    }
+  ],
+  "sintesis": "Estudio proteómico identifica siete proteínas séricas (TIMP1, catepsina G, entre otras) asociadas con disfunción de sistemas de coagulación y cardiovascular en niños con sepsis. El panel proteómico mostró capacidad predictiva moderada-alta para estas disfunciones según los criterios Phoenix pediátricos.",
+  "aplicacionDocente": "Este estudio permite discutir con residentes la fisiopatología molecular de la sepsis más allá de los parámetros clínicos habituales. Sirve para enfatizar la importancia del monitoreo temprano de coagulopatía y disfunción cardiovascular, y para introducir los criterios Phoenix como estándar emergente en la definición de disfunción orgánica pediátrica.",
+  "infografia": "/img/infografias/2026-11-11-the-serum-proteomic-signatures-associated-with-organ-dysfunction-based-on-phoeni.png",
+  "disenoEstudio": "Estudio proteómico prospectivo en 38 pacientes pediátricos con sepsis ingresados en UCIP y 19 controles sanos, China",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Siete proteínas predicen falla de coagulación y cardiovascular en sepsis pediátrica",
+  "etiquetas": [
+    "sepsis pediátrica",
+    "proteómica",
+    "criterios phoenix",
+    "disfunción orgánica",
+    "biomarcadores"
+  ],
+  "advertencia": "Muestra pequeña (38 pacientes) de un solo centro en China; los marcadores identificados no están validados externamente ni disponibles para uso clínico rutinario.",
+  "generadoPor": "claude-sonnet-4-5"
+}

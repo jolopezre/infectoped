@@ -1,0 +1,78 @@
+{
+  "id": "2026-11-11-antimicrobial-resistant-urinary-tract-infections-in-febrile-infants-prevalence-a",
+  "estado": "publicado",
+  "pmid": "43001645",
+  "doi": "10.1097/INF.0000000000005463",
+  "titulo": "Antimicrobial-resistant Urinary Tract Infections in Febrile Infants: Prevalence, Associated Factors and Clinical Outcomes",
+  "tituloEs": "Infecciones urinarias resistentes en lactantes febriles: prevalencia y desenlaces clínicos",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Sánchez-Arranz E",
+    "Arellano Subías M",
+    "García-Ascaso MT",
+    "Bassy Navarro S",
+    "Rodríguez Díaz P",
+    "Rodríguez Calvo A",
+    "Sánchez García A",
+    "Hernández Milán B",
+    "Soler-Simón JA",
+    "Alonso-Cadenas JA"
+  ],
+  "fechaPublicacion": "2026 Nov 5",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43001645/",
+  "resumenOriginal": "Background: Antimicrobial resistance among pediatric urinary tract infections (UTIs) has become an increasing concern. However, data regarding resistant infections in febrile infants remain limited.\n\nMethods: We performed a retrospective single-center study including febrile infants younger than 24 months diagnosed with UTI in a pediatric emergency department in Spain between March 2022 and August 2025. Clinical, microbiologic and outcome-related variables were compared according to antimicrobial susceptibility. Bivariate and multivariate logistic regression analyses were performed to identify predictors of resistant infection.\n\nResults: Among 336 UTI episodes, resistant microorganisms were identified in 36 (10.7%). Escherichia coli was the predominant pathogen (303/336, 90.2%), accounting for 270/300 susceptible infections and 33/36 resistant infections. Multidrug-resistant and extended-spectrum &#x3b2;-lactamase-producing organisms accounted for most resistant isolates (28/36, 77.8%; and 14/36, 38.9%, respectively), and 8/36 (22.2%) fulfilled criteria for both phenotypes. No carbapenem-resistant organisms were identified. Baseline characteristics did not differ significantly between groups. No independent predictors of resistant infection were identified in the multivariate analysis. Resistant infections were associated with a higher proportion of adverse outcomes (33.3% vs. 15.3%; P = 0.01), mainly recurrences, although this finding was attenuated in the sensitivity analysis restricted to first episodes (27.3% vs. 14.9%; P = 0.08).\n\nConclusions: Approximately 1 in 10 UTIs in febrile infants were caused by resistant microorganisms. No independent predictors were identified. Resistant infections were associated with a higher proportion of adverse outcomes, mainly recurrences, although this finding should be interpreted cautiously. Further prospective studies incorporating molecular typing techniques are needed to better characterize antimicrobial resistance dynamics in recurrent pediatric UTIs.",
+  "mesh": [],
+  "palabrasClave": [
+    "antimicrobial resistance",
+    "febrile infants",
+    "urinary tract infection"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-11",
+  "publicadoEl": "2026-11-11",
+  "tips": [
+    {
+      "titulo": "Prevalencia de resistencia notable",
+      "texto": "Aproximadamente el 10,7% de las infecciones urinarias en lactantes febriles fueron causadas por microorganismos resistentes, predominantemente multirresistentes y productores de betalactamasas de espectro extendido."
+    },
+    {
+      "titulo": "Escherichia coli sigue predominando",
+      "texto": "E. coli representó el 90% de los casos, presente tanto en infecciones susceptibles como resistentes. No se identificaron aislamientos resistentes a carbapenémicos."
+    },
+    {
+      "titulo": "Predictores clínicos no identificados",
+      "texto": "Las características clínicas basales no permitieron predecir de manera independiente qué lactantes tendrían infecciones resistentes, lo que limita la posibilidad de ajustar el tratamiento empírico inicial."
+    },
+    {
+      "titulo": "Mayor riesgo de recurrencias",
+      "texto": "Las infecciones resistentes se asociaron con mayor proporción de desenlaces adversos, principalmente recurrencias, aunque esta asociación debe interpretarse con cautela por el diseño retrospectivo."
+    },
+    {
+      "titulo": "Urocultivo pronto es fundamental",
+      "texto": "Ante la ausencia de predictores clínicos confiables, conviene obtener urocultivo antes de la primera dosis de antibiótico para ajustar el tratamiento según el antibiograma en todos los lactantes febriles con sospecha de infección urinaria."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 336 episodios de infección urinaria en lactantes febriles menores de 24 meses. Una de cada diez infecciones fue causada por microorganismos resistentes. Las infecciones resistentes se asociaron con mayor proporción de desenlaces adversos, principalmente recurrencias.",
+  "aplicacionDocente": "Este estudio permite discutir con los residentes la importancia del urocultivo previo al inicio del tratamiento empírico en lactantes febriles, dado que uno de cada diez tendrá un patógeno resistente sin factores clínicos que lo predigan. Útil para revisar la cobertura empírica local y enfatizar el seguimiento estrecho en casos que no responden al esquema inicial.",
+  "infografia": "/img/infografias/2026-11-11-antimicrobial-resistant-urinary-tract-infections-in-febrile-infants-prevalence-a.png",
+  "disenoEstudio": "Estudio retrospectivo de un solo centro en 336 episodios de infección urinaria en lactantes febriles menores de 24 meses",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "1 de cada 10 infecciones urinarias en lactantes febriles es resistente a antibióticos",
+  "etiquetas": [
+    "infección urinaria",
+    "resistencia antimicrobiana",
+    "lactante febril",
+    "betalactamasas de espectro extendido",
+    "escherichia coli"
+  ],
+  "advertencia": "Estudio retrospectivo de un solo centro sin análisis molecular, lo que limita la generalización y no permite distinguir entre recaídas y reinfecciones.",
+  "generadoPor": "claude-sonnet-4-5"
+}

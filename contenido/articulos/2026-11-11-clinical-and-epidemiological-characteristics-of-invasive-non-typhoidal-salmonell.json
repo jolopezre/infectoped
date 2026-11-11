@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-11-clinical-and-epidemiological-characteristics-of-invasive-non-typhoidal-salmonell",
+  "estado": "publicado",
+  "pmid": "42993796",
+  "doi": "10.1371/journal.pone.0362186",
+  "titulo": "Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana",
+  "tituloEs": "Salmonella no tifoidea invasiva en Ghana: carga pediátrica, anemia y resistencia antimicrobiana",
+  "revista": "PloS one",
+  "autores": [
+    "Agyapong FO",
+    "Owusu M",
+    "Owusu-Ansah M",
+    "Twumasi-Ankrah S",
+    "Boahen KG",
+    "Nkrumah G",
+    "Ackah EB",
+    "Sulla RL",
+    "Boafo AS",
+    "Nsiah-Poku N",
+    "Boakye PO",
+    "Enimil A"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42993796/",
+  "resumenOriginal": "Background: Invasive non-typhoidal Salmonella (iNTS) disease remains a significant public health threat in sub-Saharan Africa (SSA). Although the disease is important, its clinical characteristics are not well described in literature. This study describes the clinico-epidemiological profile of iNTS disease in Ghana aiming to bridge important knowledge gaps and inform more effective management strategies.\n\nMethods: The study spanned 8 years and utilized selected fever surveillance sites in Ghana. Patients with fever and/or history of fever for &#x2265; 3 consecutive days within the week prior to visit were approached and blood sample taken after consenting for investigations including blood culture. iNTS isolates were recovered using BACTEC blood culture, identified by Analytical Profile Index (API), sero-grouped using the Kauffmann-White scheme and confirmed by Illumina whole genome sequencing. Conditional logistic regression was used to assess associations between clinical and laboratory features and iNTS blood culture positivity in a 1:3 age-, sex-, and residence-matched case-control analysis.\n\nResults: Of 271 blood-culture-derived bacterial pathogens, 15.5% (42/271) were identified as iNTS making it the second most common cause of bacteremia. iNTS disease exhibited seasonality with peak detections coinciding with the rainy seasons in Ghana. 23.7% (9/38) of iNTS isolates were multidrug-resistant (MDR), of which 5.3% (2/38) were extensively drug-resistant including resistance to ceftriaxone and ciprofloxacin. Several factors showed crude associations with iNTS disease; however, only anaemia retained its association after adjustment of other factors (aOR=2.41 p&#x2009;=&#x2009;0.030).\n\nConclusion: iNTS is a major cause of bloodstream infections with the highest burden in children under 5 years of age with susceptibility to the infection amplified by anaemia. The Salmonella serovars involved are increasingly becoming multidrug-resistant, including resistance to critical antibiotics.",
+  "mesh": [
+    "Humans",
+    "Ghana",
+    "Salmonella Infections",
+    "Female",
+    "Male",
+    "Child, Preschool",
+    "Child",
+    "Salmonella",
+    "Infant",
+    "Adolescent",
+    "Adult",
+    "Anti-Bacterial Agents"
+  ],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-11",
+  "publicadoEl": "2026-11-11",
+  "tips": [
+    {
+      "titulo": "Sospechar en lactantes febriles anémicos",
+      "texto": "La anemia duplicó el riesgo de SNTi. Considerar hemocultivo en menores de 5 años con fiebre prolongada y anemia documentada, especialmente en época de lluvias."
+    },
+    {
+      "titulo": "SNTi: segunda causa de bacteriemia",
+      "texto": "Representó 15,5% de las bacteriemias identificadas. Incluir cobertura empírica contra Salmonella en lactantes con sospecha de infección invasiva en zonas endémicas."
+    },
+    {
+      "titulo": "Patrón estacional de transmisión",
+      "texto": "Los picos de detección coincidieron con la temporada de lluvias. Este patrón puede orientar la intensificación de medidas de vigilancia y educación durante esos meses."
+    },
+    {
+      "titulo": "Resistencia a cefalosporinas y quinolonas",
+      "texto": "Dos aislamientos mostraron resistencia extendida, incluidos ceftriaxona y ciprofloxacina. Solicitar antibiograma en casos graves y ajustar tratamiento según resultado local."
+    },
+    {
+      "titulo": "Multirresistencia en uno de cada cuatro",
+      "texto": "El 23,7% de los aislamientos fue multirresistente. Reforzar la antibioticoterapia dirigida tras identificación microbiológica y promover uso racional de antimicrobianos."
+    }
+  ],
+  "sintesis": "Estudio de vigilancia de 8 años en Ghana identificó a Salmonella no tifoidea invasiva (SNTi) como segunda causa de bacteriemia, con mayor carga en menores de 5 años. La anemia duplicó el riesgo de infección. Cerca de un cuarto de los aislamientos mostró multirresistencia, incluidos casos con resistencia a ceftriaxona y ciprofloxacina.",
+  "aplicacionDocente": "Durante la ronda en UCIP, ante un lactante febril con anemia, plantear SNTi en el diagnóstico diferencial de bacteriemia. Discutir la elección del esquema empírico considerando el patrón local de resistencia y la importancia del hemocultivo previo al inicio del antibiótico para orientar el tratamiento definitivo.",
+  "infografia": "/img/infografias/2026-11-11-clinical-and-epidemiological-characteristics-of-invasive-non-typhoidal-salmonell.png",
+  "disenoEstudio": "Estudio de vigilancia prospectiva de 8 años con análisis de casos y controles pareados en sitios centinela de Ghana",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Anemia duplica el riesgo de Salmonella invasiva en menores de 5 años en Ghana",
+  "etiquetas": [
+    "salmonella no tifoidea",
+    "bacteriemia pediátrica",
+    "resistencia antimicrobiana",
+    "anemia",
+    "ghana"
+  ],
+  "advertencia": "Estudio realizado en Ghana; la epidemiología y los patrones de resistencia pueden diferir en otros países de Latinoamérica.",
+  "generadoPor": "claude-sonnet-4-5"
+}

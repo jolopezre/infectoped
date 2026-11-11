@@ -1,0 +1,93 @@
+{
+  "id": "2026-11-11-clinical-recommendations-for-the-inpatient-management-of-lower-respiratory-tract",
+  "estado": "publicado",
+  "pmid": "43003928",
+  "doi": "10.1007/s00431-026-07482-5",
+  "titulo": "Clinical recommendations for the inpatient management of lower respiratory tract infections in children and adolescents with severe neurological impairment in Germany-2026 Update",
+  "tituloEs": "Actualización alemana de recomendaciones para IRAB en niños con discapacidad neurológica grave",
+  "revista": "European journal of pediatrics",
+  "autores": [
+    "Mauritz MD",
+    "von Both U",
+    "Dohna-Schwake C",
+    "Gille C",
+    "Huebner J",
+    "Hufnagel M",
+    "Liese JG",
+    "Renk H",
+    "Rudolph H",
+    "Schulze-Sturm U",
+    "Stehling F",
+    "Tenenbaum T"
+  ],
+  "fechaPublicacion": "2026 Nov 9",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Practice Guideline",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43003928/",
+  "resumenOriginal": "Children and adolescents with severe neurological impairment (SNI) require specialized care due to their complex medical needs. These patients often experience severe, recurrent lower respiratory tract infections (LRTIs). These infections, of both viral and bacterial etiology, pose a significant risk to these patients, often resulting in respiratory insufficiency and long-term impairments. Based on expert consensus and newly available data, we have updated the previous 2024 clinical recommendations on the management of LRTIs in children and adolescents with SNI in Germany. This update now also addresses multidrug-resistant organism colonization, respiratory support, discharge planning, and prophylactic strategies. The recommendations emphasize comprehensive multidisciplinary care, antimicrobial stewardship, and a stepwise, risk-stratified approach to antibiotic therapy. Initial treatment should involve symptomatic care, including hydration, antipyretics, oxygen therapy, secretion management, and respiratory as well as cough support. In suspected bacterial LRTIs, antibiotic treatment (ABT) should be guided by clinical severity, previous microbiological findings, and treatment response, with an aminopenicillin plus a beta-lactamase inhibitor recommended for community-acquired LRTIs and piperacillin-tazobactam reserved for selected high-risk patients. Ongoing management includes regular reassessment, adjustment of ABT based on pathogen identification, and optimization of supportive care.Conclusion: The updated recommendations provide a practical, multidisciplinary framework for the inpatient management of LRTIs in children and adolescents with SNI, combining optimized supportive care with antimicrobial stewardship and a stepwise, risk-stratified approach to antibiotic treatment. What is Known: &#x2022; Children and adolescents with severe neurological impairment are particularly affected by severe and recurrent lower respiratory tract infections (LRTI) &#x2022; The indication and choice of antibiotic therapy for bacterial LRTI is often difficult because there are no evidence-based treatment recommendations for this heterogeneous but vulnerable patient population &#x2022; The frequent overuse of broad-spectrum or reserve antibiotics in this patient population increases selection pressure for multidrug-resistant pathogens What is New: &#x2022; Compared with the 2024 recommendations, this update provides more detailed guidance on secretion management and respiratory and cough support, introduces explicit discharge criteria, and expands decision-making for patients colonized with multidrug-resistant organisms. The antibiotic strategy has been further specified regarding broad-spectrum antibiotic therapy, while preventive recommendations have been expanded and updated.",
+  "mesh": [
+    "Humans",
+    "Adolescent",
+    "Child",
+    "Germany",
+    "Respiratory Tract Infections",
+    "Anti-Bacterial Agents",
+    "Nervous System Diseases",
+    "Antimicrobial Stewardship",
+    "Practice Guidelines as Topic"
+  ],
+  "palabrasClave": [
+    "Antibiotic treatment",
+    "Antimicrobial stewardship",
+    "Lower respiratory tract infections",
+    "Severe neurological impairment"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-11",
+  "publicadoEl": "2026-11-11",
+  "tips": [
+    {
+      "titulo": "Priorizar el cuidado de soporte",
+      "texto": "Iniciar con hidratación, antipiréticos, oxigenoterapia, manejo de secreciones y soporte respiratorio antes de decidir antibioticoterapia. El tratamiento sintomático optimizado reduce complicaciones."
+    },
+    {
+      "titulo": "Estratificar el riesgo antibiótico",
+      "texto": "En sospecha de IRAB bacteriana, considerar gravedad clínica, microbiología previa y respuesta inicial. Reservar piperacilina-tazobactam para pacientes de alto riesgo seleccionados."
+    },
+    {
+      "titulo": "Aminopenicilina + inhibidor como primera línea",
+      "texto": "Para IRAB comunitarias, la combinación de aminopenicilina con inhibidor de betalactamasas es la opción recomendada si se requiere antibioticoterapia empírica."
+    },
+    {
+      "titulo": "Reevaluar y ajustar según aislamiento",
+      "texto": "Revisar la antibioticoterapia de forma regular según identificación de patógenos y evolución clínica. Desescalar cuando sea posible para reducir presión de selección."
+    },
+    {
+      "titulo": "Planificar alta y prevención",
+      "texto": "Incluir criterios explícitos de alta y estrategias profilácticas en la planificación. La actualización incorpora orientación específica para pacientes colonizados por microorganismos multirresistentes."
+    }
+  ],
+  "sintesis": "Se actualizaron las recomendaciones de 2024 para el manejo hospitalario de infecciones respiratorias bajas (IRAB) en niños con discapacidad neurológica grave. Se reforzó el enfoque multidisciplinario, el uso prudente de antimicrobianos y la estratificación del riesgo. Se amplió la orientación sobre manejo de secreciones, soporte respiratorio, criterios de alta y pacientes colonizados por microorganismos multirresistentes.",
+  "aplicacionDocente": "Al discutir casos de niños con discapacidad neurológica grave hospitalizados por IRAB, resaltar que el abordaje inicial es de soporte y que el antibiótico empírico debe estratificarse por riesgo, reservando espectros amplios para situaciones específicas. Revisar en ronda la microbiología previa y la historia de colonizaciones multirresistentes para individualizar el plan.",
+  "infografia": "/img/infografias/2026-11-11-clinical-recommendations-for-the-inpatient-management-of-lower-respiratory-tract.png",
+  "disenoEstudio": "Actualización de guía clínica alemana basada en consenso de expertos y evidencia reciente",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "En IRAB y discapacidad neurológica: primero soporte, luego antibiótico estratificado",
+  "etiquetas": [
+    "infección respiratoria baja",
+    "discapacidad neurológica",
+    "uso prudente de antibióticos",
+    "piperacilina-tazobactam",
+    "pediatría hospitalaria"
+  ],
+  "advertencia": "Recomendaciones basadas en consenso de expertos de un solo país; la evidencia directa en esta población vulnerable es limitada.",
+  "generadoPor": "claude-sonnet-4-5"
+}
