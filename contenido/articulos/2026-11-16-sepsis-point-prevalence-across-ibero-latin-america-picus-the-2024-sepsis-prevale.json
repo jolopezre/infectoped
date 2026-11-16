@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-16-sepsis-point-prevalence-across-ibero-latin-america-picus-the-2024-sepsis-prevale",
+  "estado": "publicado",
+  "pmid": "43023812",
+  "doi": "10.1097/PCC.0000000000004077",
+  "titulo": "Sepsis Point Prevalence Across Ibero-Latin America PICUs: The 2024 Sepsis Prevalence Assessment Database in Pediatrics (SPREAD PED IBERO-LATAM)",
+  "tituloEs": "Sepsis en UCIP de Iberoamérica: prevalencia del 26 % y mortalidad asociada a recursos institucionales",
+  "revista": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+  "autores": [
+    "de Souza DC",
+    "Fernández-Sarmiento J",
+    "Sanchez-Pinto LN",
+    "de Oliveira CF",
+    "Jaramillo-Bustamante JC",
+    "Soares Lanziotti V",
+    "Almonte E",
+    "Fuenmayor Arocha A",
+    "Bandeira-Paiva P",
+    "Barberena J",
+    "Bustos JD",
+    "Bustos B R"
+  ],
+  "fechaPublicacion": "2026 Nov 13",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43023812/",
+  "resumenOriginal": "Objectives: To determine the prevalence and outcome of sepsis in PICUs across Ibero-Latin America; to identify patient- and institution-level factors associated with mortality; and to explore the prognostic performance of pediatric sepsis definitions.\n\nDesign: Multinational, multicenter, prospective point prevalence study with follow-up to hospital discharge.\n\nSetting: One hundred sixty-eight PICUs in 21 countries across Latin America, Spain, and Portugal.\n\nPatients: Children of 28 days to 18 years with a clinical diagnosis of sepsis or septic shock admitted to participating PICUs between September 9 and September 13, 2024.\n\nInterventions: None.\n\nMeasurements and main results: Among 1318 screened PICU patients, 340 met criteria for clinical sepsis, yielding a point prevalence of 25.8% (95% CI, 23.5-28.2%). Complete outcome data were available for 324 patients. PICU mortality was 42 of 324 (13.0% [95% CI, 9.5-17.1%), and total in-hospital mortality was 49 of 324 (15.1% [95% CI, 11.4-19.4%]). Cardiovascular and respiratory dysfunction were most frequent, whereas multivariable logistic regression identified greater odds of PICU mortality associated with renal dysfunction (adjusted odds ratio [aOR], 3.2 [95% CI, 1.5-7.5]) and immunologic dysfunction (aOR, 12.7 [95% CI, 4.6-37.5]).In multivariable analysis, abnormal nutritional status, lack of vaccination, renal dysfunction, and admission to PICUs with intermediate or low resource availability were associated with greater odds of PICU mortality. In exploratory analyses, the Phoenix sepsis criteria identified 95.2% of PICU deaths, but the positive predictive value of the score for mortality was no different from the 2005 International Pediatric Sepsis Consensus Conference criteria.\n\nConclusions: In 2024, in Ibero-Latin American PICUs, sepsis affected approximately one in four admissions, and the diagnosis was associated with mortality. Both patient vulnerability and institutional resource availability were associated with greater odds of mortality, underscoring the potential influence of health system capacity on pediatric sepsis outcomes in the region.",
+  "mesh": [],
+  "palabrasClave": [
+    "Ibero-Latin America",
+    "critical care resources",
+    "health inequities",
+    "pediatric sepsis",
+    "prevalence study"
+  ],
+  "temas": [
+    "Sepsis y cuidado crítico",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Alta carga de sepsis regional",
+      "texto": "Aproximadamente uno de cada cuatro ingresos en UCIP correspondió a sepsis clínica. Este hallazgo subraya la necesidad de protocolos institucionales de detección precoz y manejo estandarizado en la región."
+    },
+    {
+      "titulo": "Disfunción renal e inmunológica como marcadores pronósticos",
+      "texto": "La presencia de disfunción renal o inmunológica se asoció con mayor mortalidad en UCIP. Conviene priorizar la monitorización de función renal y el soporte temprano en pacientes con alteración inmune."
+    },
+    {
+      "titulo": "Influencia del estado nutricional y vacunación",
+      "texto": "El estado nutricional anormal y la falta de vacunación aumentaron el riesgo de mortalidad. La evaluación nutricional y el esquema de inmunizaciones deben formar parte de la evaluación inicial."
+    },
+    {
+      "titulo": "Recursos institucionales y desenlace",
+      "texto": "La disponibilidad intermedia o baja de recursos en la UCIP se asoció con mayor mortalidad. Este dato respalda la importancia de fortalecer la capacidad hospitalaria para mejorar el pronóstico en sepsis pediátrica."
+    },
+    {
+      "titulo": "Criterios Phoenix versus definiciones previas",
+      "texto": "Los criterios Phoenix identificaron el 95 % de las muertes en UCIP, pero no superaron en valor predictivo positivo a los criterios de consenso de 2005. Se requieren estudios adicionales antes de modificar la práctica local."
+    }
+  ],
+  "sintesis": "Estudio multinacional en 168 UCIP de 21 países iberoamericanos halló que uno de cada cuatro niños ingresados cumplía criterios de sepsis clínica. La mortalidad hospitalaria alcanzó el 15 %, asociándose a disfunción renal e inmunológica, desnutrición, falta de vacunación y disponibilidad limitada de recursos institucionales.",
+  "aplicacionDocente": "Durante las rondas con residentes, enfatizar la evaluación simultánea de vulnerabilidad del paciente (estado nutricional, vacunación, inmunocompetencia) y del contexto institucional. Discutir cómo la disponibilidad de recursos impacta el pronóstico, fomentando el uso racional de apoyos y la derivación oportuna cuando sea necesario.",
+  "infografia": "/img/infografias/2026-11-16-sepsis-point-prevalence-across-ibero-latin-america-picus-the-2024-sepsis-prevale.png",
+  "disenoEstudio": "Estudio de prevalencia puntual prospectivo en 1318 pacientes de 168 UCIP en Iberoamérica",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "1 de cada 4 ingresos en UCIP iberoamericanas: sepsis con mortalidad del 15 %",
+  "etiquetas": [
+    "sepsis pediátrica",
+    "unidad de cuidados intensivos pediátricos",
+    "mortalidad",
+    "recursos en salud",
+    "América Latina"
+  ],
+  "advertencia": "Estudio de prevalencia puntual en cinco días; la variabilidad estacional y los sesgos de selección institucional limitan la generalización de las cifras.",
+  "generadoPor": "claude-sonnet-4-5"
+}

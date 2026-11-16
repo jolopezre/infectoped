@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-16-beyond-croup-a-phenotype-based-perspective-on-parainfluenza-virus-types-in-child",
+  "estado": "publicado",
+  "pmid": "43020122",
+  "doi": "10.1542/peds.2026-078012",
+  "titulo": "Beyond Croup: A Phenotype-Based Perspective on Parainfluenza Virus Types in Children",
+  "tituloEs": "Virus parainfluenza en niños: más allá del crup, cuatro tipos con patrones clínicos distintos",
+  "revista": "Pediatrics",
+  "autores": [
+    "Jaramillo-Cerezo A",
+    "Parra-Buitrago A",
+    "Ulloa-Gutierrez R",
+    "Gutiérrez-Tobar IF"
+  ],
+  "fechaPublicacion": "2026 Nov 13",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43020122/",
+  "resumenOriginal": "Human parainfluenza viruses (PIVs) caused an estimated 18.8 million acute lower respiratory infection episodes, 725&#x2009;000 hospitalizations, and 34&#x2009;400 deaths among children under 5 in 2018, ranking second only to respiratory syncytial virus (RSV). Despite this burden, clinical attention has historically focused on croup, leading to the common perception that parainfluenza is a single disease entity. However, the 4 types differ substantially in taxonomy, tropism, clinical syndrome, and severity. PIV-1, the most common cause of croup, drives biennial epidemics in toddlers, whereas PIV-2 is less frequent but can cause severe disease, particularly in children with underlying conditions. PIV-3 predominates in young infants, causing bronchiolitis and pneumonia clinically like RSV infection, reflecting its early postnatal susceptibility, which may relate to earlier and more frequent viral exposure. PIV-4, historically underrecognized due to culture limitations, usually does not cause croup but is linked to lower respiratory tract disease, hypoxemia, and occasional neurologic complications. PIV infections are most severe in infants, immunocompromised children, and those in low-resource settings. Seasonal patterns vary by type and geography. Advances in multiplex molecular diagnostics now allow rapid type-specific detection, improving clinical interpretation and management. No vaccine or antiviral is licensed. Emerging therapeutics include sialidase-based antivirals with Food and Drug Administration Breakthrough designation; monoclonal antibodies capable of cross-neutralizing PIV-1, PIV-3, RSV, and human metapneumovirus; and messenger RNA vaccines showing early immunogenicity in children. Recognizing the distinct epidemiology, clinical features, and immune responses of each type is critical for informed pediatric care and the development of targeted preventive and therapeutic strategies.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Infecciones respiratorias",
+    "Vacunas e inmunización",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30.5,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "VPI‑1 y crup en preescolares",
+      "texto": "El VPI‑1 es el principal causante de crup en niños de 1 a 3 años, con epidemias bienales. Ante un cuadro típico de estridor y tos perruna, considerar este agente en el diagnóstico diferencial y valorar corticoide sistémico."
+    },
+    {
+      "titulo": "VPI‑3 y bronquiolitis en lactantes",
+      "texto": "El VPI‑3 predomina en menores de 6 meses, ocasionando bronquiolitis y neumonía clínicamente indistinguibles de las causadas por VSR. Solicitar panel viral respiratorio para confirmar el agente y guiar el pronóstico en lactantes hospitalizados."
+    },
+    {
+      "titulo": "VPI‑4 y compromiso neurológico",
+      "texto": "Aunque el VPI‑4 raramente causa crup, se asocia con enfermedad respiratoria baja, hipoxemia y complicaciones neurológicas ocasionales. Mantener un umbral de sospecha alto en cuadros atípicos o con síntomas extrapulmonares."
+    },
+    {
+      "titulo": "Gravedad en inmunocomprometidos",
+      "texto": "Los lactantes, niños inmunocomprometidos y quienes viven en entornos de bajos recursos presentan las formas más graves de infección por VPI. Escalar el monitoreo clínico y considerar manejo hospitalario precoz en estos grupos."
+    },
+    {
+      "titulo": "Terapéuticas en desarrollo",
+      "texto": "No existen antivirales ni vacunas autorizadas. Antivirales basados en sialidasas, anticuerpos monoclonales de amplio espectro y vacunas de ARN mensajero muestran resultados preliminares prometedores en ensayos pediátricos; mantenerse actualizado sobre su disponibilidad futura."
+    }
+  ],
+  "sintesis": "Los virus parainfluenza (VPI) causan cerca de 19 millones de infecciones respiratorias bajas anuales en menores de 5 años, ocupando el segundo lugar tras el VSR. Cada uno de los cuatro tipos difiere en tropismo, síndromes clínicos y gravedad; reconocer estas diferencias permite interpretar mejor el diagnóstico molecular y orientar el manejo.",
+  "aplicacionDocente": "Durante las rondas, diferenciar el agente viral según edad y síndrome clínico: VPI‑1 en crup del preescolar, VPI‑3 en bronquiolitis del lactante, VPI‑4 en enfermedad baja con hipoxemia. Usar el panel molecular para confirmar el tipo y discutir con residentes cómo la identidad viral modula pronóstico y seguimiento.",
+  "infografia": "/img/infografias/2026-11-16-beyond-croup-a-phenotype-based-perspective-on-parainfluenza-virus-types-in-child.png",
+  "disenoEstudio": "Revisión narrativa de la epidemiología, manifestaciones clínicas y terapéuticas emergentes de los cuatro tipos de VPI en población pediátrica",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Cuatro tipos, cuatro síndromes: reconocer el VPI correcto mejora el manejo pediátrico",
+  "etiquetas": [
+    "virus parainfluenza",
+    "crup",
+    "bronquiolitis",
+    "diagnóstico molecular",
+    "infecciones respiratorias"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis cuantitativo; la síntesis de evidencia se basa en estudios heterogéneos y datos previos a la pandemia de COVID‑19.",
+  "generadoPor": "claude-sonnet-4-5"
+}

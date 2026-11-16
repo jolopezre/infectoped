@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-16-epidemiologic-variability-and-clinical-severity-across-11-influenza-seasons-in-c",
+  "estado": "publicado",
+  "pmid": "43035904",
+  "doi": "10.1097/INF.0000000000005470",
+  "titulo": "Epidemiologic Variability and Clinical Severity Across 11 Influenza Seasons in Children",
+  "tituloEs": "Variabilidad epidemiológica y gravedad clínica de influenza en niños durante 11 temporadas",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Taborda I",
+    "Tomé R",
+    "Santos Ferreira C",
+    "Oliveira Inácio R",
+    "Lopes M",
+    "Cruz AF",
+    "Graça da Conceição C",
+    "Lourenço Gonçalves D",
+    "M Pereira E",
+    "Oliveiros B",
+    "Gil AT",
+    "Gata L"
+  ],
+  "fechaPublicacion": "2026 Nov 16",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43035904/",
+  "resumenOriginal": "Background: Influenza is a major cause of respiratory illness, contributing substantially to morbidity and mortality in children. Seasonal influenza epidemics were profoundly disrupted by the coronavirus disease 2019 (COVID-19) pandemic. Whether the clinical presentation and disease severity differ according to influenza virus type and subtype remains incompletely understood. This study aimed to describe temporal changes in epidemiology, clinical characteristics, outcomes and healthcare utilization among laboratory-confirmed pediatric influenza cases over 11 seasons and to explore associations between virus type/subtype and clinically important outcomes.\n\nMethods: We conducted a retrospective observational study at a tertiary pediatric hospital, including all laboratory-confirmed influenza cases identified in children presenting with acute respiratory infection between July 2015 and June 2026, and analyzed the distribution of cases and their demographic and clinical characteristics.\n\nResults: Influenza was detected in 3105 children (median age, 4 years), the majority of whom were previously healthy (82.4%). Within this cohort, hospitalization was required in 17.9% of cases, with 1.1% requiring intensive care admission, and 22.8% developing complications, including encephalitis and sepsis. Influenza circulation patterns, including the timing of peak activity and the duration of annual epidemics, varied over time. After an 18-month absence of reported cases during the COVID-19 pandemic, the 2021-2022 season was marked by a substantial resurgence, followed by 2 years of atypical year-round circulation before returning to the usual seasonal pattern. Influenza A accounted for 72.3% of cases, with alternating predominance of virus types and subtypes without a consistent epidemiologic pattern. In a restricted type/subtype analysis, influenza A(H1N1) cases had a higher frequency of hospitalization and recorded moderate-to-severe complications, and this association remained statistically significant after multivariable analysis.\n\nConclusions: Influenza was associated with clinically important illness and healthcare use among children in this hospital-based cohort, most commonly among otherwise healthy children, highlighting the importance of influenza prevention strategies. During and after the COVID-19 pandemic, influenza epidemiology changed markedly, underscoring the need for continued surveillance.",
+  "mesh": [],
+  "palabrasClave": [
+    "children",
+    "disease severity",
+    "epidemiology",
+    "influenza",
+    "subtype",
+    "type"
+  ],
+  "temas": [
+    "Sepsis y cuidado crítico",
+    "Infecciones respiratorias"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Influenza A(H1N1) y gravedad",
+      "texto": "El subtipo A(H1N1) se asoció con mayor frecuencia de hospitalización y complicaciones moderadas a graves en análisis multivariable. Mantener alto índice de sospecha en niños con infección respiratoria aguda."
+    },
+    {
+      "titulo": "Población vulnerable",
+      "texto": "Más de 8 de cada 10 casos ocurrieron en niños previamente sanos, lo que refuerza la importancia de la vacunación universal contra influenza en edad pediátrica."
+    },
+    {
+      "titulo": "Complicaciones no respiratorias",
+      "texto": "El estudio documentó complicaciones como encefalitis y sepsis en casi una cuarta parte de los casos. Considerar influenza en el diagnóstico diferencial de cuadros neurológicos o sépticos durante circulación viral."
+    },
+    {
+      "titulo": "Cambio en la estacionalidad",
+      "texto": "Tras la pandemia, se observaron dos años de circulación atípica durante todo el año. Mantener vigilancia clínica y microbiológica fuera de los períodos estacionales tradicionales."
+    },
+    {
+      "titulo": "Carga asistencial hospitalaria",
+      "texto": "Uno de cada cinco niños con influenza confirmada requirió hospitalización y 1,1% ingreso a UCIP. Planificar recursos asistenciales según patrones epidemiológicos locales y vigilancia activa."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 3105 niños con influenza confirmada (2015–2026) mostró que 82,4% eran previamente sanos; 17,9% requirió hospitalización y 22,8% desarrolló complicaciones. Influenza A(H1N1) se asoció con mayor hospitalización y complicaciones moderadas a graves. La pandemia de COVID-19 interrumpió la circulación estacional durante 18 meses, seguida de dos años de circulación atípica.",
+  "aplicacionDocente": "Durante las rondas hospitalarias, discutir con residentes cómo la identificación del subtipo de influenza (A(H1N1) versus otros) puede ayudar a anticipar evolución clínica y necesidad de vigilancia estrecha. Revisar en casos reales las complicaciones extrapulmonares (encefalitis, sepsis) para fortalecer el diagnóstico diferencial en niños previamente sanos con deterioro clínico inesperado.",
+  "infografia": "/img/infografias/2026-11-16-epidemiologic-variability-and-clinical-severity-across-11-influenza-seasons-in-c.png",
+  "disenoEstudio": "Estudio observacional retrospectivo en 3105 niños con influenza confirmada por laboratorio en un hospital pediátrico terciario, 11 temporadas (2015–2026)",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Influenza A(H1N1) se asocia con mayor hospitalización y complicaciones en niños",
+  "etiquetas": [
+    "influenza",
+    "epidemiología pediátrica",
+    "influenza a(h1n1)",
+    "complicaciones neurológicas",
+    "vigilancia"
+  ],
+  "advertencia": "Estudio observacional en un solo centro terciario, sin grupo control; la gravedad puede estar influida por sesgo de derivación y las asociaciones no prueban causalidad.",
+  "generadoPor": "claude-sonnet-4-5"
+}

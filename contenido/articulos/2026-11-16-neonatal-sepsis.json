@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-16-neonatal-sepsis",
+  "estado": "publicado",
+  "pmid": "43020853",
+  "doi": "10.1038/s41572-026-00751-5",
+  "titulo": "Neonatal sepsis",
+  "tituloEs": "Sepsis neonatal: brechas en diagnóstico, tratamiento y prevención en países de ingresos medios y bajos",
+  "revista": "Nature reviews. Disease primers",
+  "autores": [
+    "Dramowski A",
+    "Bekker A",
+    "Bielicki J",
+    "Fitzgerald F",
+    "Johnson J",
+    "Lloyd L",
+    "Namiiro F",
+    "Sankar MJ",
+    "Williams PCM",
+    "Velaphi SC"
+  ],
+  "fechaPublicacion": "2026 Nov 12",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43020853/",
+  "resumenOriginal": "Neonatal sepsis and preterm birth are leading contributors to childhood death and disability in sepsis survivors. Whereas deaths from infectious diseases of childhood have declined substantially worldwide, progress in reducing neonatal sepsis burden and impact has stagnated in many low-income and middle-income countries. Efforts to track and prevent neonatal sepsis are hampered by the lack of a universally accepted case definition, gaps in global surveillance programmes, varied clinical presentations, and paucity of accurate and affordable sepsis diagnostics. The changing epidemiology of neonatal sepsis with predominance of Gram-negative pathogens, antimicrobial resistance, scarcity of&#xa0;and inequitable access to novel antibiotics, and under-representation of neonates in antibiotic clinical trials, are key issues impeding optimal treatment. Research and programmatic interventions to accelerate neonatal sepsis prevention and treatment should be prioritized alongside preterm birth prevention. Key actions&#xa0;include improving clinical care and infection prevention practices, and developing new diagnostic tests and vaccines that&#xa0;target the most&#xa0;common neonatal sepsis pathogens, particularly those responsible for the greatest morbidity and mortality.",
+  "mesh": [
+    "Humans",
+    "Infant, Newborn",
+    "Neonatal Sepsis",
+    "Anti-Bacterial Agents"
+  ],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 32.5,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Predominio gramnegativo actual",
+      "texto": "La epidemiología de sepsis neonatal ha cambiado: hoy predominan patógenos gramnegativos con resistencia antimicrobiana creciente. Ajustar la cobertura empírica inicial según la epidemiología local es prioritario."
+    },
+    {
+      "titulo": "Hemocultivo antes de antibióticos",
+      "texto": "Ante sospecha de sepsis, obtener hemocultivo antes de la primera dosis de antibiótico. El diagnóstico microbiológico guía el escalamiento o desescalamiento terapéutico."
+    },
+    {
+      "titulo": "Prevención junto a prematuridad",
+      "texto": "Sepsis neonatal y nacimiento prematuro comparten carga de morbimortalidad. Las intervenciones de prevención de infecciones deben priorizarse de forma conjunta con estrategias de reducción de parto pretérmino."
+    },
+    {
+      "titulo": "Acceso inequitativo a antibióticos",
+      "texto": "El acceso a antibióticos de segunda línea es desigual, especialmente en países de ingresos medios y bajos. Considerar la disponibilidad local al plantear esquemas de tratamiento."
+    },
+    {
+      "titulo": "Diagnóstico clínico limitado",
+      "texto": "La presentación clínica de sepsis neonatal es inespecífica. Mantener alto índice de sospecha y no depender únicamente de signos clínicos para iniciar o suspender tratamiento."
+    }
+  ],
+  "sintesis": "Esta revisión analiza la sepsis neonatal como causa principal de muerte y discapacidad infantil. Señala obstáculos críticos: falta de definición universal, presentación clínica variable, escasez de diagnósticos accesibles y predominio de patógenos gramnegativos resistentes. Destaca la necesidad de mejorar prácticas de prevención, desarrollar nuevas pruebas diagnósticas y vacunas dirigidas.",
+  "aplicacionDocente": "En la discusión de casos con residentes, analizar la epidemiología local de sepsis neonatal y los patrones de resistencia de la unidad. Revisar el momento de toma de hemocultivo, la adecuación de la cobertura empírica inicial y la importancia de integrar las medidas de prevención de infecciones con el manejo de prematuros.",
+  "infografia": "/img/infografias/2026-11-16-neonatal-sepsis.png",
+  "disenoEstudio": "Revisión narrativa sobre epidemiología, diagnóstico y manejo de sepsis neonatal a nivel global",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Sepsis neonatal: hoy predominan gramnegativos resistentes y el diagnóstico sigue siendo difícil",
+  "etiquetas": [
+    "sepsis neonatal",
+    "resistencia antimicrobiana",
+    "diagnóstico",
+    "prevención de infecciones",
+    "neonatología"
+  ],
+  "advertencia": "Revisión narrativa sin metaanálisis cuantitativo; no permite extraer estimaciones puntuales de eficacia de intervenciones específicas.",
+  "generadoPor": "claude-sonnet-4-5"
+}
