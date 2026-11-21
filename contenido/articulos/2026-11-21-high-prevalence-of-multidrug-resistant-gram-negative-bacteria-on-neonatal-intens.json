@@ -1,0 +1,84 @@
+{
+  "id": "2026-11-21-high-prevalence-of-multidrug-resistant-gram-negative-bacteria-on-neonatal-intens",
+  "estado": "publicado",
+  "pmid": "43046301",
+  "doi": "10.1097/INF.0000000000005449",
+  "titulo": "High Prevalence of Multidrug-resistant Gram-negative Bacteria on Neonatal Intensive Care Unit Surfaces at a Tertiary Hospital in Kampala, Uganda",
+  "tituloEs": "Alta contaminación por bacterias multirresistentes en superficies de UCIN en Uganda",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Wamawobe A",
+    "Hookham L",
+    "Nabirye L",
+    "Namazzi M",
+    "Davies HG",
+    "Nanfuka P",
+    "Kyohere M",
+    "Kajumbula H",
+    "Musoke P",
+    "Le Doare K",
+    "Sekikubo M"
+  ],
+  "fechaPublicacion": "2026 Nov 18",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43046301/",
+  "resumenOriginal": "Background: About 60% of neonatal sepsis cases are hospital-acquired and are often caused by Gram-negative bacteria, with a high rate of antimicrobial resistance. Outbreaks of multidrug-resistant bacteria in neonatal units occur at rates 20 times higher in low- and middle-income countries than in high-income settings. We conducted 4 rounds (R1-4) of environmental sampling in a neonatal intensive care unit (NICU) in Kampala, Uganda, to inform an infection prevention and control (IPC) program tailored to a resource-limited setting.\n\nMethods: Eighty-two swabs were taken over 12 months (2021-2022) from n = 13 high-touch surfaces, n = 10 low-touch surfaces (R1-3) and n = 6 staff items (R4). Potential pathogens were identified using standard biochemical methods. Antimicrobial susceptibility testing was performed using Kirby-Bauer disk diffusion. Hand hygiene audits were conducted throughout the study period. A collaborative working group of NICU, IPC and research staff co-developed IPC interventions.\n\nResults: Of 146 organisms isolated, 127 (82%) were potential pathogens, predominantly Pseudomonas spp., Acinetobacter spp. and Citrobacter spp. High-touch sites such as sinks, cots and drug trolleys showed persistent contamination. Resistance to first-line antibiotics was high: gentamicin (48/91, 52%), ampicillin (25/25, 100%) and ceftazidime (30/91, 33%). After color-coded feedback, a unit-wide deep clean reduced potential pathogens by 60% from R1 (n = 63) to R2 (n = 25). However, levels rebounded in R3 (n = 32), representing a 21% increase compared with R2 (n = 25), highlighting inconsistencies in cleaning.\n\nConclusions: Targeted environmental cleaning can reduce NICU contamination by multidrug-resistant Gram-negative bacterial pathogens. Sinks were persistent reservoirs, underscoring the need for consistent daily cleaning and staff engagement. In low- and middle-income country settings, simple, low-cost IPC measures informed by environmental surveillance may support sustainable hospital-acquired infection reduction.",
+  "mesh": [],
+  "palabrasClave": [
+    "antimicrobial resistance",
+    "environmental hygiene",
+    "infection prevention",
+    "neonates",
+    "nosocomial",
+    "outbreaks"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 38,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-21",
+  "publicadoEl": "2026-11-21",
+  "tips": [
+    {
+      "titulo": "Lavabos como reservorios",
+      "texto": "Los lavabos mostraron contaminación persistente por Pseudomonas y Acinetobacter. Conviene reforzar su limpieza diaria con desinfectantes y evitar su uso para procedimientos que generen aerosoles cerca de los recién nacidos."
+    },
+    {
+      "titulo": "Resistencia a gentamicina",
+      "texto": "El 52% de los aislados mostró resistencia a gentamicina, antibiótico de primera línea en sepsis neonatal. Este hallazgo respalda la solicitud de hemocultivo antes del inicio de antibioticoterapia para guiar el tratamiento."
+    },
+    {
+      "titulo": "Limpieza profunda efectiva pero no sostenida",
+      "texto": "Una limpieza profunda única redujo la carga bacteriana ambiental en 60%, pero sin refuerzo la contaminación aumentó 21% en la siguiente ronda. La limpieza debe ser diaria y supervisada."
+    },
+    {
+      "titulo": "Superficies de alto contacto críticas",
+      "texto": "Cunas, carros de medicamentos y controles de bombas de infusión estuvieron persistentemente contaminados. Desinfectar estas superficies antes de cada turno puede interrumpir la transmisión horizontal."
+    },
+    {
+      "titulo": "Vigilancia ambiental de bajo costo",
+      "texto": "El muestreo periódico de superficies con retroalimentación visual al personal (mapas de calor codificados por color) es factible en entornos de recursos limitados y puede orientar medidas de prevención."
+    }
+  ],
+  "sintesis": "Estudio de vigilancia ambiental en una unidad de cuidados intensivos neonatal en Kampala identificó contaminación persistente por bacilos gramnegativos multirresistentes en superficies de alto contacto. Una limpieza profunda redujo la carga bacteriana en 60%, pero el efecto no se mantuvo sin refuerzo continuo.",
+  "aplicacionDocente": "Durante la ronda con residentes, señalar las superficies de alto contacto (cunas, lavabos, carros de medicamentos) y discutir cómo la contaminación ambiental contribuye a la sepsis neonatal tardía. Revisar los antibiogramas locales y ajustar la cobertura empírica cuando la resistencia a gentamicina supere el 50%, priorizando siempre el hemocultivo preantibiótco.",
+  "infografia": "/img/infografias/2026-11-21-high-prevalence-of-multidrug-resistant-gram-negative-bacteria-on-neonatal-intens.png",
+  "disenoEstudio": "Estudio de vigilancia ambiental prospectivo en 4 rondas durante 12 meses en una UCIN terciaria de Uganda",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Lavabos y cunas: reservorios de Pseudomonas multirresistente en UCIN de bajo recurso",
+  "etiquetas": [
+    "sepsis neonatal",
+    "resistencia antimicrobiana",
+    "prevención de infecciones",
+    "vigilancia ambiental",
+    "ucin"
+  ],
+  "advertencia": "Estudio descriptivo sin grupo control ni seguimiento de desenlaces clínicos (tasas de infección asociada a la atención); no permite establecer causalidad entre contaminación ambiental y sepsis neonatal.",
+  "generadoPor": "claude-sonnet-4-5"
+}

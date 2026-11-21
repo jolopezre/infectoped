@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-21-serum-calprotectin-in-early-neonatal-infection-added-value-beyond-interleukin-6-",
+  "estado": "publicado",
+  "pmid": "43058166",
+  "doi": "10.1038/s41390-026-05616-x",
+  "titulo": "Serum calprotectin in early neonatal infection: added value beyond interleukin-6 and C-reactive protein",
+  "tituloEs": "Calprotectina sérica en sepsis neonatal precoz: valor agregado a IL-6 y proteína C reactiva",
+  "revista": "Pediatric research",
+  "autores": [
+    "Holzapfel S",
+    "Wijaya-Kusuma T",
+    "Beyer S",
+    "Ammon L",
+    "Ehrenschwender M",
+    "Mack I",
+    "Wellmann S",
+    "Michel H"
+  ],
+  "fechaPublicacion": "2026 Nov 19",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43058166/",
+  "resumenOriginal": "Background: To evaluate the diagnostic performance of serum calprotectin (SCP) versus C-reactive protein (CRP) and interleukin-6 (IL-6) in newborns with suspected early-onset sepsis (EOS) and to identify neonatal and maternal determinants of SCP.\n\nMethods: Retrospective cohort study of SCP measurements from residual IL-6 material. Neonates undergoing infection evaluation within 48&#x2009;h after birth were included. Diagnostic accuracy was assessed by receiver operating characteristics (ROC) analyses across time windows. Multivariable regression identified predictors of SCP.\n\nResults: Of 566 screened infants, 355 were included (median gestational age 38.1 weeks); infection was confirmed in 112 (31.4%), including 20 EOS (5.6%). At 0-18&#x2009;h, SCP showed moderate accuracy (area under the curve (AUC) 0.735), slightly lower than IL-6 but higher than CRP. SCP peaked at 30-45&#x2009;h (AUC 0.975). IL-6 had the highest negative predictive value (NPV), combining it with SCP improved discrimination. CRP performed best at 18-30&#x2009;h (AUC 0.932) and >45&#x2009;h (0.943). Gestational age, meconium-stained amniotic fluid and multiple gestation predicted higher SCP.\n\nConclusion: SCP shows time-dependent performance, reaching high accuracy at 30-45&#x2009;h and adding value to IL-6-based assessment. It may support multimodal sepsis diagnostics, prospective studies should validate cut-offs and its role in preterm infants.\n\nImpact: Serum calprotectin showed time-dependent diagnostic performance in neonates with suspected early-onset infection. Serum calprotectin added value to early IL-6-based assessment and showed strongest stand-alone performance at 30-45&#x2009;h after initiation of infection evaluation. These findings support time-adapted biomarker interpretation and warrant prospective evaluation of the potential role of SCP in neonatal antibiotic stewardship.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 33,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-21",
+  "publicadoEl": "2026-11-21",
+  "tips": [
+    {
+      "titulo": "Interpretación según tiempo de vida",
+      "texto": "La calprotectina sérica alcanza su máxima precisión diagnóstica entre las 30 y 45 horas de vida. Considerarla en ese momento del algoritmo diagnóstico, no como marcador inicial."
+    },
+    {
+      "titulo": "Complementa la IL-6 temprana",
+      "texto": "Cuando se combina con IL-6 en la evaluación inicial, mejora la capacidad de discriminación. Puede reforzar la decisión de continuar o suspender antibióticos."
+    },
+    {
+      "titulo": "PCR mantiene su rol tradicional",
+      "texto": "La proteína C reactiva conserva su mejor desempeño entre las 18 y 30 horas y después de las 45 horas. La calprotectina no la reemplaza sino que la complementa."
+    },
+    {
+      "titulo": "Factores que elevan calprotectina basal",
+      "texto": "Edad gestacional mayor, líquido amniótico meconial y embarazo múltiple se asocian con valores más altos de calprotectina sérica, independientemente de la infección."
+    },
+    {
+      "titulo": "Valor predictivo negativo con IL-6",
+      "texto": "La IL-6 mantiene el valor predictivo negativo más alto. La calprotectina no sustituye este marcador temprano, sino que agrega información en ventanas posteriores."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo en 355 neonatos evaluados por sospecha de sepsis de inicio precoz. La calprotectina sérica mostró desempeño diagnóstico variable según el tiempo: moderado en las primeras 18 horas, pero alcanzó alta precisión entre las 30 y 45 horas, complementando la evaluación basada en IL-6.",
+  "aplicacionDocente": "Al discutir un caso de sepsis de inicio precoz, revisar con residentes la secuencia temporal de biomarcadores: IL-6 en las primeras horas, calprotectina sérica entre 30 y 45 horas, PCR a partir de las 18 horas. Analizar cómo la combinación de marcadores en distintos momentos permite mayor seguridad para el retiro de antibióticos.",
+  "infografia": "/img/infografias/2026-11-21-serum-calprotectin-in-early-neonatal-infection-added-value-beyond-interleukin-6-.png",
+  "disenoEstudio": "Estudio de cohorte retrospectivo en 355 neonatos evaluados por sepsis de inicio precoz en las primeras 48 horas de vida",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Calprotectina sérica: máxima precisión diagnóstica entre 30 y 45 horas de vida",
+  "etiquetas": [
+    "sepsis neonatal",
+    "biomarcadores",
+    "calprotectina",
+    "diagnóstico temprano",
+    "antibioticoterapia"
+  ],
+  "advertencia": "Estudio retrospectivo sin validación prospectiva de puntos de corte; población predominantemente a término limita la extrapolación a prematuros.",
+  "generadoPor": "claude-sonnet-4-5"
+}

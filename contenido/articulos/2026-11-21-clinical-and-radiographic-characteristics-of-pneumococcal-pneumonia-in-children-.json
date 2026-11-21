@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-21-clinical-and-radiographic-characteristics-of-pneumococcal-pneumonia-in-children-",
+  "estado": "publicado",
+  "pmid": "43052687",
+  "doi": "10.1177/00099228261505246",
+  "titulo": "Clinical and Radiographic Characteristics of Pneumococcal Pneumonia in Children: A Case Series",
+  "tituloEs": "Características clínicas y radiográficas de la neumonía neumocócica en niños",
+  "revista": "Clinical pediatrics",
+  "autores": [
+    "Flanagan D",
+    "Schumacher S",
+    "Drescher C",
+    "Stivers T",
+    "Monuteaux MC",
+    "Neuman MI"
+  ],
+  "fechaPublicacion": "2026 Nov 18",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43052687/",
+  "resumenOriginal": "Given the decline in pneumococcal infections related to widespread childhood vaccinations in the United States, we evaluate the rate of Streptococcus pneumoniae and also report the demographic and radiographic characteristics of children with pneumococcal pneumonia in the post-pneumococcal conjugate vaccine era. We studied the prevalence of medical comorbidities, clinical presentations and outcomes, antibiotic susceptibility results, and radiographic findings among children aged less than 18 years presenting to a pediatric Emergency Department between 2010 and 2023 with a diagnosis of pneumonia and detection of Streptococcus pneumoniae in blood and/or pleural fluid. Of the 31 cases of pneumococcal pneumonia, over 50% occurred among children less than 5 years of age, and 71% of children had medical comorbidities. Eighty percent of children had radiographic pneumonia; the most common radiographic findings included opacities (71.0%), consolidation (29.0%), and pleural effusion (25.8%). Given high rates of antibiotic overtreatment, these findings may help clinicians to judiciously use antibiotics for children with pneumonia.",
+  "mesh": [],
+  "palabrasClave": [
+    "Streptococcus pneumoniae",
+    "bacteremia",
+    "pneumococcal pneumonia",
+    "pneumonia"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Sepsis y cuidado crítico",
+    "Infecciones respiratorias",
+    "Vacunas e inmunización"
+  ],
+  "puntaje": 37.5,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-21",
+  "publicadoEl": "2026-11-21",
+  "tips": [
+    {
+      "titulo": "Alta proporción de comorbilidades",
+      "texto": "El 71 % de los casos tenía comorbilidades médicas previas, lo que refuerza la importancia de la sospecha clínica en niños con factores de riesgo."
+    },
+    {
+      "titulo": "Hemocultivo y cultivo de líquido pleural",
+      "texto": "El diagnóstico se basó en la detección de S. pneumoniae en sangre o líquido pleural; considerar estos estudios en neumonía grave o complicada antes de iniciar antibióticos."
+    },
+    {
+      "titulo": "Hallazgos radiográficos más frecuentes",
+      "texto": "Las opacidades pulmonares estuvieron presentes en 71 % de los casos, seguidas de consolidación (29 %) y derrame pleural (26 %), hallazgos que orientan la sospecha de neumonía bacteriana."
+    },
+    {
+      "titulo": "Decisión antibiótica informada",
+      "texto": "El conocimiento de estas características puede ayudar a identificar casos de mayor probabilidad de etiología neumocócica y reducir el sobretratamiento antibiótico en neumonías virales."
+    },
+    {
+      "titulo": "Edad de mayor riesgo",
+      "texto": "Más de la mitad de los casos ocurrió en menores de 5 años, grupo en el que la evaluación clínica y radiográfica cobra especial relevancia."
+    }
+  ],
+  "sintesis": "Serie de 31 casos de neumonía neumocócica confirmada por cultivo (sangre o líquido pleural) en menores de 18 años, 2010–2023. Más del 50 % ocurrió en menores de 5 años; 71 % tenía comorbilidades. El 80 % mostró neumonía radiográfica, con opacidades (71 %), consolidación (29 %) y derrame pleural (26 %).",
+  "aplicacionDocente": "Esta serie refuerza la importancia de solicitar hemocultivo y, en derrames pleurales, cultivo del líquido antes de la primera dosis de antibiótico. Durante la discusión de casos, puede usarse para contrastar el patrón radiográfico (opacidades, consolidación, derrame) con la probabilidad de etiología neumocócica y ejercitar la indicación racional de antibióticos.",
+  "infografia": "/img/infografias/2026-11-21-clinical-and-radiographic-characteristics-of-pneumococcal-pneumonia-in-children-.png",
+  "disenoEstudio": "Serie de casos retrospectiva en 31 niños con neumonía neumocócica confirmada microbiológicamente, departamento de emergencias pediátricas, Estados Unidos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "71 % de los casos con comorbilidades; opacidades pulmonares en 71 % de las radiografías",
+  "etiquetas": [
+    "neumonía neumocócica",
+    "streptococcus pneumoniae",
+    "radiografía de tórax",
+    "hemocultivo",
+    "uso racional de antibióticos"
+  ],
+  "advertencia": "Serie de casos pequeña (n=31) y retrospectiva, sin grupo de comparación; los hallazgos radiográficos descritos no permiten diferenciar con certeza etiología bacteriana de viral en la práctica individual.",
+  "generadoPor": "claude-sonnet-4-5"
+}
