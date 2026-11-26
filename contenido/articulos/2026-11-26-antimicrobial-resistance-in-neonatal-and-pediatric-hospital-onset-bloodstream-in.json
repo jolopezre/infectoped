@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-26-antimicrobial-resistance-in-neonatal-and-pediatric-hospital-onset-bloodstream-in",
+  "estado": "publicado",
+  "pmid": "43091079",
+  "doi": "10.3390/jcm15229047",
+  "titulo": "Antimicrobial Resistance in Neonatal and Pediatric Hospital-Onset Bloodstream Infections: Evidence from Neonatal Units and Community Comparators",
+  "tituloEs": "Resistencia antimicrobiana en bacteriemias de inicio hospitalario en neonatos y niños",
+  "revista": "Journal of clinical medicine",
+  "autores": [
+    "Elkossi M",
+    "Aly SE",
+    "Elhoufey A",
+    "Temsah MH",
+    "Afifi WA",
+    "Wahsh E",
+    "Sawan ES",
+    "Alkashlan E",
+    "Alkhateb AA",
+    "Saad K"
+  ],
+  "fechaPublicacion": "2026 Nov 18",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43091079/",
+  "resumenOriginal": "Bloodstream infection (BSI) is a major cause of morbidity and mortality in neonates and children. This narrative review examines antimicrobial resistance (AMR) in pediatric BSI, with an emphasis on neonatal and hospital-onset infection. The literature was updated through 1 September 2026, using PubMed-indexed records and institutional guidance. Evidence was interpreted by age, infection setting, study design, and microbiological denominator. European and community-acquired cohorts show that pathogen distribution and resistance vary with age, care setting, and previous healthcare exposure. Extended-spectrum beta-lactamase-producing and carbapenem-resistant Enterobacterales limit empirical treatment options in several neonatal units. Observational data link discordant empirical therapy with higher mortality, although severity and healthcare exposure may confound this association. Differences in sampling, susceptibility testing, and surveillance coverage prevent a reliable comparison of global pediatric BSI trends. Candida auris is considered separately because colonization, invasive infection, and healthcare transmission require different responses. Priorities include obtaining adequate blood cultures, selecting empirical therapy based on age- and unit-specific susceptibility data, and promptly reviewing treatment when results become available. Harmonized surveillance and pediatric treatment studies are needed to determine which approaches improve clinical outcomes.",
+  "mesh": [],
+  "palabrasClave": [
+    "Enterobacterales",
+    "Klebsiella pneumoniae",
+    "antimicrobial resistance",
+    "antimicrobial stewardship",
+    "bloodstream infection",
+    "children",
+    "neonatal intensive care unit",
+    "neonates",
+    "sepsis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-26",
+  "publicadoEl": "2026-11-26",
+  "tips": [
+    {
+      "titulo": "Hemocultivo antes de antibiótico",
+      "texto": "Obtener volumen adecuado de hemocultivo antes de la primera dosis cuando se sospecha bacteriemia de inicio hospitalario en neonatos y lactantes hospitalizados."
+    },
+    {
+      "titulo": "Terapia empírica calibrada",
+      "texto": "Seleccionar el esquema empírico según datos locales de susceptibilidad estratificados por edad y unidad de atención, especialmente en unidades neonatales con circulación de Enterobacterales productoras de BLEE o resistentes a carbapenémicos."
+    },
+    {
+      "titulo": "Revisión temprana de cultivos",
+      "texto": "Revisar de manera sistemática los resultados microbiológicos en cuanto estén disponibles y ajustar el tratamiento para evitar terapia discordante, que se asocia con peor pronóstico."
+    },
+    {
+      "titulo": "Candida auris requiere protocolo específico",
+      "texto": "Distinguir colonización de infección invasora por Candida auris y aplicar medidas de control de transmisión hospitalaria diferenciadas del manejo habitual de candidemia."
+    },
+    {
+      "titulo": "Edad y contexto modifican patógenos",
+      "texto": "Considerar que la distribución de agentes y resistencias varía con la edad, el ámbito de atención y la exposición previa al sistema de salud al elegir cobertura empírica."
+    }
+  ],
+  "sintesis": "Esta revisión narrativa examina la resistencia antimicrobiana en infecciones del torrente sanguíneo pediátricas, con énfasis en población neonatal y casos de inicio hospitalario. La producción de betalactamasas de espectro extendido y la resistencia a carbapenémicos limitan las opciones empíricas en varias unidades neonatales, y la terapia discordante se asocia con mayor mortalidad.",
+  "aplicacionDocente": "Durante la ronda de UCIP o neonatología, discutir con residentes el antibiograma local y cómo la edad, el antecedente de hospitalización y el sitio de atención modifican la probabilidad de resistencia. Revisar casos de bacteriemia en los que el esquema inicial no cubrió el agente aislado y analizar el impacto en la evolución clínica y en la duración del tratamiento.",
+  "infografia": "/img/infografias/2026-11-26-antimicrobial-resistance-in-neonatal-and-pediatric-hospital-onset-bloodstream-in.png",
+  "disenoEstudio": "Revisión narrativa de cohortes europeas y comunitarias hasta septiembre de 2026",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Hemocultivo adecuado + terapia calibrada al antibiograma local reducen discordancia",
+  "etiquetas": [
+    "bacteriemia",
+    "resistencia antimicrobiana",
+    "neonatología",
+    "BLEE",
+    "terapia empírica"
+  ],
+  "advertencia": "La heterogeneidad en métodos de muestreo, pruebas de susceptibilidad y sistemas de vigilancia impide comparar tendencias globales de manera confiable.",
+  "generadoPor": "claude-sonnet-4-5"
+}

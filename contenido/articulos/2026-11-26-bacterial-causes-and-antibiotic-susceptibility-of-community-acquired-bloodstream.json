@@ -1,0 +1,75 @@
+{
+  "id": "2026-11-26-bacterial-causes-and-antibiotic-susceptibility-of-community-acquired-bloodstream",
+  "estado": "publicado",
+  "pmid": "43077709",
+  "doi": "10.4269/ajtmh.25-0336",
+  "titulo": "Bacterial Causes and Antibiotic Susceptibility of Community-Acquired Bloodstream Infections in Children Aged 2 and Younger at a Tertiary Hospital in Ndola, Zambia",
+  "tituloEs": "Bacterias y resistencia en bacteriemias adquiridas en la comunidad en niños menores de 2 años en Zambia",
+  "revista": "The American journal of tropical medicine and hygiene",
+  "autores": [
+    "Gwasupika J",
+    "Sakala N",
+    "Banda R",
+    "Ukwimi E",
+    "Zulu C",
+    "Sulu M",
+    "Chisapi L",
+    "Hamer DH",
+    "Jacobs C"
+  ],
+  "fechaPublicacion": "2026 Nov 24",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43077709/",
+  "resumenOriginal": "Bacterial bloodstream infections are common causes of acute febrile illness in children. Sepsis, a condition of global public health concern, is a major cause of morbidity and mortality in Zambia. This study aimed to characterize common bacteria, associated factors, and resistance patterns of community-acquired bloodstream infections in children ages 2 years old and younger at Arthur Davison Children's Hospital. This cross-sectional study was conducted among children admitted with a temperature &#x2265;38.0&#xb0;C and clinical features of sepsis from January to June 2024. Blood cultures were incubated at 37&#xb0;C; species identification and antibiotic susceptibility testing were done on positive cultures. Multivariable logistic regression was used for association of factors. Of 200 children screened, 175 had blood culture results, but 28 had contaminant cultures; 51 of 147 blood cultures (34.7%) yielded pathogenic bacterial isolates. Common pathogenic isolated bacteria were Klebsiella pneumoniae (n = 14/51, 27.5%), Staphylococcus aureus (n = 11/51, 21.6%), Enterobacter spp. (n = 6/51, 11.8%), and Escherichia coli (n = 4/51, 7.8%). More than half of S. aureus (n = 6/11, 54.5%) were methicillin-resistant. Factors associated with positive blood culture result were history of breathing difficulties (adjusted odds ratio [AOR] = 4.19, 95% CI: 1.12-15.65) and weight-for-age Z-score &#x2265;-2 SDs compared with <-2SD (AOR = 0.22, 95% CI: 0.07-0.70). The proportion of Gram-negative pathogenic community-acquired bloodstream infection bacteria isolated was 62.7% (n = 32/51), and at least four of seven isolated species were multidrug resistant. We recommend implementation of infection prevention measures and strengthened antimicrobial stewardship programs.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Sepsis y cuidado crítico",
+    "Diagnóstico microbiológico"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-26",
+  "publicadoEl": "2026-11-26",
+  "tips": [
+    {
+      "titulo": "Alta tasa de bacteriemia",
+      "texto": "Uno de cada tres niños febriles hospitalizados con sospecha de sepsis tuvo hemocultivo positivo. Solicitar hemocultivo antes del inicio de antibióticos en esta población es una práctica de alto rendimiento diagnóstico."
+    },
+    {
+      "titulo": "Perfil bacteriano local predominante",
+      "texto": "Klebsiella pneumoniae y Staphylococcus aureus representaron casi la mitad de los aislamientos. Conocer la epidemiología local orienta la selección empírica de antibióticos en sepsis."
+    },
+    {
+      "titulo": "Resistencia elevada en patógenos comunes",
+      "texto": "Más del 50% de S. aureus fue resistente a meticilina y cuatro de siete especies gramnegativas mostraron multirresistencia. Considerar vancomicina y cefalosporinas de tercera generación según antibiograma local."
+    },
+    {
+      "titulo": "Factores asociados con bacteriemia",
+      "texto": "La dificultad respiratoria cuadruplica la probabilidad de bacteriemia documentada. Los niños con mejor estado nutricional (Z-score ≥-2 DE) tuvieron menor riesgo."
+    },
+    {
+      "titulo": "Prevención y uso racional",
+      "texto": "El elevado porcentaje de resistencia refuerza la necesidad de programas de control de infecciones y de gestión antimicrobiana en entornos pediátricos de recursos limitados."
+    }
+  ],
+  "sintesis": "Estudio transversal en 175 niños hospitalizados con fiebre y sepsis en Zambia. El 34,7% presentó bacteriemia documentada; Klebsiella pneumoniae y Staphylococcus aureus fueron los patógenos más frecuentes. Más de la mitad de S. aureus fue resistente a meticilina y cuatro de siete especies gramnegativas fueron multirresistentes.",
+  "aplicacionDocente": "Durante la ronda con residentes, enfatizar que la epidemiología local define la elección empírica del antibiótico. Revisar con el equipo los antibiogramas institucionales y discutir cuándo solicitar hemocultivo en niños febriles con sepsis, especialmente si hay dificultad respiratoria o desnutrición, dos marcadores clínicos de alto riesgo para bacteriemia.",
+  "infografia": "/img/infografias/2026-11-26-bacterial-causes-and-antibiotic-susceptibility-of-community-acquired-bloodstream.png",
+  "disenoEstudio": "Estudio transversal en 175 niños menores de 2 años con fiebre ≥38°C y signos de sepsis en hospital terciario de Zambia",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "1 de cada 3 niños febriles con sepsis en Zambia tuvo bacteriemia documentada",
+  "etiquetas": [
+    "bacteriemia",
+    "sepsis pediátrica",
+    "resistencia antimicrobiana",
+    "zambia",
+    "klebsiella"
+  ],
+  "advertencia": "Estudio unicéntrico sin grupo control ni seguimiento clínico, lo que limita la generalización de los hallazgos y no permite establecer relación causal entre factores asociados y evolución del paciente.",
+  "generadoPor": "claude-sonnet-4-5"
+}

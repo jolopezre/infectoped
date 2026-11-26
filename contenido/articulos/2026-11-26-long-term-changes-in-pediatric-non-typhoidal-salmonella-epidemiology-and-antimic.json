@@ -1,0 +1,76 @@
+{
+  "id": "2026-11-26-long-term-changes-in-pediatric-non-typhoidal-salmonella-epidemiology-and-antimic",
+  "estado": "publicado",
+  "pmid": "43074138",
+  "doi": "10.1097/INF.0000000000005477",
+  "titulo": "Long-term Changes in Pediatric Non-typhoidal Salmonella Epidemiology and Antimicrobial Resistance in Taiwan",
+  "tituloEs": "Cambios en la epidemiología y resistencia antimicrobiana de Salmonella no tifoidea pediátrica",
+  "revista": "The Pediatric infectious disease journal",
+  "autores": [
+    "Huang YF",
+    "Liu PY",
+    "Huang SM",
+    "Chen CH",
+    "Hung KL",
+    "Lee HS"
+  ],
+  "fechaPublicacion": "2026 Nov 24",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43074138/",
+  "resumenOriginal": "Background: Non-typhoidal Salmonella (NTS) remains a major cause of pediatric bacterial gastroenteritis. We investigated long-term changes in serogroup distribution and antimicrobial resistance (AMR) among pediatric NTS isolates in Taiwan.\n\nMethods: This retrospective surveillance study included children (<18 years) with culture-confirmed NTS gastroenteritis. Historical serogroup data were collected at Kaohsiung Veterans General Hospital during 1996-2002 and 2009-2015, and AMR patterns were compared with a contemporary cohort from Fu Jen Catholic University Hospital during 2024-2025. Susceptibility testing used disk diffusion for historical isolates and automated broth microdilution for contemporary isolates, with interpretation according to applicable Clinical and Laboratory Standards Institute standards.\n\nResults: Serogroup B declined from 72.3% (225/311) in 1996-2002 to 46.2% (399/864) in 2009-2015, whereas serogroup D increased from 8.4% (26/311) to 32.5% (281/864). Ampicillin resistance was 60.5% and 42.6% in the historical cohorts; among 4 contemporary isolates tested, 2 were resistant (50.0%, 2/4). Trimethoprim-sulfamethoxazole resistance decreased from 46.1% to 16.7% and then rose to 57.1% in the contemporary cohort. Resistance to ciprofloxacin and third-generation cephalosporins was detected in 28.6% and 14.3% of contemporary isolates, respectively; all 7 contemporary isolates were susceptible to cefepime, cefoperazone-sulbactam, imipenem and ertapenem.\n\nConclusions: Pediatric NTS epidemiology in Taiwan changed substantially over 2 historical surveillance periods. Resistance to ciprofloxacin and third-generation cephalosporins was detected in the small contemporary comparison cohort, supporting continued culture-based surveillance, susceptibility-guided treatment, and antimicrobial stewardship.",
+  "mesh": [],
+  "palabrasClave": [
+    "One Health",
+    "Taiwan",
+    "antimicrobial resistance",
+    "children",
+    "gastroenteritis"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-26",
+  "publicadoEl": "2026-11-26",
+  "tips": [
+    {
+      "titulo": "Solicitar coprocultivo antes del tratamiento",
+      "texto": "El coprocultivo con antibiograma orienta la selección de antimicrobianos ante SNT resistente, especialmente cuando se considera terapia dirigida en casos invasivos o de riesgo."
+    },
+    {
+      "titulo": "Ciprofloxacino ya no es opción empírica",
+      "texto": "La resistencia a ciprofloxacino alcanzó 28,6% en la cohorte contemporánea; reservar fluoroquinolonas para casos con confirmación de susceptibilidad en antibiograma."
+    },
+    {
+      "titulo": "Cefalosporinas de cuarta generación conservan actividad",
+      "texto": "Cefepime mostró susceptibilidad en todos los aislados contemporáneos, constituyendo una opción cuando se detecta resistencia a cefalosporinas de tercera generación."
+    },
+    {
+      "titulo": "Trimetoprima-sulfametoxazol: patrón de resistencia variable",
+      "texto": "La resistencia a trimetoprima-sulfametoxazol mostró descenso intermedio y repunte reciente (57,1%), limitando su uso empírico sin antibiograma."
+    },
+    {
+      "titulo": "Carbapenémicos mantienen eficacia plena",
+      "texto": "Imipenem y ertapenem conservaron 100% de susceptibilidad; considerar su uso en casos graves con resistencia documentada a múltiples antimicrobianos de primera línea."
+    }
+  ],
+  "sintesis": "Estudio de vigilancia retrospectiva en Taiwán que documenta cambios en serogrupos de Salmonella no tifoidea (SNT) y resistencia antimicrobiana durante tres períodos (1996-2025). Se observó redistribución de serogrupos, persistencia de resistencia a ampicilina y aparición de resistencia a ciprofloxacino y cefalosporinas de tercera generación en la cohorte contemporánea.",
+  "aplicacionDocente": "Durante la discusión de gastroenteritis bacteriana en rounds, contrastar los patrones históricos y contemporáneos de resistencia permite enseñar principios de vigilancia epidemiológica y uso racional de antimicrobianos. Resaltar que la elección empírica debe considerar datos de vigilancia local y que el coprocultivo sigue siendo herramienta clave para decisiones terapéuticas dirigidas.",
+  "infografia": "/img/infografias/2026-11-26-long-term-changes-in-pediatric-non-typhoidal-salmonella-epidemiology-and-antimic.png",
+  "disenoEstudio": "Vigilancia retrospectiva multicéntrica en niños <18 años con gastroenteritis por SNT confirmada por cultivo, Taiwán",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Resistencia a ciprofloxacino en 1 de cada 3 casos contemporáneos de Salmonella pediátrica",
+  "etiquetas": [
+    "salmonella no tifoidea",
+    "resistencia antimicrobiana",
+    "gastroenteritis",
+    "vigilancia epidemiológica",
+    "pediatría"
+  ],
+  "advertencia": "Cohorte contemporánea muy pequeña (n=7), lo que limita la precisión de las estimaciones de resistencia y su extrapolación a otras poblaciones.",
+  "generadoPor": "claude-sonnet-4-5"
+}

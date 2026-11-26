@@ -1,0 +1,93 @@
+{
+  "id": "2026-11-26-bacterial-etiology-and-antimicrobial-resistance-patterns-of-urinary-tract-infect",
+  "estado": "publicado",
+  "pmid": "43079168",
+  "doi": "10.1007/s42770-026-02151-z",
+  "titulo": "Bacterial etiology and antimicrobial resistance patterns of urinary tract infections in Beni Mellal, Morocco",
+  "tituloEs": "Etiología y resistencia en infecciones urinarias: datos de Marruecos orientan la terapia empírica",
+  "revista": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+  "autores": [
+    "Hnini R",
+    "Silva E",
+    "Esselmani H",
+    "Ed-Dra A",
+    "Jandou I",
+    "Merzouki M",
+    "Chigr F"
+  ],
+  "fechaPublicacion": "2026 Nov 24",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43079168/",
+  "resumenOriginal": "Background: The emergence of multidrug-resistant pathogens responsible for both nosocomial and community-acquired urinary tract infections (UTIs) has critically compromised empirical therapeutic pathways for clinicians.\n\nObjective: This study aimed to evaluate the epidemiology and antimicrobial resistance patterns of uropathogens causing UTIs in both outpatients and hospitalized patients, encompassing children, adults, and older adults, referred to the Regional Hospital Center (RHC) of Beni Mellal, Morocco, between January and December 2018.\n\nMethods: A total of 800 cytobacteriological examinations of urine (ECBU) were analyzed, and the isolated uropathogens were evaluated for their susceptibility to various antimicrobial agents.\n\nResults: A total of 116 (14.5%) UTI/ECBU samples were positive, with a higher frequency observed in females (60.4%). UTIs were more frequent in outpatients (66.4%) than in hospitalized patients (33.6%). The highest frequencies were noted among females and older adults, followed by adults and children. Among the identified uropathogens, Enterobacteriaceae accounted for 97.7% of the isolates. Similar frequencies of Escherichia coli (E. coli) were observed between outpatients (75.3%) and hospitalized patients (71.8%), whereas Klebsiella pneumoniae (K. pneumoniae) showed a higher frequency in hospitalized individuals (25.6%). Additionally, Proteus mirabilis, Pseudomonas aeruginosa, and Staphylococcus aureus were isolated from UTI patients, albeit in lower frequencies.\n\nConclusion: Escherichia coli isolates displayed high phenotypic susceptibility to mecillinam (MEC), piperacillin/tazobactam (TZP), cefoxitin (FOX), and trimethoprim/sulfamethoxazole (SXT), while Klebsiella pneumoniae isolates were highly susceptible to TZP, cefotaxime (CTX), FOX, MEC, ciprofloxacin (CIP), and SXT. Conversely, E. coli isolates exhibited phenotypic resistance to ticarcillin (TIC), amoxicillin (AMX), cefotaxime (CTX), nalidixic acid (NA), amoxicillin/clavulanic acid (AMC), and ciprofloxacin (CIP), whereas K. pneumoniae isolates were resistant to AMX, TIC, AMC, and NA.\n\nWhat this study adds: In this study UTIs remain a primary driver of bacterial infections within the Beni Mellal-Khenifra region. While, Escherichia coli was the predominant pathogen across both outpatients and hospitalized patients, Klebsiella pneumoniae showed a distinctively higher prevalence in hospital settings. Escherichia coli isolat&#x200b;es displayed high phenotypic susceptibility to mecillinam (MEC), piperacillin-tazobactam (TZP), cefoxitin (FOX), and trimethoprim-sulfamethoxazole (SXT), and phenotypic resistance to ticarcillin (TIC), amoxicillin (AMX), cefotaxime (CTX), nalidixic acid (NA), amoxicillin/clavulanic acid (AMC), and ciprofloxacin (CIP), Whereas, Klebsiella pneumoniae isolates were highly susceptible to TZP, cefotaxime (CTX), FOX, MEC, ciprofloxacin (CIP), and SXT, and resistant to AMX, TIC, AMC, and NA. Other uropathogens, including Proteus mirabilis, Pseudomonas aeruginosa, and Staphylococcus aureus, were also identified, though at lower frequencies. These epidemiological insights provide a crucial foundation for optimizing empirical therapy, reducing regional UTI incidence, and curbing antimicrobial resistance. Ultimately, this work establishes a baseline for future regional surveillance, directly contributing to the development of Morocco's national resistance map.",
+  "mesh": [
+    "Humans",
+    "Urinary Tract Infections",
+    "Morocco",
+    "Female",
+    "Male",
+    "Anti-Bacterial Agents",
+    "Adult",
+    "Child",
+    "Aged",
+    "Microbial Sensitivity Tests",
+    "Adolescent",
+    "Child, Preschool"
+  ],
+  "palabrasClave": [
+    "E. coli",
+    "K. pneumonia",
+    "Antimicrobial resistance",
+    "Beni Mellal",
+    "Enterobacteriaceae",
+    "Urinary tract infections"
+  ],
+  "temas": [
+    "Antimicrobianos y PROA",
+    "Resistencia antimicrobiana",
+    "Infecciones respiratorias",
+    "Infecciones asociadas a la atención"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-26",
+  "publicadoEl": "2026-11-26",
+  "tips": [
+    {
+      "titulo": "Evitar amoxicilina en tratamiento empírico",
+      "texto": "E. coli aisló presentó resistencia elevada a amoxicilina, amoxicilina-clavulánico, cefotaxima y ciprofloxacina. Conviene reservar estos fármacos para casos con antibiograma confirmado."
+    },
+    {
+      "titulo": "Opciones conservadas para E. coli",
+      "texto": "Mecilinam, piperacilina-tazobactam, cefoxitina y trimetoprima-sulfametoxazol mantuvieron alta susceptibilidad. Considerar estos agentes en la selección empírica inicial cuando el contexto epidemiológico local sea comparable."
+    },
+    {
+      "titulo": "Klebsiella: mayor frecuencia intrahospitalaria",
+      "texto": "K. pneumoniae representó el 25.6 % de los aislamientos en pacientes hospitalizados. Ante infección urinaria nosocomial, ampliar la cobertura empírica más allá de E. coli."
+    },
+    {
+      "titulo": "Perfil diferencial de K. pneumoniae",
+      "texto": "Klebsiella mostró buena susceptibilidad a piperacilina-tazobactam, cefotaxima, cefoxitina y ciprofloxacina, pero resistencia a amoxicilina y amoxicilina-clavulánico. Este perfil orienta la elección cuando se sospecha este germen."
+    },
+    {
+      "titulo": "Vigilancia epidemiológica local esencial",
+      "texto": "Los patrones de resistencia varían regionalmente. Actualizar de forma periódica los antibiogramas acumulados del propio centro optimiza la selección empírica y reduce fallas terapéuticas."
+    }
+  ],
+  "sintesis": "Estudio microbiológico en 800 muestras de orina identifica Escherichia coli como principal uropatógeno, con alta resistencia a amoxicilina, cefotaxima y ciprofloxacina. Klebsiella pneumoniae mostró mayor frecuencia en pacientes hospitalizados. Los hallazgos permiten ajustar la antibioticoterapia empírica en regiones con perfiles de resistencia similares.",
+  "aplicacionDocente": "Al discutir un caso de infección urinaria febril en urgencias, mostrar cómo la prevalencia local de resistencias guía la elección del antibiótico inicial. Comparar el perfil de E. coli ambulatorio versus Klebsiella nosocomial para enseñar el concepto de epidemiología diferencial y ajuste terapéutico basado en el ámbito de adquisición.",
+  "infografia": "/img/infografias/2026-11-26-bacterial-etiology-and-antimicrobial-resistance-patterns-of-urinary-tract-infect.png",
+  "disenoEstudio": "Estudio observacional de 800 urocultivos en niños, adultos y mayores, ambulatorios y hospitalizados, en Marruecos durante 2018",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "E. coli resiste amoxicilina y ciprofloxacina: ajustar la terapia empírica de ITU",
+  "etiquetas": [
+    "infección urinaria",
+    "resistencia antimicrobiana",
+    "escherichia coli",
+    "klebsiella pneumoniae",
+    "antibioticoterapia empírica"
+  ],
+  "advertencia": "Estudio descriptivo regional sin grupo de comparación; la extrapolación directa a otras poblaciones requiere validación local del perfil de resistencias.",
+  "generadoPor": "claude-sonnet-4-5"
+}
